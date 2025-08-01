@@ -1,6 +1,6 @@
 import os
 import re
-from utils.constants import SAVE_DIR
+from utils.constants import VIDEOS_DIR
 from yt_dlp import YoutubeDL
 
 video_urls = [
@@ -43,4 +43,4 @@ def download_videos(urls, save_dir):
 
 
 if __name__ == "__main__":
-    download_videos(video_urls, SAVE_DIR)
+    download_videos(video_urls, VIDEOS_DIR)
