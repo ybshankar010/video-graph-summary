@@ -107,5 +107,5 @@ MIT License.
 
 ## 📣 Article + Demo
 
-📝 Blog: [https://ybshankar010.medium.com/the-bunny-the-fox-and-the-graph-building-a-video-qa-bot-038eb59f9d3a](https://ybshankar010.medium.com/the-bunny-the-fox-and-the-graph-building-a-video-qa-bot-038eb59f9d3a)
-💻 Code: [https://github.com/ybshankar010/video-graph-summary](https://github.com/ybshankar010/video-graph-summary)
+- 📝 Blog: [https://ybshankar010.medium.com/the-bunny-the-fox-and-the-graph-building-a-video-qa-bot-038eb59f9d3a](https://ybshankar010.medium.com/the-bunny-the-fox-and-the-graph-building-a-video-qa-bot-038eb59f9d3a)
+- 💻 Code: [https://github.com/ybshankar010/video-graph-summary](https://github.com/ybshankar010/video-graph-summary)
