@@ -1,0 +1,674 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="a blur" />
+    <node id="red and yellow" />
+    <node id="background" />
+    <node id="blur effect" />
+    <node id="red color" />
+    <node id="blurs" />
+    <node id="in the scene" />
+    <node id="light" />
+    <node id="red" />
+    <node id="effect" />
+    <node id="blury" />
+    <node id="red and yellow hue" />
+    <node id="blurriness" />
+    <node id="yellow" />
+    <node id="blur" />
+    <node id="red and orange" />
+    <node id="bo lights" />
+    <node id="on the background" />
+    <node id="present" />
+    <node id="lights" />
+    <node id="blurred" />
+    <node id="the cover" />
+    <node id="of the book" />
+    <node id="the book" />
+    <node id="the book of the book" />
+    <node id="the book of the book of the book" />
+    <node id="the book of the book of the book of the book" />
+    <node id="red and yellow color" />
+    <node id="circles" />
+    <node id="on background" />
+    <node id="in" />
+    <node id="on" />
+    <node id="red blur" />
+    <node id="yellow blur" />
+    <node id="hearts" />
+    <edge source="a blur" target="red and yellow" id="0">
+      <data key="d0">is composed of</data>
+    </edge>
+    <edge source="background" target="blur effect" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="2">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="3">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="4">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="5">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="6">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="7">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="8">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="9">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="10">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="11">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="12">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="13">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="14">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="15">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="16">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="17">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="18">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="19">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="20">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="21">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="22">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur effect" id="23">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red and yellow" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red and yellow" id="1">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red and yellow" id="2">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red and yellow" id="3">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red and yellow" id="4">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red and yellow" id="5">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red and yellow" id="6">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red and yellow" id="7">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red and yellow" id="8">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red and yellow" id="9">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red and yellow" id="10">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red and yellow" id="11">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red color" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="2">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="3">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="4">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="5">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="6">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="7">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="8">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="9">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="10">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="11">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="12">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="13">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="14">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="15">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="16">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="17">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="18">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="19">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="20">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="21">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="22">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="23">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="24">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="25">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="26">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="27">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="28">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="29">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="30">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="31">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="32">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="33">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="34">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="35">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="36">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red color" id="37">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red" id="1">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red" id="2">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red" id="3">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="4">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="5">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="6">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="7">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="8">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="9">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="background" target="red" id="10">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="11">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="12">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="13">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="14">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="15">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="16">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="17">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red" id="18">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red" id="19">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red" id="20">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="21">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red" id="22">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="23">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="24">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="25">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="26">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="27">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="28">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="29">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red" id="30">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blury" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blury" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blury" id="2">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blury" id="3">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red and yellow hue" id="0">
+      <data key="d0">display</data>
+    </edge>
+    <edge source="background" target="red and yellow hue" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red and yellow hue" id="2">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blurriness" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blurriness" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blur" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red and orange" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="red and yellow color" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red and yellow color" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red and yellow color" id="2">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red and yellow color" id="3">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red and yellow color" id="4">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="red and yellow color" id="5">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="blurred" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="yellow" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="blurs" target="in the scene" id="0">
+      <data key="d0">appear</data>
+    </edge>
+    <edge source="blurs" target="in the scene" id="1">
+      <data key="d0">appear</data>
+    </edge>
+    <edge source="blurs" target="in the scene" id="2">
+      <data key="d0">appear</data>
+    </edge>
+    <edge source="blurs" target="in the scene" id="3">
+      <data key="d0">appear</data>
+    </edge>
+    <edge source="blurs" target="in the scene" id="4">
+      <data key="d0">appear</data>
+    </edge>
+    <edge source="blurs" target="in the scene" id="5">
+      <data key="d0">appear</data>
+    </edge>
+    <edge source="blurs" target="in the scene" id="6">
+      <data key="d0">appear</data>
+    </edge>
+    <edge source="blurs" target="in the scene" id="7">
+      <data key="d0">exist</data>
+    </edge>
+    <edge source="blurs" target="in the scene" id="8">
+      <data key="d0">appear</data>
+    </edge>
+    <edge source="blurs" target="present" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="blurs" target="present" id="1">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="blurs" target="present" id="2">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="blurs" target="present" id="3">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="blurs" target="present" id="4">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="blurs" target="present" id="5">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="blurs" target="present" id="6">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="blurs" target="on background" id="0">
+      <data key="d0">appear</data>
+    </edge>
+    <edge source="blurs" target="in" id="0">
+      <data key="d0">appear</data>
+    </edge>
+    <edge source="blurs" target="in" id="1">
+      <data key="d0">appear</data>
+    </edge>
+    <edge source="light" target="in the scene" id="0">
+      <data key="d0">exist</data>
+    </edge>
+    <edge source="light" target="blur" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="light" target="on" id="0">
+      <data key="d0">exist</data>
+    </edge>
+    <edge source="light" target="on" id="1">
+      <data key="d0">exist</data>
+    </edge>
+    <edge source="red" target="yellow" id="0">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="effect" target="background" id="0">
+      <data key="d0">apply to</data>
+    </edge>
+    <edge source="effect" target="background" id="1">
+      <data key="d0">apply to</data>
+    </edge>
+    <edge source="effect" target="background" id="2">
+      <data key="d0">apply to</data>
+    </edge>
+    <edge source="effect" target="background" id="3">
+      <data key="d0">apply to</data>
+    </edge>
+    <edge source="effect" target="background" id="4">
+      <data key="d0">apply to</data>
+    </edge>
+    <edge source="effect" target="background" id="5">
+      <data key="d0">apply</data>
+    </edge>
+    <edge source="effect" target="blur" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="1">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="2">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="3">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="4">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="5">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="6">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="7">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="8">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="9">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="10">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="11">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="12">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="13">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="14">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="15">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="16">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="17">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="18">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="19">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="20">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="21">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="22">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="23">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="24">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="25">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="26">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="27">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="28">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="29">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="30">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="31">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="32">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="33">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="effect" target="blur" id="34">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="bo lights" target="on the background" id="0">
+      <data key="d0">shine</data>
+    </edge>
+    <edge source="bo lights" target="on the background" id="1">
+      <data key="d0">shine</data>
+    </edge>
+    <edge source="bo lights" target="on the background" id="2">
+      <data key="d0">shine</data>
+    </edge>
+    <edge source="bo lights" target="on the background" id="3">
+      <data key="d0">shine</data>
+    </edge>
+    <edge source="bo lights" target="on the background" id="4">
+      <data key="d0">shine</data>
+    </edge>
+    <edge source="bo lights" target="on the background" id="5">
+      <data key="d0">shine</data>
+    </edge>
+    <edge source="bo lights" target="on the background" id="6">
+      <data key="d0">shine</data>
+    </edge>
+    <edge source="bo lights" target="in the scene" id="0">
+      <data key="d0">be present</data>
+    </edge>
+    <edge source="lights" target="blurred" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="lights" target="blurred" id="1">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="lights" target="blurred" id="2">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="lights" target="blurred" id="3">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="lights" target="blurred" id="4">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="the cover" target="of the book" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the book" target="of the book" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the book of the book" target="of the book" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the book of the book of the book" target="of the book" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the book of the book of the book of the book" target="of the book" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="circles" target="background" id="0">
+      <data key="d0">are on</data>
+    </edge>
+    <edge source="red blur" target="yellow blur" id="0">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="hearts" target="blurred" id="0">
+      <data key="d0">be</data>
+    </edge>
+  </graph>
+</graphml>

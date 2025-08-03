@@ -65,3 +65,21 @@ def extract_triples_with_llm(caption: str, trace: int = 0) -> list:
 
     print(f"❌ Giving up on caption: {caption}")
     return []
+
+def run_query_with_llm(prompt: str, trace: int = 0) -> str:
+    print("=" * 20)
+    print(f"Answering query based on prompt: {prompt}")
+    
+    template = PromptTemplate.from_template("{prompt}")
+    answer_chain = template | llm
+
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = answer_chain.invoke({"prompt": prompt})
+            print(f"LLM response: {response}")
+            return response.strip()
+        except Exception as e:
+            print(f"❌ Exception during query execution: {e}")
+            time.sleep(1)
+
+    return ""

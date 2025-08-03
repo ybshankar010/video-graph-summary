@@ -1,0 +1,1575 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="background" />
+    <node id="black" />
+    <node id="flower" />
+    <node id="white" />
+    <node id="red" />
+    <node id="candle" />
+    <node id="light" />
+    <node id="dark" />
+    <node id="rocket" />
+    <node id="dark sky" />
+    <node id="a rocket" />
+    <node id="in the dark sky" />
+    <node id="window" />
+    <node id="yellow" />
+    <node id="yellow light" />
+    <node id="a yellow light" />
+    <node id="a window" />
+    <node id="door" />
+    <node id="a white screen" />
+    <node id="a red border" />
+    <node id="a black background" />
+    <node id="house" />
+    <node id="drawing" />
+    <node id="red and white" />
+    <node id="person" />
+    <node id="street" />
+    <node id="man" />
+    <node id="sky" />
+    <node id="backpack" />
+    <node id="beard" />
+    <node id="sun" />
+    <node id="blur" />
+    <node id="picture" />
+    <node id="sunset" />
+    <node id="shirt" />
+    <node id="middle of street" />
+    <node id="two people" />
+    <node id="woman" />
+    <node id="cartoon car" />
+    <node id="car" />
+    <node id="two men" />
+    <node id="cartoon character" />
+    <node id="down the street" />
+    <node id="porch" />
+    <node id="with woman" />
+    <node id="on a porch" />
+    <node id="people" />
+    <node id="middle" />
+    <node id="a street" />
+    <node id="basketball" />
+    <node id="court" />
+    <node id="trick" />
+    <node id="skateboard" />
+    <node id="basketball ball" />
+    <node id="flying through the air" />
+    <node id="basketball hoop" />
+    <node id="ball" />
+    <node id="through the hoop" />
+    <node id="red_carpet" />
+    <node id="white shirt" />
+    <node id="black pants" />
+    <node id="black hair" />
+    <node id="red background" />
+    <node id="red hair" />
+    <node id="black face" />
+    <node id="grill" />
+    <node id="hand" />
+    <node id="a woman" />
+    <node id="a cartoon scene" />
+    <node id="soap" />
+    <node id="tree" />
+    <node id="leaves" />
+    <node id="tree branch" />
+    <node id="forest" />
+    <node id="box" />
+    <node id="child" />
+    <node id="ground" />
+    <node id="tug" />
+    <node id="another character" />
+    <node id="rabbit" />
+    <node id="the desert" />
+    <node id="bicycle" />
+    <node id="bike" />
+    <node id="red light" />
+    <node id="in the dark" />
+    <node id="jeans" />
+    <node id="white sweater" />
+    <node id="red hat" />
+    <node id="white jacket" />
+    <node id="black color" />
+    <node id="black shirt" />
+    <node id="shorts" />
+    <node id="dark room" />
+    <node id="standing" />
+    <node id="purple shirt" />
+    <node id="chair" />
+    <node id="bench" />
+    <node id="table" />
+    <node id="cupcake" />
+    <node id="something" />
+    <node id="children" />
+    <node id="in front of the building" />
+    <node id="building" />
+    <node id="women" />
+    <node id="wall" />
+    <node id="group" />
+    <node id="in front of" />
+    <node id="on a bench" />
+    <node id="in the street" />
+    <node id="a building" />
+    <node id="men" />
+    <node id="rug" />
+    <node id="bed" />
+    <node id="around" />
+    <node id="group of people" />
+    <node id="person on the ground" />
+    <node id="baseball" />
+    <node id="a room" />
+    <node id="snake" />
+    <node id="a snake" />
+    <node id="video screen graber" />
+    <node id="a red fog" />
+    <node id="in the sky" />
+    <node id="pink" />
+    <node id="hat" />
+    <node id="cigarette" />
+    <node id="red cap" />
+    <node id="stool" />
+    <node id="mustache" />
+    <node id="red shirt" />
+    <node id="a red light" />
+    <node id="legs" />
+    <node id="black room" />
+    <node id="room" />
+    <node id="none" />
+    <node id="tie" />
+    <node id="purple suit" />
+    <node id="purple jacket" />
+    <node id="purple pants" />
+    <node id="red suit" />
+    <node id="red jacket" />
+    <node id="white pants" />
+    <node id="trailer" />
+    <node id="cartoon" />
+    <node id="side of a road" />
+    <node id="road" />
+    <node id="bus" />
+    <node id="side" />
+    <node id="a small town" />
+    <node id="a small house" />
+    <node id="the side" />
+    <node id="town" />
+    <node id="small" />
+    <node id="a small car" />
+    <node id="a small street" />
+    <node id="a drawing" />
+    <node id="a bus" />
+    <node id="the drawing" />
+    <node id="night" />
+    <edge source="background" target="black" id="0">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="background" target="black" id="1">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="background" target="black color" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="black color" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="black color" id="2">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="sunset" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="sunset" id="1">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="flower" target="white" id="0">
+      <data key="d0">is colored</data>
+    </edge>
+    <edge source="flower" target="white" id="1">
+      <data key="d0">is colored</data>
+    </edge>
+    <edge source="flower" target="red" id="0">
+      <data key="d0">is colored</data>
+    </edge>
+    <edge source="flower" target="red" id="1">
+      <data key="d0">is colored</data>
+    </edge>
+    <edge source="candle" target="light" id="0">
+      <data key="d0">is lit by</data>
+    </edge>
+    <edge source="candle" target="dark" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="candle" target="dark" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="light" target="yellow" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="light" target="white" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="light" target="white" id="1">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="light" target="white" id="2">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="light" target="red" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="light" target="red" id="1">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="light" target="red" id="2">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="light" target="dark" id="0">
+      <data key="d0">shining</data>
+    </edge>
+    <edge source="rocket" target="dark sky" id="0">
+      <data key="d0">is seen in</data>
+    </edge>
+    <edge source="rocket" target="dark sky" id="1">
+      <data key="d0">is seen in</data>
+    </edge>
+    <edge source="a rocket" target="in the dark sky" id="0">
+      <data key="d0">is seen</data>
+    </edge>
+    <edge source="window" target="light" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="window" target="light" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="window" target="light" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="window" target="light" id="3">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="window" target="yellow light" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a yellow light" target="a window" id="0">
+      <data key="d0">shining through</data>
+    </edge>
+    <edge source="a yellow light" target="a window" id="1">
+      <data key="d0">shining through</data>
+    </edge>
+    <edge source="door" target="yellow light" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a white screen" target="a red border" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a white screen" target="a red border" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a white screen" target="a black background" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="house" target="background" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="house" target="red and white" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="house" target="small" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="drawing" target="house" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="person" target="street" id="0">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="person" target="street" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="person" target="street" id="2">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="person" target="street" id="3">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="person" target="street" id="4">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="person" target="street" id="5">
+      <data key="d0">down</data>
+    </edge>
+    <edge source="person" target="street" id="6">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="person" target="street" id="7">
+      <data key="d0">walk</data>
+    </edge>
+    <edge source="person" target="house" id="0">
+      <data key="d0">in front of</data>
+    </edge>
+    <edge source="person" target="red_carpet" id="0">
+      <data key="d0">standing_on</data>
+    </edge>
+    <edge source="person" target="basketball ball" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="person" target="black hair" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="person" target="red background" id="0">
+      <data key="d0">be in front of</data>
+    </edge>
+    <edge source="person" target="ground" id="0">
+      <data key="d0">laying</data>
+    </edge>
+    <edge source="person" target="rug" id="0">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="person" target="red suit" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="person" target="dark" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="person" target="down the street" id="0">
+      <data key="d0">is walking</data>
+    </edge>
+    <edge source="person" target="building" id="0">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="street" target="night" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="street" target="light" id="0">
+      <data key="d0">is illuminated by</data>
+    </edge>
+    <edge source="man" target="street" id="0">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="man" target="street" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="2">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="street" id="3">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="4">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="5">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="6">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="man" target="street" id="7">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="8">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="9">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="10">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="11">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="street" id="12">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="man" target="street" id="13">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="14">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="man" target="street" id="15">
+      <data key="d0">walks</data>
+    </edge>
+    <edge source="man" target="street" id="16">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="man" target="street" id="17">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="18">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="street" id="19">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="20">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="21">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="22">
+      <data key="d0">is walking</data>
+    </edge>
+    <edge source="man" target="street" id="23">
+      <data key="d0">down</data>
+    </edge>
+    <edge source="man" target="street" id="24">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="25">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="street" id="26">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="27">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="28">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="29">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="street" id="30">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="31">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="street" id="32">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="man" target="street" id="33">
+      <data key="d0">down</data>
+    </edge>
+    <edge source="man" target="street" id="34">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="man" target="street" id="35">
+      <data key="d0">down</data>
+    </edge>
+    <edge source="man" target="street" id="36">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="man" target="street" id="37">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="38">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="street" id="39">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="man" target="street" id="40">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="man" target="street" id="41">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="street" id="42">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="street" id="43">
+      <data key="d0">walks</data>
+    </edge>
+    <edge source="man" target="street" id="44">
+      <data key="d0">walks</data>
+    </edge>
+    <edge source="man" target="street" id="45">
+      <data key="d0">walks</data>
+    </edge>
+    <edge source="man" target="street" id="46">
+      <data key="d0">walks</data>
+    </edge>
+    <edge source="man" target="street" id="47">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="man" target="street" id="48">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="man" target="street" id="49">
+      <data key="d0">down</data>
+    </edge>
+    <edge source="man" target="house" id="0">
+      <data key="d0">in front of</data>
+    </edge>
+    <edge source="man" target="house" id="1">
+      <data key="d0">standing_in_front_of</data>
+    </edge>
+    <edge source="man" target="house" id="2">
+      <data key="d0">standing_in_front_of</data>
+    </edge>
+    <edge source="man" target="house" id="3">
+      <data key="d0">standing_in_front_of</data>
+    </edge>
+    <edge source="man" target="house" id="4">
+      <data key="d0">standing_in_front_of</data>
+    </edge>
+    <edge source="man" target="house" id="5">
+      <data key="d0">standing_in_front_of</data>
+    </edge>
+    <edge source="man" target="background" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="background" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="background" id="2">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="background" id="3">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="backpack" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="backpack" id="1">
+      <data key="d0">carries</data>
+    </edge>
+    <edge source="man" target="backpack" id="2">
+      <data key="d0">carrying</data>
+    </edge>
+    <edge source="man" target="backpack" id="3">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="backpack" id="4">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="man" target="backpack" id="5">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="man" target="backpack" id="6">
+      <data key="d0">carrying</data>
+    </edge>
+    <edge source="man" target="backpack" id="7">
+      <data key="d0">carries</data>
+    </edge>
+    <edge source="man" target="backpack" id="8">
+      <data key="d0">carries</data>
+    </edge>
+    <edge source="man" target="backpack" id="9">
+      <data key="d0">carries</data>
+    </edge>
+    <edge source="man" target="backpack" id="10">
+      <data key="d0">carries</data>
+    </edge>
+    <edge source="man" target="beard" id="0">
+      <data key="d0">having</data>
+    </edge>
+    <edge source="man" target="beard" id="1">
+      <data key="d0">having</data>
+    </edge>
+    <edge source="man" target="beard" id="2">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="beard" id="3">
+      <data key="d0">having</data>
+    </edge>
+    <edge source="man" target="beard" id="4">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="man" target="beard" id="5">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="man" target="beard" id="6">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="man" target="beard" id="7">
+      <data key="d0">having</data>
+    </edge>
+    <edge source="man" target="beard" id="8">
+      <data key="d0">having</data>
+    </edge>
+    <edge source="man" target="beard" id="9">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="beard" id="10">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="beard" id="11">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="beard" id="12">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="beard" id="13">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="beard" id="14">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="beard" id="15">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="beard" id="16">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="beard" id="17">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="man" target="beard" id="18">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="beard" id="19">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="beard" id="20">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="man" target="beard" id="21">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="man" target="beard" id="22">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="man" target="beard" id="23">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="man" target="beard" id="24">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="beard" id="25">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="beard" id="26">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="beard" id="27">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="light" id="0">
+      <data key="d0">shining</data>
+    </edge>
+    <edge source="man" target="shirt" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="shirt" id="1">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="shirt" id="2">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="shirt" id="3">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="shirt" id="4">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="shirt" id="5">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="shirt" id="6">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="shirt" id="7">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="shirt" id="8">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="shirt" id="9">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="shirt" id="10">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="shirt" id="11">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="middle of street" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="car" id="0">
+      <data key="d0">is_in</data>
+    </edge>
+    <edge source="man" target="car" id="1">
+      <data key="d0">washing</data>
+    </edge>
+    <edge source="man" target="porch" id="0">
+      <data key="d0">sit</data>
+    </edge>
+    <edge source="man" target="with woman" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="man" target="middle" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="basketball" id="0">
+      <data key="d0">playing</data>
+    </edge>
+    <edge source="man" target="court" id="0">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="trick" id="0">
+      <data key="d0">is doing</data>
+    </edge>
+    <edge source="man" target="skateboard" id="0">
+      <data key="d0">is doing</data>
+    </edge>
+    <edge source="man" target="skateboard" id="1">
+      <data key="d0">is walking with</data>
+    </edge>
+    <edge source="man" target="white shirt" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="white shirt" id="1">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="white shirt" id="2">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="white shirt" id="3">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="white shirt" id="4">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="black pants" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="black pants" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="black pants" id="2">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="soap" id="0">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="box" id="0">
+      <data key="d0">play</data>
+    </edge>
+    <edge source="man" target="ground" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="man" target="rabbit" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="man" target="bicycle" id="0">
+      <data key="d0">ride</data>
+    </edge>
+    <edge source="man" target="bike" id="0">
+      <data key="d0">riding</data>
+    </edge>
+    <edge source="man" target="red light" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="red light" id="1">
+      <data key="d0">be near</data>
+    </edge>
+    <edge source="man" target="in the dark" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="man" target="dark" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="dark" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="dark" id="2">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="dark" id="3">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="dark" id="4">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="dark" id="5">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="dark" id="6">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="jeans" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="jeans" id="1">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="white sweater" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="chair" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="man" target="chair" id="1">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="bench" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="man" target="bench" id="1">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="bench" id="2">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="man" target="bench" id="3">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="bench" id="4">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="man" target="bench" id="5">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="something" id="0">
+      <data key="d0">looking up at</data>
+    </edge>
+    <edge source="man" target="snake" id="0">
+      <data key="d0">play with</data>
+    </edge>
+    <edge source="man" target="video screen graber" id="0">
+      <data key="d0">seen</data>
+    </edge>
+    <edge source="man" target="woman" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="man" target="black shirt" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="black shirt" id="1">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="mustache" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="man" target="red shirt" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="tie" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="trailer" id="0">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="man" target="cartoon" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="side of a road" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="bus" id="0">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="man" target="side" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="side" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="road" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="road" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="sky" target="background" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="sky" target="background" id="1">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="sky" target="background" id="2">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="sky" target="pink" id="0">
+      <data key="d0">being</data>
+    </edge>
+    <edge source="beard" target="man" id="0">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="beard" target="man" id="1">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="beard" target="man" id="2">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="beard" target="man" id="3">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="beard" target="man" id="4">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="beard" target="man" id="5">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="sun" target="blur" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="sun" target="blur" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="picture" target="sunset" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="shirt" target="man" id="0">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="shirt" target="man" id="1">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="shirt" target="man" id="2">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="shirt" target="man" id="3">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="shirt" target="man" id="4">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="shirt" target="man" id="5">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="two people" target="street" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="two people" target="on a porch" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="two people" target="a street" id="0">
+      <data key="d0">standing on</data>
+    </edge>
+    <edge source="two people" target="tug" id="0">
+      <data key="d0">are playing</data>
+    </edge>
+    <edge source="two people" target="tug" id="1">
+      <data key="d0">playing</data>
+    </edge>
+    <edge source="two people" target="the desert" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="two people" target="the desert" id="1">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="two people" target="a snake" id="0">
+      <data key="d0">are playing with</data>
+    </edge>
+    <edge source="woman" target="street" id="0">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="woman" target="porch" id="0">
+      <data key="d0">sit</data>
+    </edge>
+    <edge source="woman" target="down the street" id="0">
+      <data key="d0">is walking</data>
+    </edge>
+    <edge source="woman" target="tree branch" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="woman" target="tree branch" id="1">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="woman" target="forest" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="woman" target="box" id="0">
+      <data key="d0">play</data>
+    </edge>
+    <edge source="woman" target="ground" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="woman" target="man" id="0">
+      <data key="d0">next_to</data>
+    </edge>
+    <edge source="woman" target="man" id="1">
+      <data key="d0">accompany</data>
+    </edge>
+    <edge source="woman" target="dark" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="woman" target="dark" id="1">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="woman" target="dark" id="2">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="woman" target="dark" id="3">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="woman" target="dark" id="4">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="woman" target="dark" id="5">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="woman" target="dark" id="6">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="woman" target="dark" id="7">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="woman" target="dark" id="8">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="woman" target="cartoon character" id="0">
+      <data key="d0">be hugged by</data>
+    </edge>
+    <edge source="woman" target="cartoon character" id="1">
+      <data key="d0">be hugged by</data>
+    </edge>
+    <edge source="woman" target="cartoon character" id="2">
+      <data key="d0">be hugged by</data>
+    </edge>
+    <edge source="woman" target="black shirt" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="black shirt" id="1">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="shorts" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="shorts" id="1">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="standing" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="woman" target="purple shirt" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="woman" target="children" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="woman" target="snake" id="0">
+      <data key="d0">play with</data>
+    </edge>
+    <edge source="woman" target="skateboard" id="0">
+      <data key="d0">riding</data>
+    </edge>
+    <edge source="woman" target="legs" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="woman" target="middle" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="woman" target="middle" id="1">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="woman" target="middle" id="2">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="woman" target="middle" id="3">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="woman" target="black room" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="woman" target="black room" id="1">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="woman" target="black room" id="2">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="woman" target="black room" id="3">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="woman" target="room" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="woman" target="room" id="1">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="woman" target="purple suit" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="purple suit" id="1">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="purple suit" id="2">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="purple suit" id="3">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="purple suit" id="4">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="white shirt" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="white shirt" id="1">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="white shirt" id="2">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="white shirt" id="3">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="white shirt" id="4">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="white shirt" id="5">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="white shirt" id="6">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="purple jacket" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="purple pants" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon car" target="two people" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cartoon car" target="two people" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cartoon car" target="two men" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="car" target="two people" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="car" target="two people" id="1">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="car" target="two men" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="car" target="man" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="car" target="man" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="car" target="background" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="car" target="small" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="two men" target="a woman" id="0">
+      <data key="d0">are with</data>
+    </edge>
+    <edge source="two men" target="a cartoon scene" id="0">
+      <data key="d0">are in the background of</data>
+    </edge>
+    <edge source="two men" target="tug" id="0">
+      <data key="d0">playing</data>
+    </edge>
+    <edge source="two men" target="on a bench" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="two men" target="on a bench" id="1">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="two men" target="in the street" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="two men" target="a building" id="0">
+      <data key="d0">in front of</data>
+    </edge>
+    <edge source="two men" target="on a porch" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="two men" target="a room" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="two men" target="in the dark" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="cartoon character" target="down the street" id="0">
+      <data key="d0">is walking</data>
+    </edge>
+    <edge source="cartoon character" target="down the street" id="1">
+      <data key="d0">is walking</data>
+    </edge>
+    <edge source="cartoon character" target="down the street" id="2">
+      <data key="d0">is walking</data>
+    </edge>
+    <edge source="cartoon character" target="street" id="0">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="cartoon character" target="street" id="1">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="cartoon character" target="red hair" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cartoon character" target="black face" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cartoon character" target="grill" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="cartoon character" target="hand" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="cartoon character" target="child" id="0">
+      <data key="d0">is playing with</data>
+    </edge>
+    <edge source="cartoon character" target="another character" id="0">
+      <data key="d0">is pulling</data>
+    </edge>
+    <edge source="cartoon character" target="ground" id="0">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="cartoon character" target="ground" id="1">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="cartoon character" target="rabbit" id="0">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="cartoon character" target="rabbit" id="1">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="cartoon character" target="dark" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="cartoon character" target="dark" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="cartoon character" target="dark" id="2">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="cartoon character" target="dark" id="3">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="cartoon character" target="dark" id="4">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="cartoon character" target="red hat" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="cartoon character" target="red hat" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="red hat" id="2">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="white jacket" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="cartoon character" target="woman" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="cartoon character" target="woman" id="1">
+      <data key="d0">hug</data>
+    </edge>
+    <edge source="cartoon character" target="woman" id="2">
+      <data key="d0">hug</data>
+    </edge>
+    <edge source="cartoon character" target="woman" id="3">
+      <data key="d0">be with</data>
+    </edge>
+    <edge source="cartoon character" target="woman" id="4">
+      <data key="d0">hug</data>
+    </edge>
+    <edge source="cartoon character" target="woman" id="5">
+      <data key="d0">be with</data>
+    </edge>
+    <edge source="cartoon character" target="woman" id="6">
+      <data key="d0">hug</data>
+    </edge>
+    <edge source="cartoon character" target="woman" id="7">
+      <data key="d0">be with</data>
+    </edge>
+    <edge source="cartoon character" target="black shirt" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="black shirt" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="shorts" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="shorts" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="dark room" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="cartoon character" target="table" id="0">
+      <data key="d0">is sitting at</data>
+    </edge>
+    <edge source="cartoon character" target="cupcake" id="0">
+      <data key="d0">is eating</data>
+    </edge>
+    <edge source="cartoon character" target="cupcake" id="1">
+      <data key="d0">is eating</data>
+    </edge>
+    <edge source="cartoon character" target="box" id="0">
+      <data key="d0">is sitting in</data>
+    </edge>
+    <edge source="cartoon character" target="rug" id="0">
+      <data key="d0">laying on</data>
+    </edge>
+    <edge source="cartoon character" target="bed" id="0">
+      <data key="d0">laying</data>
+    </edge>
+    <edge source="cartoon character" target="man" id="0">
+      <data key="d0">standing in front of</data>
+    </edge>
+    <edge source="cartoon character" target="man" id="1">
+      <data key="d0">is taking a picture of</data>
+    </edge>
+    <edge source="cartoon character" target="skateboard" id="0">
+      <data key="d0">is standing on</data>
+    </edge>
+    <edge source="cartoon character" target="person" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="cartoon character" target="hat" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="hat" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="hat" id="2">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="cigarette" id="0">
+      <data key="d0">hold</data>
+    </edge>
+    <edge source="cartoon character" target="red cap" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="red cap" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="stool" id="0">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="cartoon character" target="stool" id="1">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="cartoon character" target="white shirt" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="white shirt" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="white shirt" id="2">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="red jacket" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="red jacket" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="red jacket" id="2">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="red jacket" id="3">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="white pants" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="white pants" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="white pants" id="2">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="cartoon character" target="house" id="0">
+      <data key="d0">standing in front of</data>
+    </edge>
+    <edge source="cartoon character" target="side of a road" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="cartoon character" target="side of a road" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="cartoon character" target="side of a road" id="2">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="cartoon character" target="road" id="0">
+      <data key="d0">standing on</data>
+    </edge>
+    <edge source="cartoon character" target="road" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="cartoon character" target="road" id="2">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="people" target="on a porch" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="people" target="in front of the building" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="people" target="around" id="0">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="people" target="house" id="0">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="people" target="person" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="people" target="person" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="people" target="baseball" id="0">
+      <data key="d0">play</data>
+    </edge>
+    <edge source="basketball ball" target="flying through the air" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="basketball ball" target="through the hoop" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="basketball hoop" target="ball" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="leaves" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="building" target="people" id="0">
+      <data key="d0">in front of</data>
+    </edge>
+    <edge source="women" target="wall" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="women" target="wall" id="1">
+      <data key="d0">in front of</data>
+    </edge>
+    <edge source="women" target="in front of" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="women" target="building" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="group" target="wall" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="group" target="person" id="0">
+      <data key="d0">surrounding</data>
+    </edge>
+    <edge source="group" target="person" id="1">
+      <data key="d0">surrounding</data>
+    </edge>
+    <edge source="group" target="people" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="men" target="on a bench" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="men" target="a building" id="0">
+      <data key="d0">in front of</data>
+    </edge>
+    <edge source="men" target="porch" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="group of people" target="person on the ground" id="0">
+      <data key="d0">are walking around</data>
+    </edge>
+    <edge source="person on the ground" target="group of people" id="0">
+      <data key="d0">is being walked around by</data>
+    </edge>
+    <edge source="a red fog" target="in the sky" id="0">
+      <data key="d0">is seen</data>
+    </edge>
+    <edge source="a red light" target="in the dark" id="0">
+      <data key="d0">is shining</data>
+    </edge>
+    <edge source="black room" target="middle" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="room" target="none" id="0">
+      <data key="d0">black</data>
+    </edge>
+    <edge source="trailer" target="red" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="trailer" target="yellow" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="trailer" target="sunset" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="trailer" target="sunset" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="trailer" target="sunset" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="trailer" target="person" id="0">
+      <data key="d0">contain</data>
+    </edge>
+    <edge source="a small town" target="a small house" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a small town" target="a small house" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a small town" target="a small house" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a small town" target="a small house" id="3">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a small town" target="a small house" id="4">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a small town" target="a small car" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a small town" target="a small car" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a small town" target="a small car" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a small town" target="a small street" id="0">
+      <data key="d0">is located on</data>
+    </edge>
+    <edge source="a small house" target="a small town" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small house" target="a small town" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small house" target="a small town" id="2">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small house" target="a small town" id="3">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small house" target="a small street" id="0">
+      <data key="d0">is located on</data>
+    </edge>
+    <edge source="the side" target="a small house" id="0">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="town" target="house" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="town" target="car" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a small car" target="a small town" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small car" target="a small town" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small car" target="a small town" id="2">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a drawing" target="a street" id="0">
+      <data key="d0">is located on</data>
+    </edge>
+    <edge source="a drawing" target="a street" id="1">
+      <data key="d0">is located on</data>
+    </edge>
+    <edge source="a bus" target="the drawing" id="0">
+      <data key="d0">is present in</data>
+    </edge>
+    <edge source="a bus" target="a drawing" id="0">
+      <data key="d0">is present in</data>
+    </edge>
+  </graph>
+</graphml>

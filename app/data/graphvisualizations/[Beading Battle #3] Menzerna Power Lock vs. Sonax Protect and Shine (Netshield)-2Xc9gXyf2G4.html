@@ -1,0 +1,250 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+             #loadingBar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width: 100%;
+                 height: 750px;
+                 background-color:rgba(200,200,200,0.8);
+                 -webkit-transition: all 0.5s ease;
+                 -moz-transition: all 0.5s ease;
+                 -ms-transition: all 0.5s ease;
+                 -o-transition: all 0.5s ease;
+                 transition: all 0.5s ease;
+                 opacity:1;
+             }
+
+             #bar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width:20px;
+                 height:20px;
+                 margin:auto auto auto auto;
+                 border-radius:11px;
+                 border:2px solid rgba(30,30,30,0.05);
+                 background: rgb(0, 173, 246); /* Old browsers */
+                 box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+             }
+
+             #border {
+                 position:absolute;
+                 top:10px;
+                 left:10px;
+                 width:500px;
+                 height:23px;
+                 margin:auto auto auto auto;
+                 box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+                 border-radius:10px;
+             }
+
+             #text {
+                 position:absolute;
+                 top:8px;
+                 left:530px;
+                 width:30px;
+                 height:50px;
+                 margin:auto auto auto auto;
+                 font-size:22px;
+                 color: #000000;
+             }
+
+             div.outerBorder {
+                 position:relative;
+                 top:400px;
+                 width:600px;
+                 height:44px;
+                 margin:auto auto auto auto;
+                 border:8px solid rgba(0,0,0,0.1);
+                 background: rgb(252,252,252); /* Old browsers */
+                 background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+                 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+                 background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+                 background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+                 background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+                 background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+                 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+                 border-radius:72px;
+                 box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+             }
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+            <div id="loadingBar">
+              <div class="outerBorder">
+                <div id="text">0%</div>
+                <div id="border">
+                  <div id="bar"></div>
+                </div>
+              </div>
+            </div>
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "mosquito", "label": "mosquito", "shape": "dot"}, {"color": "#97c2fc", "id": "air", "label": "air", "shape": "dot"}, {"color": "#97c2fc", "id": "room", "label": "room", "shape": "dot"}, {"color": "#97c2fc", "id": "person", "label": "person", "shape": "dot"}, {"color": "#97c2fc", "id": "snow", "label": "snow", "shape": "dot"}, {"color": "#97c2fc", "id": "text", "label": "text", "shape": "dot"}, {"color": "#97c2fc", "id": "battle", "label": "battle", "shape": "dot"}, {"color": "#97c2fc", "id": "background", "label": "background", "shape": "dot"}, {"color": "#97c2fc", "id": "black", "label": "black", "shape": "dot"}, {"color": "#97c2fc", "id": "a man", "label": "a man", "shape": "dot"}, {"color": "#97c2fc", "id": "a suit and tie", "label": "a suit and tie", "shape": "dot"}, {"color": "#97c2fc", "id": "in front of a white wall", "label": "in front of a white wall", "shape": "dot"}, {"color": "#97c2fc", "id": "a white wall", "label": "a white wall", "shape": "dot"}, {"color": "#97c2fc", "id": "the words", "label": "the words", "shape": "dot"}, {"color": "#97c2fc", "id": "man", "label": "man", "shape": "dot"}, {"color": "#97c2fc", "id": "bed", "label": "bed", "shape": "dot"}, {"color": "#97c2fc", "id": "a white car", "label": "a white car", "shape": "dot"}, {"color": "#97c2fc", "id": "a light on it", "label": "a light on it", "shape": "dot"}, {"color": "#97c2fc", "id": "a light", "label": "a light", "shape": "dot"}, {"color": "#97c2fc", "id": "the car", "label": "the car", "shape": "dot"}, {"color": "#97c2fc", "id": "white", "label": "white", "shape": "dot"}, {"color": "#97c2fc", "id": "the words \u0027meena power\u0027", "label": "the words \u0027meena power\u0027", "shape": "dot"}, {"color": "#97c2fc", "id": "the words \u0027meena power lock sonate shield\u0027", "label": "the words \u0027meena power lock sonate shield\u0027", "shape": "dot"}, {"color": "#97c2fc", "id": "white light", "label": "white light", "shape": "dot"}, {"color": "#97c2fc", "id": "wall", "label": "wall", "shape": "dot"}, {"color": "#97c2fc", "id": "car", "label": "car", "shape": "dot"}, {"color": "#97c2fc", "id": "image", "label": "image", "shape": "dot"}, {"color": "#97c2fc", "id": "windshield", "label": "windshield", "shape": "dot"}, {"color": "#97c2fc", "id": "vehicle", "label": "vehicle", "shape": "dot"}, {"color": "#97c2fc", "id": "polisher", "label": "polisher", "shape": "dot"}, {"color": "#97c2fc", "id": "sponge", "label": "sponge", "shape": "dot"}, {"color": "#97c2fc", "id": "spray", "label": "spray", "shape": "dot"}, {"color": "#97c2fc", "id": "stairs", "label": "stairs", "shape": "dot"}, {"color": "#97c2fc", "id": "metal surface", "label": "metal surface", "shape": "dot"}, {"color": "#97c2fc", "id": "tennis ball", "label": "tennis ball", "shape": "dot"}, {"color": "#97c2fc", "id": "yellow object", "label": "yellow object", "shape": "dot"}, {"color": "#97c2fc", "id": "child", "label": "child", "shape": "dot"}, {"color": "#97c2fc", "id": "toy", "label": "toy", "shape": "dot"}, {"color": "#97c2fc", "id": "rain", "label": "rain", "shape": "dot"}, {"color": "#97c2fc", "id": "plaid shirt", "label": "plaid shirt", "shape": "dot"}, {"color": "#97c2fc", "id": "microfiber cloth", "label": "microfiber cloth", "shape": "dot"}, {"color": "#97c2fc", "id": "blue shirt", "label": "blue shirt", "shape": "dot"}, {"color": "#97c2fc", "id": "yellow gloves", "label": "yellow gloves", "shape": "dot"}, {"color": "#97c2fc", "id": "menzer", "label": "menzer", "shape": "dot"}, {"color": "#97c2fc", "id": "protect 4", "label": "protect 4", "shape": "dot"}, {"color": "#97c2fc", "id": "a bottle of power protein", "label": "a bottle of power protein", "shape": "dot"}, {"color": "#97c2fc", "id": "a table", "label": "a table", "shape": "dot"}, {"color": "#97c2fc", "id": "bottle", "label": "bottle", "shape": "dot"}, {"color": "#97c2fc", "id": "power", "label": "power", "shape": "dot"}, {"color": "#97c2fc", "id": "4", "label": "4", "shape": "dot"}, {"color": "#97c2fc", "id": "two cans of beer", "label": "two cans of beer", "shape": "dot"}, {"color": "#97c2fc", "id": "on top of a table", "label": "on top of a table", "shape": "dot"}, {"color": "#97c2fc", "id": "two rolls of paper", "label": "two rolls of paper", "shape": "dot"}, {"color": "#97c2fc", "id": "two newspapers", "label": "two newspapers", "shape": "dot"}, {"color": "#97c2fc", "id": "a pen", "label": "a pen", "shape": "dot"}, {"color": "#97c2fc", "id": "piece of paper", "label": "piece of paper", "shape": "dot"}, {"color": "#97c2fc", "id": "paper", "label": "paper", "shape": "dot"}, {"color": "#97c2fc", "id": "a pink ribbon", "label": "a pink ribbon", "shape": "dot"}, {"color": "#97c2fc", "id": "the man", "label": "the man", "shape": "dot"}, {"color": "#97c2fc", "id": "the ribbon", "label": "the ribbon", "shape": "dot"}, {"color": "#97c2fc", "id": "paint", "label": "paint", "shape": "dot"}, {"color": "#97c2fc", "id": "a person", "label": "a person", "shape": "dot"}, {"color": "#97c2fc", "id": "a bottle of glue", "label": "a bottle of glue", "shape": "dot"}, {"color": "#97c2fc", "id": "piece of glass", "label": "piece of glass", "shape": "dot"}, {"color": "#97c2fc", "id": "glass", "label": "glass", "shape": "dot"}, {"color": "#97c2fc", "id": "knife", "label": "knife", "shape": "dot"}, {"color": "#97c2fc", "id": "dent", "label": "dent", "shape": "dot"}, {"color": "#97c2fc", "id": "on", "label": "on", "shape": "dot"}, {"color": "#97c2fc", "id": "hood", "label": "hood", "shape": "dot"}, {"color": "#97c2fc", "id": "of", "label": "of", "shape": "dot"}, {"color": "#97c2fc", "id": "remote control device", "label": "remote control device", "shape": "dot"}, {"color": "#97c2fc", "id": "wood", "label": "wood", "shape": "dot"}, {"color": "#97c2fc", "id": "machine", "label": "machine", "shape": "dot"}, {"color": "#97c2fc", "id": "video game", "label": "video game", "shape": "dot"}, {"color": "#97c2fc", "id": "laptop", "label": "laptop", "shape": "dot"}, {"color": "#97c2fc", "id": "a pink box", "label": "a pink box", "shape": "dot"}, {"color": "#97c2fc", "id": "a pink handle", "label": "a pink handle", "shape": "dot"}, {"color": "#97c2fc", "id": "something", "label": "something", "shape": "dot"}, {"color": "#97c2fc", "id": "rag", "label": "rag", "shape": "dot"}, {"color": "#97c2fc", "id": "dirty", "label": "dirty", "shape": "dot"}, {"color": "#97c2fc", "id": "broom", "label": "broom", "shape": "dot"}, {"color": "#97c2fc", "id": "dirt", "label": "dirt", "shape": "dot"}, {"color": "#97c2fc", "id": "pink tape", "label": "pink tape", "shape": "dot"}, {"color": "#97c2fc", "id": "pink paint job", "label": "pink paint job", "shape": "dot"}, {"color": "#97c2fc", "id": "a close up", "label": "a close up", "shape": "dot"}, {"color": "#97c2fc", "id": "a colorfully colored object", "label": "a colorfully colored object", "shape": "dot"}, {"color": "#97c2fc", "id": "laptop computer", "label": "laptop computer", "shape": "dot"}, {"color": "#97c2fc", "id": "paint brush", "label": "paint brush", "shape": "dot"}, {"color": "#97c2fc", "id": "steering", "label": "steering", "shape": "dot"}, {"color": "#97c2fc", "id": "tablet", "label": "tablet", "shape": "dot"}, {"color": "#97c2fc", "id": "green screen", "label": "green screen", "shape": "dot"}, {"color": "#97c2fc", "id": "black cloth", "label": "black cloth", "shape": "dot"}, {"color": "#97c2fc", "id": "windshield cleaner", "label": "windshield cleaner", "shape": "dot"}, {"color": "#97c2fc", "id": "windshield cover", "label": "windshield cover", "shape": "dot"}, {"color": "#97c2fc", "id": "water", "label": "water", "shape": "dot"}, {"color": "#97c2fc", "id": "plastic sheet", "label": "plastic sheet", "shape": "dot"}, {"color": "#97c2fc", "id": "water droplets", "label": "water droplets", "shape": "dot"}, {"color": "#97c2fc", "id": "window", "label": "window", "shape": "dot"}, {"color": "#97c2fc", "id": "white background", "label": "white background", "shape": "dot"}, {"color": "#97c2fc", "id": "black and white", "label": "black and white", "shape": "dot"}, {"color": "#97c2fc", "id": "spots", "label": "spots", "shape": "dot"}, {"color": "#97c2fc", "id": "video", "label": "video", "shape": "dot"}, {"color": "#97c2fc", "id": "image from the video", "label": "image from the video", "shape": "dot"}, {"color": "#97c2fc", "id": "snow and ice", "label": "snow and ice", "shape": "dot"}, {"color": "#97c2fc", "id": "street", "label": "street", "shape": "dot"}, {"color": "#97c2fc", "id": "road", "label": "road", "shape": "dot"}, {"color": "#97c2fc", "id": "mud", "label": "mud", "shape": "dot"}, {"color": "#97c2fc", "id": "side of a road", "label": "side of a road", "shape": "dot"}, {"color": "#97c2fc", "id": "snowy road", "label": "snowy road", "shape": "dot"}, {"color": "#97c2fc", "id": "a car", "label": "a car", "shape": "dot"}, {"color": "#97c2fc", "id": "the mud", "label": "the mud", "shape": "dot"}, {"color": "#97c2fc", "id": "ice and water", "label": "ice and water", "shape": "dot"}, {"color": "#97c2fc", "id": "puddle", "label": "puddle", "shape": "dot"}, {"color": "#97c2fc", "id": "rain drops", "label": "rain drops", "shape": "dot"}, {"color": "#97c2fc", "id": "the windshield of a car", "label": "the windshield of a car", "shape": "dot"}, {"color": "#97c2fc", "id": "hose", "label": "hose", "shape": "dot"}, {"color": "#97c2fc", "id": "a black car", "label": "a black car", "shape": "dot"}, {"color": "#97c2fc", "id": "in the rain", "label": "in the rain", "shape": "dot"}, {"color": "#97c2fc", "id": "a windshield", "label": "a windshield", "shape": "dot"}, {"color": "#97c2fc", "id": "a window", "label": "a window", "shape": "dot"}, {"color": "#97c2fc", "id": "pressure washer", "label": "pressure washer", "shape": "dot"}, {"color": "#97c2fc", "id": "a car washer", "label": "a car washer", "shape": "dot"}, {"color": "#97c2fc", "id": "mizeria power lock", "label": "mizeria power lock", "shape": "dot"}, {"color": "#97c2fc", "id": "water and rain", "label": "water and rain", "shape": "dot"}, {"color": "#97c2fc", "id": "white color", "label": "white color", "shape": "dot"}, {"color": "#97c2fc", "id": "sky", "label": "sky", "shape": "dot"}, {"color": "#97c2fc", "id": "cloud", "label": "cloud", "shape": "dot"}, {"color": "#97c2fc", "id": "sonx", "label": "sonx", "shape": "dot"}, {"color": "#97c2fc", "id": "shield", "label": "shield", "shape": "dot"}, {"color": "#97c2fc", "id": "sonx - shield", "label": "sonx - shield", "shape": "dot"}, {"color": "#97c2fc", "id": "birds", "label": "birds", "shape": "dot"}, {"color": "#97c2fc", "id": "in the sky", "label": "in the sky", "shape": "dot"}, {"color": "#97c2fc", "id": "black color", "label": "black color", "shape": "dot"}, {"color": "#97c2fc", "id": "flower", "label": "flower", "shape": "dot"}, {"color": "#97c2fc", "id": "red", "label": "red", "shape": "dot"}, {"color": "#97c2fc", "id": "white and red flower", "label": "white and red flower", "shape": "dot"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "mosquito", "label": "flies", "to": "air"}, {"arrows": "to", "from": "mosquito", "label": "flies", "to": "room"}, {"arrows": "to", "from": "person", "label": "is walking", "to": "snow"}, {"arrows": "to", "from": "person", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "is using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "is using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "is using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "is using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "is using", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "uses", "to": "sponge"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "metal surface"}, {"arrows": "to", "from": "person", "label": "is holding", "to": "tennis ball"}, {"arrows": "to", "from": "person", "label": "is holding", "to": "tennis ball"}, {"arrows": "to", "from": "person", "label": "holding", "to": "yellow object"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "is cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "is cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "is cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "is cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "is putting", "to": "car"}, {"arrows": "to", "from": "person", "label": "is cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "is putting", "to": "car"}, {"arrows": "to", "from": "person", "label": "is cleaning", "to": "car"}, {"arrows": "to", "from": "person", "label": "is driving", "to": "car"}, {"arrows": "to", "from": "person", "label": "is using", "to": "spray"}, {"arrows": "to", "from": "person", "label": "apply", "to": "paint"}, {"arrows": "to", "from": "person", "label": "cutting", "to": "piece of glass"}, {"arrows": "to", "from": "person", "label": "cutting", "to": "glass"}, {"arrows": "to", "from": "person", "label": "is holding", "to": "knife"}, {"arrows": "to", "from": "person", "label": "holding", "to": "knife"}, {"arrows": "to", "from": "person", "label": "is holding", "to": "knife"}, {"arrows": "to", "from": "person", "label": "holding", "to": "knife"}, {"arrows": "to", "from": "person", "label": "is using", "to": "piece of paper"}, {"arrows": "to", "from": "person", "label": "is making", "to": "piece of paper"}, {"arrows": "to", "from": "person", "label": "is cutting", "to": "wood"}, {"arrows": "to", "from": "person", "label": "is cutting", "to": "wood"}, {"arrows": "to", "from": "person", "label": "using", "to": "machine"}, {"arrows": "to", "from": "person", "label": "cutting", "to": "paper"}, {"arrows": "to", "from": "person", "label": "is cutting", "to": "paper"}, {"arrows": "to", "from": "person", "label": "cutting", "to": "paper"}, {"arrows": "to", "from": "person", "label": "is putting", "to": "something"}, {"arrows": "to", "from": "person", "label": "is using", "to": "rag"}, {"arrows": "to", "from": "person", "label": "using", "to": "rag"}, {"arrows": "to", "from": "person", "label": "using", "to": "rag"}, {"arrows": "to", "from": "person", "label": "using", "to": "microfiber cloth"}, {"arrows": "to", "from": "person", "label": "use", "to": "broom"}, {"arrows": "to", "from": "person", "label": "is putting", "to": "pink tape"}, {"arrows": "to", "from": "person", "label": "is using", "to": "laptop computer"}, {"arrows": "to", "from": "person", "label": "holding", "to": "tablet"}, {"arrows": "to", "from": "person", "label": "using", "to": "pressure washer"}, {"arrows": "to", "from": "text", "label": "reading", "to": "battle"}, {"arrows": "to", "from": "text", "label": "reading", "to": "battle"}, {"arrows": "to", "from": "text", "label": "reading", "to": "battle"}, {"arrows": "to", "from": "text", "label": "be", "to": "black and white"}, {"arrows": "to", "from": "text", "label": "be", "to": "black and white"}, {"arrows": "to", "from": "text", "label": "is", "to": "black and white"}, {"arrows": "to", "from": "text", "label": "is", "to": "black"}, {"arrows": "to", "from": "text", "label": "reads", "to": "sonx"}, {"arrows": "to", "from": "text", "label": "reads", "to": "shield"}, {"arrows": "to", "from": "text", "label": "reads", "to": "sonx - shield"}, {"arrows": "to", "from": "background", "label": "being", "to": "black"}, {"arrows": "to", "from": "background", "label": "being", "to": "black"}, {"arrows": "to", "from": "background", "label": "being", "to": "black"}, {"arrows": "to", "from": "background", "label": "has color", "to": "black"}, {"arrows": "to", "from": "background", "label": "has color", "to": "black"}, {"arrows": "to", "from": "background", "label": "have", "to": "white color"}, {"arrows": "to", "from": "background", "label": "have", "to": "white color"}, {"arrows": "to", "from": "background", "label": "have", "to": "white"}, {"arrows": "to", "from": "background", "label": "has", "to": "white"}, {"arrows": "to", "from": "background", "label": "has", "to": "white"}, {"arrows": "to", "from": "background", "label": "has", "to": "black color"}, {"arrows": "to", "from": "background", "label": "have", "to": "black color"}, {"arrows": "to", "from": "background", "label": "have", "to": "white and red flower"}, {"arrows": "to", "from": "a man", "label": "is wearing", "to": "a suit and tie"}, {"arrows": "to", "from": "a man", "label": "is standing", "to": "in front of a white wall"}, {"arrows": "to", "from": "a man", "label": "is facing", "to": "a white wall"}, {"arrows": "to", "from": "a man", "label": "is holding", "to": "a pink ribbon"}, {"arrows": "to", "from": "a man", "label": "holding", "to": "a pink ribbon"}, {"arrows": "to", "from": "the words", "label": "are on", "to": "a white wall"}, {"arrows": "to", "from": "the words", "label": "are reading", "to": "battle"}, {"arrows": "to", "from": "man", "label": "in", "to": "bed"}, {"arrows": "to", "from": "man", "label": "reading", "to": "battle"}, {"arrows": "to", "from": "man", "label": "polishing", "to": "car"}, {"arrows": "to", "from": "man", "label": "polishing", "to": "car"}, {"arrows": "to", "from": "man", "label": "polishing", "to": "car"}, {"arrows": "to", "from": "man", "label": "polishing", "to": "car"}, {"arrows": "to", "from": "man", "label": "polishing", "to": "car"}, {"arrows": "to", "from": "man", "label": "polishing", "to": "car"}, {"arrows": "to", "from": "man", "label": "polishing", "to": "car"}, {"arrows": "to", "from": "man", "label": "polishing", "to": "car"}, {"arrows": "to", "from": "man", "label": "polishing", "to": "car"}, {"arrows": "to", "from": "man", "label": "sitting", "to": "car"}, {"arrows": "to", "from": "man", "label": "is washing", "to": "car"}, {"arrows": "to", "from": "man", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "man", "label": "washing", "to": "car"}, {"arrows": "to", "from": "man", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "man", "label": "is cleaning", "to": "car"}, {"arrows": "to", "from": "man", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "man", "label": "cleaning", "to": "car"}, {"arrows": "to", "from": "man", "label": "is painting", "to": "car"}, {"arrows": "to", "from": "man", "label": "washing", "to": "car"}, {"arrows": "to", "from": "man", "label": "washing", "to": "car"}, {"arrows": "to", "from": "man", "label": "washing", "to": "car"}, {"arrows": "to", "from": "man", "label": "washing", "to": "car"}, {"arrows": "to", "from": "man", "label": "washing", "to": "car"}, {"arrows": "to", "from": "man", "label": "using", "to": "polisher"}, {"arrows": "to", "from": "man", "label": "using", "to": "polisher"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "using", "to": "sponge"}, {"arrows": "to", "from": "man", "label": "is using", "to": "spray"}, {"arrows": "to", "from": "man", "label": "is cleaning", "to": "stairs"}, {"arrows": "to", "from": "man", "label": "is wearing", "to": "plaid shirt"}, {"arrows": "to", "from": "man", "label": "using", "to": "microfiber cloth"}, {"arrows": "to", "from": "man", "label": "is cleaning", "to": "windshield"}, {"arrows": "to", "from": "man", "label": "wearing", "to": "blue shirt"}, {"arrows": "to", "from": "man", "label": "wearing", "to": "yellow gloves"}, {"arrows": "to", "from": "man", "label": "is putting", "to": "piece of paper"}, {"arrows": "to", "from": "man", "label": "puts", "to": "piece of paper"}, {"arrows": "to", "from": "man", "label": "is putting", "to": "paper"}, {"arrows": "to", "from": "man", "label": "puts", "to": "paper"}, {"arrows": "to", "from": "man", "label": "holding", "to": "remote control device"}, {"arrows": "to", "from": "man", "label": "is playing", "to": "video game"}, {"arrows": "to", "from": "man", "label": "is playing", "to": "laptop"}, {"arrows": "to", "from": "man", "label": "is using", "to": "paint brush"}, {"arrows": "to", "from": "man", "label": "using", "to": "hose"}, {"arrows": "to", "from": "a white car", "label": "has", "to": "a light on it"}, {"arrows": "to", "from": "a white car", "label": "has", "to": "a light"}, {"arrows": "to", "from": "a white car", "label": "has", "to": "the words \u0027meena power\u0027"}, {"arrows": "to", "from": "a white car", "label": "has", "to": "the words \u0027meena power lock sonate shield\u0027"}, {"arrows": "to", "from": "the car", "label": "is", "to": "white"}, {"arrows": "to", "from": "the car", "label": "has", "to": "a light"}, {"arrows": "to", "from": "the car", "label": "is parked", "to": "in the rain"}, {"arrows": "to", "from": "white light", "label": "is shining on", "to": "wall"}, {"arrows": "to", "from": "white light", "label": "shining on", "to": "wall"}, {"arrows": "to", "from": "car", "label": "is shown in", "to": "image"}, {"arrows": "to", "from": "car", "label": "is shown", "to": "image"}, {"arrows": "to", "from": "car", "label": "seen through", "to": "windshield"}, {"arrows": "to", "from": "car", "label": "is seen through", "to": "windshield"}, {"arrows": "to", "from": "car", "label": "has", "to": "windshield"}, {"arrows": "to", "from": "car", "label": "has", "to": "windshield"}, {"arrows": "to", "from": "car", "label": "has", "to": "windshield"}, {"arrows": "to", "from": "car", "label": "is washing", "to": "windshield"}, {"arrows": "to", "from": "car", "label": "is washing", "to": "windshield"}, {"arrows": "to", "from": "car", "label": "is washing", "to": "windshield"}, {"arrows": "to", "from": "car", "label": "is", "to": "vehicle"}, {"arrows": "to", "from": "car", "label": "is seen through", "to": "vehicle"}, {"arrows": "to", "from": "car", "label": "have", "to": "dent"}, {"arrows": "to", "from": "car", "label": "have", "to": "dent"}, {"arrows": "to", "from": "car", "label": "have", "to": "dent"}, {"arrows": "to", "from": "car", "label": "be", "to": "on"}, {"arrows": "to", "from": "car", "label": "be", "to": "on"}, {"arrows": "to", "from": "car", "label": "be", "to": "on"}, {"arrows": "to", "from": "car", "label": "be", "to": "dirty"}, {"arrows": "to", "from": "car", "label": "have", "to": "dirt"}, {"arrows": "to", "from": "car", "label": "has", "to": "pink tape"}, {"arrows": "to", "from": "car", "label": "have", "to": "pink paint job"}, {"arrows": "to", "from": "car", "label": "is being painted by", "to": "man"}, {"arrows": "to", "from": "car", "label": "has", "to": "steering"}, {"arrows": "to", "from": "car", "label": "is covered by", "to": "black cloth"}, {"arrows": "to", "from": "car", "label": "has", "to": "windshield cleaner"}, {"arrows": "to", "from": "car", "label": "has", "to": "windshield cleaner"}, {"arrows": "to", "from": "car", "label": "has", "to": "windshield cleaner"}, {"arrows": "to", "from": "car", "label": "is covered by", "to": "windshield cover"}, {"arrows": "to", "from": "car", "label": "is covered in", "to": "water"}, {"arrows": "to", "from": "car", "label": "is covered in", "to": "water"}, {"arrows": "to", "from": "car", "label": "has", "to": "water"}, {"arrows": "to", "from": "car", "label": "is covered with", "to": "water"}, {"arrows": "to", "from": "car", "label": "have", "to": "water"}, {"arrows": "to", "from": "car", "label": "is covered by", "to": "rain"}, {"arrows": "to", "from": "car", "label": "covered in", "to": "rain"}, {"arrows": "to", "from": "car", "label": "is driving", "to": "rain"}, {"arrows": "to", "from": "car", "label": "have", "to": "rain"}, {"arrows": "to", "from": "car", "label": "have", "to": "rain"}, {"arrows": "to", "from": "car", "label": "have", "to": "rain"}, {"arrows": "to", "from": "car", "label": "is parked", "to": "rain"}, {"arrows": "to", "from": "car", "label": "is parked by", "to": "rain"}, {"arrows": "to", "from": "car", "label": "is covered by", "to": "plastic sheet"}, {"arrows": "to", "from": "car", "label": "is using", "to": "sponge"}, {"arrows": "to", "from": "car", "label": "is using", "to": "sponge"}, {"arrows": "to", "from": "car", "label": "cleaned with", "to": "sponge"}, {"arrows": "to", "from": "car", "label": "have", "to": "paint"}, {"arrows": "to", "from": "car", "label": "be", "to": "white"}, {"arrows": "to", "from": "car", "label": "has", "to": "spots"}, {"arrows": "to", "from": "car", "label": "is shown", "to": "video"}, {"arrows": "to", "from": "car", "label": "is shown", "to": "image from the video"}, {"arrows": "to", "from": "car", "label": "is shown", "to": "image from the video"}, {"arrows": "to", "from": "car", "label": "is covered in", "to": "snow and ice"}, {"arrows": "to", "from": "car", "label": "is covered in", "to": "snow and ice"}, {"arrows": "to", "from": "car", "label": "covered in", "to": "snow"}, {"arrows": "to", "from": "car", "label": "is covered in", "to": "snow"}, {"arrows": "to", "from": "car", "label": "on", "to": "street"}, {"arrows": "to", "from": "car", "label": "is driving", "to": "road"}, {"arrows": "to", "from": "car", "label": "is driving", "to": "road"}, {"arrows": "to", "from": "car", "label": "is driving", "to": "road"}, {"arrows": "to", "from": "car", "label": "driving", "to": "road"}, {"arrows": "to", "from": "car", "label": "down", "to": "road"}, {"arrows": "to", "from": "car", "label": "is driving", "to": "road"}, {"arrows": "to", "from": "car", "label": "is on", "to": "road"}, {"arrows": "to", "from": "car", "label": "is covered with snow", "to": "road"}, {"arrows": "to", "from": "car", "label": "is driving", "to": "mud"}, {"arrows": "to", "from": "car", "label": "is located on", "to": "side of a road"}, {"arrows": "to", "from": "car", "label": "driving", "to": "snowy road"}, {"arrows": "to", "from": "car", "label": "is covered in", "to": "ice and water"}, {"arrows": "to", "from": "car", "label": "is driving", "to": "puddle"}, {"arrows": "to", "from": "car", "label": "is covered with", "to": "window"}, {"arrows": "to", "from": "car", "label": "is using", "to": "hose"}, {"arrows": "to", "from": "car", "label": "cleaned by", "to": "pressure washer"}, {"arrows": "to", "from": "car", "label": "is covered by", "to": "water and rain"}, {"arrows": "to", "from": "car", "label": "is covered by", "to": "water and rain"}, {"arrows": "to", "from": "car", "label": "have", "to": "water droplets"}, {"arrows": "to", "from": "windshield", "label": "be covered by", "to": "rain"}, {"arrows": "to", "from": "windshield", "label": "be covered by", "to": "rain"}, {"arrows": "to", "from": "windshield", "label": "be covered by", "to": "rain"}, {"arrows": "to", "from": "windshield", "label": "be covered by", "to": "water droplets"}, {"arrows": "to", "from": "child", "label": "playing", "to": "toy"}, {"arrows": "to", "from": "child", "label": "playing", "to": "rain"}, {"arrows": "to", "from": "menzer", "label": "power", "to": "protect 4"}, {"arrows": "to", "from": "a bottle of power protein", "label": "is on", "to": "a table"}, {"arrows": "to", "from": "a bottle of power protein", "label": "is on", "to": "a table"}, {"arrows": "to", "from": "a bottle of power protein", "label": "on", "to": "a table"}, {"arrows": "to", "from": "bottle", "label": "contain", "to": "power"}, {"arrows": "to", "from": "bottle", "label": "protect", "to": "4"}, {"arrows": "to", "from": "two cans of beer", "label": "sitting", "to": "on top of a table"}, {"arrows": "to", "from": "two cans of beer", "label": "are on", "to": "a table"}, {"arrows": "to", "from": "two rolls of paper", "label": "sitting on", "to": "a table"}, {"arrows": "to", "from": "two newspapers", "label": "sitting", "to": "on top of a table"}, {"arrows": "to", "from": "a pen", "label": "is next to", "to": "a pen"}, {"arrows": "to", "from": "piece of paper", "label": "is being put into", "to": "car"}, {"arrows": "to", "from": "the man", "label": "holds", "to": "the ribbon"}, {"arrows": "to", "from": "paint", "label": "be", "to": "black and white"}, {"arrows": "to", "from": "a person", "label": "holding", "to": "a bottle of glue"}, {"arrows": "to", "from": "a person", "label": "holding", "to": "a bottle of glue"}, {"arrows": "to", "from": "hood", "label": "be", "to": "of"}, {"arrows": "to", "from": "a pink box", "label": "has", "to": "a pink handle"}, {"arrows": "to", "from": "pink tape", "label": "is being put by", "to": "person"}, {"arrows": "to", "from": "a close up", "label": "of", "to": "a colorfully colored object"}, {"arrows": "to", "from": "paint brush", "label": "is being used by", "to": "man"}, {"arrows": "to", "from": "tablet", "label": "with", "to": "green screen"}, {"arrows": "to", "from": "water", "label": "is next to", "to": "birds"}, {"arrows": "to", "from": "water droplets", "label": "are on", "to": "window"}, {"arrows": "to", "from": "water droplets", "label": "are on", "to": "window"}, {"arrows": "to", "from": "water droplets", "label": "are on", "to": "white background"}, {"arrows": "to", "from": "window", "label": "covered in", "to": "snow"}, {"arrows": "to", "from": "window", "label": "has", "to": "water droplets"}, {"arrows": "to", "from": "window", "label": "has", "to": "water droplets"}, {"arrows": "to", "from": "window", "label": "has", "to": "water droplets"}, {"arrows": "to", "from": "a car", "label": "is stuck", "to": "the mud"}, {"arrows": "to", "from": "a car", "label": "is covered by", "to": "a windshield"}, {"arrows": "to", "from": "a car", "label": "is covered by", "to": "a window"}, {"arrows": "to", "from": "a car", "label": "is covered with", "to": "water"}, {"arrows": "to", "from": "a car", "label": "is covered by", "to": "a car washer"}, {"arrows": "to", "from": "rain drops", "label": "are on", "to": "the windshield of a car"}, {"arrows": "to", "from": "a black car", "label": "is parked", "to": "in the rain"}, {"arrows": "to", "from": "mizeria power lock", "label": "on", "to": "window"}, {"arrows": "to", "from": "sky", "label": "be", "to": "white"}, {"arrows": "to", "from": "cloud", "label": "be", "to": "white"}, {"arrows": "to", "from": "birds", "label": "are flying", "to": "in the sky"}, {"arrows": "to", "from": "flower", "label": "is", "to": "white"}, {"arrows": "to", "from": "flower", "label": "has color", "to": "white"}, {"arrows": "to", "from": "flower", "label": "is colored", "to": "white"}, {"arrows": "to", "from": "flower", "label": "is", "to": "red"}, {"arrows": "to", "from": "flower", "label": "has color", "to": "red"}, {"arrows": "to", "from": "flower", "label": "is colored", "to": "red"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+                      network.on("stabilizationProgress", function(params) {
+                          document.getElementById('loadingBar').removeAttribute("style");
+                          var maxWidth = 496;
+                          var minWidth = 20;
+                          var widthFactor = params.iterations/params.total;
+                          var width = Math.max(minWidth,maxWidth * widthFactor);
+                          document.getElementById('bar').style.width = width + 'px';
+                          document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+                      });
+                      network.once("stabilizationIterationsDone", function() {
+                          document.getElementById('text').innerHTML = '100%';
+                          document.getElementById('bar').style.width = '496px';
+                          document.getElementById('loadingBar').style.opacity = 0;
+                          // really clean the dom element
+                          setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+                      });
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

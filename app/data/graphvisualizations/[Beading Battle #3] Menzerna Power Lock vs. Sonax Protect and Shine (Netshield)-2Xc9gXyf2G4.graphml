@@ -1,0 +1,1033 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="mosquito" />
+    <node id="air" />
+    <node id="room" />
+    <node id="person" />
+    <node id="snow" />
+    <node id="text" />
+    <node id="battle" />
+    <node id="background" />
+    <node id="black" />
+    <node id="a man" />
+    <node id="a suit and tie" />
+    <node id="in front of a white wall" />
+    <node id="a white wall" />
+    <node id="the words" />
+    <node id="man" />
+    <node id="bed" />
+    <node id="a white car" />
+    <node id="a light on it" />
+    <node id="a light" />
+    <node id="the car" />
+    <node id="white" />
+    <node id="the words 'meena power'" />
+    <node id="the words 'meena power lock sonate shield'" />
+    <node id="white light" />
+    <node id="wall" />
+    <node id="car" />
+    <node id="image" />
+    <node id="windshield" />
+    <node id="vehicle" />
+    <node id="polisher" />
+    <node id="sponge" />
+    <node id="spray" />
+    <node id="stairs" />
+    <node id="metal surface" />
+    <node id="tennis ball" />
+    <node id="yellow object" />
+    <node id="child" />
+    <node id="toy" />
+    <node id="rain" />
+    <node id="plaid shirt" />
+    <node id="microfiber cloth" />
+    <node id="blue shirt" />
+    <node id="yellow gloves" />
+    <node id="menzer" />
+    <node id="protect 4" />
+    <node id="a bottle of power protein" />
+    <node id="a table" />
+    <node id="bottle" />
+    <node id="power" />
+    <node id="4" />
+    <node id="two cans of beer" />
+    <node id="on top of a table" />
+    <node id="two rolls of paper" />
+    <node id="two newspapers" />
+    <node id="a pen" />
+    <node id="piece of paper" />
+    <node id="paper" />
+    <node id="a pink ribbon" />
+    <node id="the man" />
+    <node id="the ribbon" />
+    <node id="paint" />
+    <node id="a person" />
+    <node id="a bottle of glue" />
+    <node id="piece of glass" />
+    <node id="glass" />
+    <node id="knife" />
+    <node id="dent" />
+    <node id="on" />
+    <node id="hood" />
+    <node id="of" />
+    <node id="remote control device" />
+    <node id="wood" />
+    <node id="machine" />
+    <node id="video game" />
+    <node id="laptop" />
+    <node id="a pink box" />
+    <node id="a pink handle" />
+    <node id="something" />
+    <node id="rag" />
+    <node id="dirty" />
+    <node id="broom" />
+    <node id="dirt" />
+    <node id="pink tape" />
+    <node id="pink paint job" />
+    <node id="a close up" />
+    <node id="a colorfully colored object" />
+    <node id="laptop computer" />
+    <node id="paint brush" />
+    <node id="steering" />
+    <node id="tablet" />
+    <node id="green screen" />
+    <node id="black cloth" />
+    <node id="windshield cleaner" />
+    <node id="windshield cover" />
+    <node id="water" />
+    <node id="plastic sheet" />
+    <node id="water droplets" />
+    <node id="window" />
+    <node id="white background" />
+    <node id="black and white" />
+    <node id="spots" />
+    <node id="video" />
+    <node id="image from the video" />
+    <node id="snow and ice" />
+    <node id="street" />
+    <node id="road" />
+    <node id="mud" />
+    <node id="side of a road" />
+    <node id="snowy road" />
+    <node id="a car" />
+    <node id="the mud" />
+    <node id="ice and water" />
+    <node id="puddle" />
+    <node id="rain drops" />
+    <node id="the windshield of a car" />
+    <node id="hose" />
+    <node id="a black car" />
+    <node id="in the rain" />
+    <node id="a windshield" />
+    <node id="a window" />
+    <node id="pressure washer" />
+    <node id="a car washer" />
+    <node id="mizeria power lock" />
+    <node id="water and rain" />
+    <node id="white color" />
+    <node id="sky" />
+    <node id="cloud" />
+    <node id="sonx" />
+    <node id="shield" />
+    <node id="sonx - shield" />
+    <node id="birds" />
+    <node id="in the sky" />
+    <node id="black color" />
+    <node id="flower" />
+    <node id="red" />
+    <node id="white and red flower" />
+    <edge source="mosquito" target="air" id="0">
+      <data key="d0">flies</data>
+    </edge>
+    <edge source="mosquito" target="room" id="0">
+      <data key="d0">flies</data>
+    </edge>
+    <edge source="person" target="snow" id="0">
+      <data key="d0">is walking</data>
+    </edge>
+    <edge source="person" target="sponge" id="0">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="sponge" id="1">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="sponge" id="2">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="sponge" id="3">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="sponge" id="4">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="sponge" id="5">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="person" target="sponge" id="6">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="sponge" id="7">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="person" target="sponge" id="8">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="person" target="sponge" id="9">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="sponge" id="10">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="sponge" id="11">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="sponge" id="12">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="sponge" id="13">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="person" target="sponge" id="14">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="sponge" id="15">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="person" target="sponge" id="16">
+      <data key="d0">uses</data>
+    </edge>
+    <edge source="person" target="metal surface" id="0">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="tennis ball" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="person" target="tennis ball" id="1">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="person" target="yellow object" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="person" target="car" id="0">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="1">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="2">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="3">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="4">
+      <data key="d0">is cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="5">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="6">
+      <data key="d0">is cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="7">
+      <data key="d0">is cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="8">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="9">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="10">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="11">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="12">
+      <data key="d0">is cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="13">
+      <data key="d0">is putting</data>
+    </edge>
+    <edge source="person" target="car" id="14">
+      <data key="d0">is cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="15">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="16">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="17">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="18">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="19">
+      <data key="d0">is putting</data>
+    </edge>
+    <edge source="person" target="car" id="20">
+      <data key="d0">is cleaning</data>
+    </edge>
+    <edge source="person" target="car" id="21">
+      <data key="d0">is driving</data>
+    </edge>
+    <edge source="person" target="spray" id="0">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="person" target="paint" id="0">
+      <data key="d0">apply</data>
+    </edge>
+    <edge source="person" target="piece of glass" id="0">
+      <data key="d0">cutting</data>
+    </edge>
+    <edge source="person" target="glass" id="0">
+      <data key="d0">cutting</data>
+    </edge>
+    <edge source="person" target="knife" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="person" target="knife" id="1">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="person" target="knife" id="2">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="person" target="knife" id="3">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="person" target="piece of paper" id="0">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="person" target="piece of paper" id="1">
+      <data key="d0">is making</data>
+    </edge>
+    <edge source="person" target="wood" id="0">
+      <data key="d0">is cutting</data>
+    </edge>
+    <edge source="person" target="wood" id="1">
+      <data key="d0">is cutting</data>
+    </edge>
+    <edge source="person" target="machine" id="0">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="paper" id="0">
+      <data key="d0">cutting</data>
+    </edge>
+    <edge source="person" target="paper" id="1">
+      <data key="d0">is cutting</data>
+    </edge>
+    <edge source="person" target="paper" id="2">
+      <data key="d0">cutting</data>
+    </edge>
+    <edge source="person" target="something" id="0">
+      <data key="d0">is putting</data>
+    </edge>
+    <edge source="person" target="rag" id="0">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="person" target="rag" id="1">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="rag" id="2">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="microfiber cloth" id="0">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="person" target="broom" id="0">
+      <data key="d0">use</data>
+    </edge>
+    <edge source="person" target="pink tape" id="0">
+      <data key="d0">is putting</data>
+    </edge>
+    <edge source="person" target="laptop computer" id="0">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="person" target="tablet" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="person" target="pressure washer" id="0">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="text" target="battle" id="0">
+      <data key="d0">reading</data>
+    </edge>
+    <edge source="text" target="battle" id="1">
+      <data key="d0">reading</data>
+    </edge>
+    <edge source="text" target="battle" id="2">
+      <data key="d0">reading</data>
+    </edge>
+    <edge source="text" target="black and white" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="text" target="black and white" id="1">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="text" target="black and white" id="2">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="text" target="black" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="text" target="sonx" id="0">
+      <data key="d0">reads</data>
+    </edge>
+    <edge source="text" target="shield" id="0">
+      <data key="d0">reads</data>
+    </edge>
+    <edge source="text" target="sonx - shield" id="0">
+      <data key="d0">reads</data>
+    </edge>
+    <edge source="background" target="black" id="0">
+      <data key="d0">being</data>
+    </edge>
+    <edge source="background" target="black" id="1">
+      <data key="d0">being</data>
+    </edge>
+    <edge source="background" target="black" id="2">
+      <data key="d0">being</data>
+    </edge>
+    <edge source="background" target="black" id="3">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="background" target="black" id="4">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="background" target="white color" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="white color" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="white" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="white" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="background" target="white" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="background" target="black color" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="background" target="black color" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="white and red flower" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="a man" target="a suit and tie" id="0">
+      <data key="d0">is wearing</data>
+    </edge>
+    <edge source="a man" target="in front of a white wall" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a man" target="a white wall" id="0">
+      <data key="d0">is facing</data>
+    </edge>
+    <edge source="a man" target="a pink ribbon" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="a man" target="a pink ribbon" id="1">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="the words" target="a white wall" id="0">
+      <data key="d0">are on</data>
+    </edge>
+    <edge source="the words" target="battle" id="0">
+      <data key="d0">are reading</data>
+    </edge>
+    <edge source="man" target="bed" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="battle" id="0">
+      <data key="d0">reading</data>
+    </edge>
+    <edge source="man" target="car" id="0">
+      <data key="d0">polishing</data>
+    </edge>
+    <edge source="man" target="car" id="1">
+      <data key="d0">polishing</data>
+    </edge>
+    <edge source="man" target="car" id="2">
+      <data key="d0">polishing</data>
+    </edge>
+    <edge source="man" target="car" id="3">
+      <data key="d0">polishing</data>
+    </edge>
+    <edge source="man" target="car" id="4">
+      <data key="d0">polishing</data>
+    </edge>
+    <edge source="man" target="car" id="5">
+      <data key="d0">polishing</data>
+    </edge>
+    <edge source="man" target="car" id="6">
+      <data key="d0">polishing</data>
+    </edge>
+    <edge source="man" target="car" id="7">
+      <data key="d0">polishing</data>
+    </edge>
+    <edge source="man" target="car" id="8">
+      <data key="d0">polishing</data>
+    </edge>
+    <edge source="man" target="car" id="9">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="man" target="car" id="10">
+      <data key="d0">is washing</data>
+    </edge>
+    <edge source="man" target="car" id="11">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="man" target="car" id="12">
+      <data key="d0">washing</data>
+    </edge>
+    <edge source="man" target="car" id="13">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="man" target="car" id="14">
+      <data key="d0">is cleaning</data>
+    </edge>
+    <edge source="man" target="car" id="15">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="man" target="car" id="16">
+      <data key="d0">cleaning</data>
+    </edge>
+    <edge source="man" target="car" id="17">
+      <data key="d0">is painting</data>
+    </edge>
+    <edge source="man" target="car" id="18">
+      <data key="d0">washing</data>
+    </edge>
+    <edge source="man" target="car" id="19">
+      <data key="d0">washing</data>
+    </edge>
+    <edge source="man" target="car" id="20">
+      <data key="d0">washing</data>
+    </edge>
+    <edge source="man" target="car" id="21">
+      <data key="d0">washing</data>
+    </edge>
+    <edge source="man" target="car" id="22">
+      <data key="d0">washing</data>
+    </edge>
+    <edge source="man" target="polisher" id="0">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="polisher" id="1">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="0">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="1">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="2">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="3">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="4">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="5">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="6">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="7">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="8">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="9">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="10">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="11">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="12">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="sponge" id="13">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="spray" id="0">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="man" target="stairs" id="0">
+      <data key="d0">is cleaning</data>
+    </edge>
+    <edge source="man" target="plaid shirt" id="0">
+      <data key="d0">is wearing</data>
+    </edge>
+    <edge source="man" target="microfiber cloth" id="0">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="man" target="windshield" id="0">
+      <data key="d0">is cleaning</data>
+    </edge>
+    <edge source="man" target="blue shirt" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="yellow gloves" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="piece of paper" id="0">
+      <data key="d0">is putting</data>
+    </edge>
+    <edge source="man" target="piece of paper" id="1">
+      <data key="d0">puts</data>
+    </edge>
+    <edge source="man" target="paper" id="0">
+      <data key="d0">is putting</data>
+    </edge>
+    <edge source="man" target="paper" id="1">
+      <data key="d0">puts</data>
+    </edge>
+    <edge source="man" target="remote control device" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="man" target="video game" id="0">
+      <data key="d0">is playing</data>
+    </edge>
+    <edge source="man" target="laptop" id="0">
+      <data key="d0">is playing</data>
+    </edge>
+    <edge source="man" target="paint brush" id="0">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="man" target="hose" id="0">
+      <data key="d0">using</data>
+    </edge>
+    <edge source="a white car" target="a light on it" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a white car" target="a light" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a white car" target="the words 'meena power'" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a white car" target="the words 'meena power lock sonate shield'" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the car" target="white" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the car" target="a light" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the car" target="in the rain" id="0">
+      <data key="d0">is parked</data>
+    </edge>
+    <edge source="white light" target="wall" id="0">
+      <data key="d0">is shining on</data>
+    </edge>
+    <edge source="white light" target="wall" id="1">
+      <data key="d0">shining on</data>
+    </edge>
+    <edge source="car" target="image" id="0">
+      <data key="d0">is shown in</data>
+    </edge>
+    <edge source="car" target="image" id="1">
+      <data key="d0">is shown</data>
+    </edge>
+    <edge source="car" target="windshield" id="0">
+      <data key="d0">seen through</data>
+    </edge>
+    <edge source="car" target="windshield" id="1">
+      <data key="d0">is seen through</data>
+    </edge>
+    <edge source="car" target="windshield" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="car" target="windshield" id="3">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="car" target="windshield" id="4">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="car" target="windshield" id="5">
+      <data key="d0">is washing</data>
+    </edge>
+    <edge source="car" target="windshield" id="6">
+      <data key="d0">is washing</data>
+    </edge>
+    <edge source="car" target="windshield" id="7">
+      <data key="d0">is washing</data>
+    </edge>
+    <edge source="car" target="vehicle" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="car" target="vehicle" id="1">
+      <data key="d0">is seen through</data>
+    </edge>
+    <edge source="car" target="dent" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="car" target="dent" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="car" target="dent" id="2">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="car" target="on" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="car" target="on" id="1">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="car" target="on" id="2">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="car" target="dirty" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="car" target="dirt" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="car" target="pink tape" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="car" target="pink paint job" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="car" target="man" id="0">
+      <data key="d0">is being painted by</data>
+    </edge>
+    <edge source="car" target="steering" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="car" target="black cloth" id="0">
+      <data key="d0">is covered by</data>
+    </edge>
+    <edge source="car" target="windshield cleaner" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="car" target="windshield cleaner" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="car" target="windshield cleaner" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="car" target="windshield cover" id="0">
+      <data key="d0">is covered by</data>
+    </edge>
+    <edge source="car" target="water" id="0">
+      <data key="d0">is covered in</data>
+    </edge>
+    <edge source="car" target="water" id="1">
+      <data key="d0">is covered in</data>
+    </edge>
+    <edge source="car" target="water" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="car" target="water" id="3">
+      <data key="d0">is covered with</data>
+    </edge>
+    <edge source="car" target="water" id="4">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="car" target="rain" id="0">
+      <data key="d0">is covered by</data>
+    </edge>
+    <edge source="car" target="rain" id="1">
+      <data key="d0">covered in</data>
+    </edge>
+    <edge source="car" target="rain" id="2">
+      <data key="d0">is driving</data>
+    </edge>
+    <edge source="car" target="rain" id="3">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="car" target="rain" id="4">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="car" target="rain" id="5">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="car" target="rain" id="6">
+      <data key="d0">is parked</data>
+    </edge>
+    <edge source="car" target="rain" id="7">
+      <data key="d0">is parked by</data>
+    </edge>
+    <edge source="car" target="plastic sheet" id="0">
+      <data key="d0">is covered by</data>
+    </edge>
+    <edge source="car" target="sponge" id="0">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="car" target="sponge" id="1">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="car" target="sponge" id="2">
+      <data key="d0">cleaned with</data>
+    </edge>
+    <edge source="car" target="paint" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="car" target="white" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="car" target="spots" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="car" target="video" id="0">
+      <data key="d0">is shown</data>
+    </edge>
+    <edge source="car" target="image from the video" id="0">
+      <data key="d0">is shown</data>
+    </edge>
+    <edge source="car" target="image from the video" id="1">
+      <data key="d0">is shown</data>
+    </edge>
+    <edge source="car" target="snow and ice" id="0">
+      <data key="d0">is covered in</data>
+    </edge>
+    <edge source="car" target="snow and ice" id="1">
+      <data key="d0">is covered in</data>
+    </edge>
+    <edge source="car" target="snow" id="0">
+      <data key="d0">covered in</data>
+    </edge>
+    <edge source="car" target="snow" id="1">
+      <data key="d0">is covered in</data>
+    </edge>
+    <edge source="car" target="street" id="0">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="car" target="road" id="0">
+      <data key="d0">is driving</data>
+    </edge>
+    <edge source="car" target="road" id="1">
+      <data key="d0">is driving</data>
+    </edge>
+    <edge source="car" target="road" id="2">
+      <data key="d0">is driving</data>
+    </edge>
+    <edge source="car" target="road" id="3">
+      <data key="d0">driving</data>
+    </edge>
+    <edge source="car" target="road" id="4">
+      <data key="d0">down</data>
+    </edge>
+    <edge source="car" target="road" id="5">
+      <data key="d0">is driving</data>
+    </edge>
+    <edge source="car" target="road" id="6">
+      <data key="d0">is on</data>
+    </edge>
+    <edge source="car" target="road" id="7">
+      <data key="d0">is covered with snow</data>
+    </edge>
+    <edge source="car" target="mud" id="0">
+      <data key="d0">is driving</data>
+    </edge>
+    <edge source="car" target="side of a road" id="0">
+      <data key="d0">is located on</data>
+    </edge>
+    <edge source="car" target="snowy road" id="0">
+      <data key="d0">driving</data>
+    </edge>
+    <edge source="car" target="ice and water" id="0">
+      <data key="d0">is covered in</data>
+    </edge>
+    <edge source="car" target="puddle" id="0">
+      <data key="d0">is driving</data>
+    </edge>
+    <edge source="car" target="window" id="0">
+      <data key="d0">is covered with</data>
+    </edge>
+    <edge source="car" target="hose" id="0">
+      <data key="d0">is using</data>
+    </edge>
+    <edge source="car" target="pressure washer" id="0">
+      <data key="d0">cleaned by</data>
+    </edge>
+    <edge source="car" target="water and rain" id="0">
+      <data key="d0">is covered by</data>
+    </edge>
+    <edge source="car" target="water and rain" id="1">
+      <data key="d0">is covered by</data>
+    </edge>
+    <edge source="car" target="water droplets" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="windshield" target="rain" id="0">
+      <data key="d0">be covered by</data>
+    </edge>
+    <edge source="windshield" target="rain" id="1">
+      <data key="d0">be covered by</data>
+    </edge>
+    <edge source="windshield" target="rain" id="2">
+      <data key="d0">be covered by</data>
+    </edge>
+    <edge source="windshield" target="water droplets" id="0">
+      <data key="d0">be covered by</data>
+    </edge>
+    <edge source="child" target="toy" id="0">
+      <data key="d0">playing</data>
+    </edge>
+    <edge source="child" target="rain" id="0">
+      <data key="d0">playing</data>
+    </edge>
+    <edge source="menzer" target="protect 4" id="0">
+      <data key="d0">power</data>
+    </edge>
+    <edge source="a bottle of power protein" target="a table" id="0">
+      <data key="d0">is on</data>
+    </edge>
+    <edge source="a bottle of power protein" target="a table" id="1">
+      <data key="d0">is on</data>
+    </edge>
+    <edge source="a bottle of power protein" target="a table" id="2">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="bottle" target="power" id="0">
+      <data key="d0">contain</data>
+    </edge>
+    <edge source="bottle" target="4" id="0">
+      <data key="d0">protect</data>
+    </edge>
+    <edge source="two cans of beer" target="on top of a table" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="two cans of beer" target="a table" id="0">
+      <data key="d0">are on</data>
+    </edge>
+    <edge source="two rolls of paper" target="a table" id="0">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="two newspapers" target="on top of a table" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="a pen" target="a pen" id="0">
+      <data key="d0">is next to</data>
+    </edge>
+    <edge source="piece of paper" target="car" id="0">
+      <data key="d0">is being put into</data>
+    </edge>
+    <edge source="the man" target="the ribbon" id="0">
+      <data key="d0">holds</data>
+    </edge>
+    <edge source="paint" target="black and white" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="a person" target="a bottle of glue" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="a person" target="a bottle of glue" id="1">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="hood" target="of" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="a pink box" target="a pink handle" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="pink tape" target="person" id="0">
+      <data key="d0">is being put by</data>
+    </edge>
+    <edge source="a close up" target="a colorfully colored object" id="0">
+      <data key="d0">of</data>
+    </edge>
+    <edge source="paint brush" target="man" id="0">
+      <data key="d0">is being used by</data>
+    </edge>
+    <edge source="tablet" target="green screen" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="water" target="birds" id="0">
+      <data key="d0">is next to</data>
+    </edge>
+    <edge source="water droplets" target="window" id="0">
+      <data key="d0">are on</data>
+    </edge>
+    <edge source="water droplets" target="window" id="1">
+      <data key="d0">are on</data>
+    </edge>
+    <edge source="water droplets" target="white background" id="0">
+      <data key="d0">are on</data>
+    </edge>
+    <edge source="window" target="snow" id="0">
+      <data key="d0">covered in</data>
+    </edge>
+    <edge source="window" target="water droplets" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="window" target="water droplets" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="window" target="water droplets" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a car" target="the mud" id="0">
+      <data key="d0">is stuck</data>
+    </edge>
+    <edge source="a car" target="a windshield" id="0">
+      <data key="d0">is covered by</data>
+    </edge>
+    <edge source="a car" target="a window" id="0">
+      <data key="d0">is covered by</data>
+    </edge>
+    <edge source="a car" target="water" id="0">
+      <data key="d0">is covered with</data>
+    </edge>
+    <edge source="a car" target="a car washer" id="0">
+      <data key="d0">is covered by</data>
+    </edge>
+    <edge source="rain drops" target="the windshield of a car" id="0">
+      <data key="d0">are on</data>
+    </edge>
+    <edge source="a black car" target="in the rain" id="0">
+      <data key="d0">is parked</data>
+    </edge>
+    <edge source="mizeria power lock" target="window" id="0">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="sky" target="white" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="cloud" target="white" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="birds" target="in the sky" id="0">
+      <data key="d0">are flying</data>
+    </edge>
+    <edge source="flower" target="white" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="flower" target="white" id="1">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="flower" target="white" id="2">
+      <data key="d0">is colored</data>
+    </edge>
+    <edge source="flower" target="red" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="flower" target="red" id="1">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="flower" target="red" id="2">
+      <data key="d0">is colored</data>
+    </edge>
+  </graph>
+</graphml>
