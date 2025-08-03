@@ -1,0 +1,2419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="train track" />
+    <node id="white letters" />
+    <node id="sign" />
+    <node id="the train is coming" />
+    <node id="the way to the mountains" />
+    <node id="the train is going through the jungle" />
+    <node id="'stop'" />
+    <node id="train" />
+    <node id="narrow mountain valley" />
+    <node id="mountain valley" />
+    <node id="stone structure" />
+    <node id="field" />
+    <node id="structure" />
+    <node id="middle of field" />
+    <node id="stone wall" />
+    <node id="tree" />
+    <node id="sailer" />
+    <node id="past" />
+    <node id="rock formation" />
+    <node id="sailor" />
+    <node id="caribbean islands" />
+    <node id="waters" />
+    <node id="bay of islands" />
+    <node id="st lucia island" />
+    <node id="saint lucia" />
+    <node id="ocean" />
+    <node id="bunch of grass" />
+    <node id="huts" />
+    <node id="in the field" />
+    <node id="pond" />
+    <node id="people" />
+    <node id="water" />
+    <node id="tents" />
+    <node id="a few tents" />
+    <node id="a lot of grass" />
+    <node id="windmill" />
+    <node id="a field" />
+    <node id="grass" />
+    <node id="group of tents" />
+    <node id="middle of a field" />
+    <node id="middle of nowhere" />
+    <node id="street" />
+    <node id="flooded" />
+    <node id="amazon rainforest" />
+    <node id="river" />
+    <node id="trees" />
+    <node id="flooded street" />
+    <node id="the ruins of Machal" />
+    <node id="Machal" />
+    <node id="Peru" />
+    <node id="Machalpa" />
+    <node id="ruins" />
+    <node id="The ruins of Machalpa" />
+    <node id="in Peru" />
+    <node id="view" />
+    <node id="the window of a stone tower" />
+    <node id="Ruins of Machal" />
+    <node id="window" />
+    <node id="a mountain" />
+    <node id="a river" />
+    <node id="mountains and clouds" />
+    <node id="a cloudy sky above it" />
+    <node id="mountain" />
+    <node id="down a mountain side" />
+    <node id="boat" />
+    <node id="amazon" />
+    <node id="mangrove forest" />
+    <node id="monkey" />
+    <node id="jungle" />
+    <node id="leaves" />
+    <node id="a small cat" />
+    <node id="open" />
+    <node id="the camera" />
+    <node id="butterfly" />
+    <node id="over" />
+    <node id="flower" />
+    <node id="a butterfly" />
+    <node id="over some flowers" />
+    <node id="sloty" />
+    <node id="tree branch" />
+    <node id="a small bird" />
+    <node id="top of a tree branch" />
+    <node id="a small animal" />
+    <node id="a tree branch" />
+    <node id="three monkeys" />
+    <node id="three baby monkeys" />
+    <node id="on a branch" />
+    <node id="in the jungle" />
+    <node id="leopard" />
+    <node id="camera" />
+    <node id="a tapper" />
+    <node id="on a bird" />
+    <node id="a bird" />
+    <node id="the jungle" />
+    <node id="a baby rhino" />
+    <node id="in the woods" />
+    <node id="lion" />
+    <node id="in the grass" />
+    <node id="the baby rhino" />
+    <node id="lake" />
+    <node id="clouds" />
+    <node id="sky" />
+    <node id="trees and clouds" />
+    <node id="the terraces" />
+    <node id="white and brown colored rocks" />
+    <node id="brown colored rocks" />
+    <node id="the mountains" />
+    <node id="rocks" />
+    <node id="canyon" />
+    <node id="middle" />
+    <node id="terrace" />
+    <node id="Incao River" />
+    <node id="mud" />
+    <node id="the terraces of the terraces" />
+    <node id="down" />
+    <node id="a mosaic tile" />
+    <node id="a circle" />
+    <node id="in this image" />
+    <node id="this aerial image" />
+    <node id="a large piece of glass" />
+    <node id="rubble" />
+    <node id="city" />
+    <node id="pile" />
+    <node id="a horse" />
+    <node id="in a green field" />
+    <node id="with mountains" />
+    <node id="a green field" />
+    <node id="mountains" />
+    <node id="in a field" />
+    <node id="in the background" />
+    <node id="mountains in the background" />
+    <node id="in a field of grass" />
+    <node id="island" />
+    <node id="rural area" />
+    <node id="area" />
+    <node id="flooded river" />
+    <node id="a tree" />
+    <node id="a flooded field" />
+    <node id="village" />
+    <node id="a little boy" />
+    <node id="on the ground" />
+    <node id="a lake" />
+    <node id="two children" />
+    <node id="on a bench" />
+    <node id="a body of water" />
+    <node id="it" />
+    <node id="a bench" />
+    <node id="man" />
+    <node id="child" />
+    <node id="in the water" />
+    <node id="the little boy" />
+    <node id="house" />
+    <node id="hut" />
+    <node id="bike" />
+    <node id="bridge" />
+    <node id="person" />
+    <node id="car" />
+    <node id="building" />
+    <node id="red building" />
+    <node id="white car" />
+    <node id="windows" />
+    <node id="doors" />
+    <node id="palm trees" />
+    <node id="blue" />
+    <node id="parked" />
+    <node id="color" />
+    <node id="mural" />
+    <node id="graffiti" />
+    <node id="walls" />
+    <node id="rooftop" />
+    <node id="night" />
+    <node id="stars" />
+    <node id="silhouette" />
+    <node id="group of people" />
+    <node id="starry sky" />
+    <node id="night sky" />
+    <node id="machalpa" />
+    <node id="machal valley" />
+    <node id="a castle" />
+    <node id="castle" />
+    <node id="green field" />
+    <node id="donkey" />
+    <node id="dirt road" />
+    <node id="two donkeys" />
+    <node id="down a path" />
+    <node id="in the mountains" />
+    <node id="donkeys" />
+    <node id="two horses" />
+    <node id="down a road" />
+    <node id="a stone wall" />
+    <node id="Ruins" />
+    <node id="the ruins" />
+    <node id="Machal, Peru" />
+    <node id="a stone structure" />
+    <node id="the middle of a mountain" />
+    <node id="tourist attractions" />
+    <node id="Machalapa" />
+    <node id="mexico" />
+    <node id="the maya maya" />
+    <node id="Chichen Itza, Mexico" />
+    <node id="the Mayan ruins" />
+    <node id="the ruins of machal" />
+    <node id="machal" />
+    <node id="llama" />
+    <node id="llamas" />
+    <node id="in the scene" />
+    <node id="present" />
+    <node id="stone building" />
+    <node id="green moss" />
+    <node id="a stone building" />
+    <node id="a door" />
+    <node id="door" />
+    <node id="road" />
+    <node id="wall" />
+    <node id="woman" />
+    <node id="red jacket" />
+    <node id="hat" />
+    <node id="a young girl" />
+    <node id="a llama" />
+    <node id="a lamb" />
+    <node id="her arms" />
+    <node id="a lldo" />
+    <node id="a narrow path" />
+    <node id="a rocky area" />
+    <node id="path" />
+    <node id="grassy field" />
+    <node id="forest" />
+    <node id="a small stream" />
+    <node id="an ancient city" />
+    <node id="peru" />
+    <node id="the incas" />
+    <node id="in peru" />
+    <node id="Macha, Peru" />
+    <node id="a large stone structure" />
+    <node id="a sky background" />
+    <node id="the giant stone" />
+    <node id="the middle of the island" />
+    <node id="the giant stone wall" />
+    <node id="the Inca" />
+    <node id="stone" />
+    <node id="sky background" />
+    <node id="mountain road" />
+    <node id="musical instrument" />
+    <node id="market" />
+    <node id="guitar" />
+    <node id="red hat" />
+    <node id="colorful dress" />
+    <node id="piece of wood" />
+    <node id="red dress" />
+    <node id="red cloth" />
+    <node id="wooden pole" />
+    <node id="piece of fabric" />
+    <node id="fabric" />
+    <node id="red shirt" />
+    <node id="a man" />
+    <node id="a red hat" />
+    <node id="dress" />
+    <node id="stick" />
+    <node id="knitting" />
+    <node id="table" />
+    <node id="baskets" />
+    <node id="baskets on it" />
+    <node id="fruit" />
+    <node id="baskets filled with fruit" />
+    <node id="entrance" />
+    <node id="cathedral" />
+    <node id="barcelona" />
+    <node id="spain" />
+    <node id="facade" />
+    <node id="san francisco" />
+    <node id="Cuaca" />
+    <node id="Colombia" />
+    <node id="Culá, Colombia" />
+    <node id="the city" />
+    <node id="Cuaca, Colombia" />
+    <node id="Cuz, Colombia" />
+    <node id="green algae" />
+    <node id="cloudy sky" />
+    <node id="in" />
+    <node id="background" />
+    <node id="thatched roof" />
+    <node id="thatched door" />
+    <node id="a hut" />
+    <node id="a thatched roof" />
+    <node id="a wooden door" />
+    <node id="fence" />
+    <node id="wood" />
+    <node id="boats" />
+    <node id="top of a lake" />
+    <node id="houses" />
+    <node id="rocky cliff" />
+    <node id="sailing" />
+    <node id="stone arch" />
+    <node id="middle of a path" />
+    <node id="a stone arch" />
+    <node id="the middle of a hill" />
+    <node id="a hill" />
+    <node id="middle of mountain" />
+    <node id="dirt" />
+    <node id="hill" />
+    <node id="body of water" />
+    <node id="scarf" />
+    <node id="red scarf" />
+    <node id="two" />
+    <node id="the ancient city of poa" />
+    <node id="the region of Poa" />
+    <node id="the province" />
+    <node id="a view" />
+    <node id="a village" />
+    <node id="the small town" />
+    <node id="a small town" />
+    <node id="blue sky" />
+    <node id="the" />
+    <node id="stone wall of Machal" />
+    <node id="the ruins of Machalpa" />
+    <node id="Machal Valley" />
+    <node id="travel video" />
+    <node id="a cloud" />
+    <node id="a very steep face" />
+    <node id="the top of a mountain" />
+    <node id="on a hill" />
+    <node id="colorful dresses" />
+    <node id="children" />
+    <node id="two girls" />
+    <node id="girls" />
+    <node id="top" />
+    <node id="two women" />
+    <node id="top of a mountain" />
+    <node id="words" />
+    <node id="a c c b k e" />
+    <node id="gate" />
+    <node id="a kal schwartz" />
+    <node id="on" />
+    <node id="kal schwartz" />
+    <node id="darkness" />
+    <node id="jacob" />
+    <node id="kate" />
+    <node id="C O K E" />
+    <node id="Jacob" />
+    <node id="Kate Schwartz" />
+    <node id="in front of gate" />
+    <node id="church" />
+    <node id="Kate" />
+    <node id="top of hill" />
+    <node id="words 'jacob schwartz'" />
+    <node id="achze" />
+    <node id="on top of a hill" />
+    <node id="with the words 'ach kart'" />
+    <node id="" />
+    <edge source="train track" target="white letters" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="train track" target="sign" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="train track" target="sign" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="train track" target="sign" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="train track" target="sign" id="3">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="train track" target="sign" id="4">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="train track" target="sign" id="5">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="train track" target="sign" id="6">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="train track" target="the way to the mountains" id="0">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="sign" target="the train is coming" id="0">
+      <data key="d0">says</data>
+    </edge>
+    <edge source="sign" target="the train is going through the jungle" id="0">
+      <data key="d0">says</data>
+    </edge>
+    <edge source="sign" target="the train is going through the jungle" id="1">
+      <data key="d0">says</data>
+    </edge>
+    <edge source="sign" target="the train is going through the jungle" id="2">
+      <data key="d0">says</data>
+    </edge>
+    <edge source="sign" target="'stop'" id="0">
+      <data key="d0">says</data>
+    </edge>
+    <edge source="sign" target="'stop'" id="1">
+      <data key="d0">says</data>
+    </edge>
+    <edge source="sign" target="'stop'" id="2">
+      <data key="d0">says</data>
+    </edge>
+    <edge source="train" target="narrow mountain valley" id="0">
+      <data key="d0">going through</data>
+    </edge>
+    <edge source="train" target="mountain valley" id="0">
+      <data key="d0">going through</data>
+    </edge>
+    <edge source="train" target="mountains and clouds" id="0">
+      <data key="d0">has view</data>
+    </edge>
+    <edge source="train" target="mountains and clouds" id="1">
+      <data key="d0">has view</data>
+    </edge>
+    <edge source="train" target="down a mountain side" id="0">
+      <data key="d0">traveling</data>
+    </edge>
+    <edge source="train" target="down" id="0">
+      <data key="d0">traveling</data>
+    </edge>
+    <edge source="train" target="down" id="1">
+      <data key="d0">traveling</data>
+    </edge>
+    <edge source="train" target="down" id="2">
+      <data key="d0">traveling</data>
+    </edge>
+    <edge source="train" target="down" id="3">
+      <data key="d0">traveling</data>
+    </edge>
+    <edge source="train" target="mountain road" id="0">
+      <data key="d0">traveling</data>
+    </edge>
+    <edge source="train" target="mountain road" id="1">
+      <data key="d0">traveling</data>
+    </edge>
+    <edge source="train" target="mountain road" id="2">
+      <data key="d0">traveling</data>
+    </edge>
+    <edge source="train" target="mountain road" id="3">
+      <data key="d0">traveling</data>
+    </edge>
+    <edge source="stone structure" target="field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="field" target="bunch of grass" id="0">
+      <data key="d0">contain</data>
+    </edge>
+    <edge source="field" target="huts" id="0">
+      <data key="d0">contain</data>
+    </edge>
+    <edge source="field" target="pond" id="0">
+      <data key="d0">contain</data>
+    </edge>
+    <edge source="field" target="tents" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="tents" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="a few tents" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="a few tents" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="a lot of grass" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="field" target="grass" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="structure" target="middle of field" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="stone wall" target="tree" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="stone wall" target="tree" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="stone wall" target="tree" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="stone wall" target="window" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="stone wall" target="road" id="0">
+      <data key="d0">blocks the view of</data>
+    </edge>
+    <edge source="stone wall" target="sky background" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="stone wall" target="blue sky" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="stone wall" id="0">
+      <data key="d0">is located behind</data>
+    </edge>
+    <edge source="tree" target="stone wall" id="1">
+      <data key="d0">is located behind</data>
+    </edge>
+    <edge source="tree" target="flooded river" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="tree" target="middle" id="0">
+      <data key="d0">is situated in</data>
+    </edge>
+    <edge source="sailer" target="past" id="0">
+      <data key="d0">sails</data>
+    </edge>
+    <edge source="sailer" target="past" id="1">
+      <data key="d0">sails</data>
+    </edge>
+    <edge source="sailer" target="past" id="2">
+      <data key="d0">sails</data>
+    </edge>
+    <edge source="sailer" target="past" id="3">
+      <data key="d0">sails</data>
+    </edge>
+    <edge source="sailer" target="rock formation" id="0">
+      <data key="d0">sails</data>
+    </edge>
+    <edge source="sailer" target="rock formation" id="1">
+      <data key="d0">sails</data>
+    </edge>
+    <edge source="sailer" target="rock formation" id="2">
+      <data key="d0">sails</data>
+    </edge>
+    <edge source="sailer" target="waters" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="sailer" target="ocean" id="0">
+      <data key="d0">is sailing</data>
+    </edge>
+    <edge source="sailer" target="ocean" id="1">
+      <data key="d0">sailing</data>
+    </edge>
+    <edge source="sailer" target="ocean" id="2">
+      <data key="d0">is sailing</data>
+    </edge>
+    <edge source="sailer" target="water" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="sailer" target="rocky cliff" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="sailer" target="sailing" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="sailer" target="in" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="rock formation" target="waters" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="rock formation" target="bay of islands" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="rock formation" target="bay of islands" id="1">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="rock formation" target="grassy field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="rock formation" target="grass" id="0">
+      <data key="d0">is situated in</data>
+    </edge>
+    <edge source="rock formation" target="forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="rock formation" target="blue sky" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="rock formation" target="blue sky" id="1">
+      <data key="d0">is located behind</data>
+    </edge>
+    <edge source="sailor" target="caribbean islands" id="0">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="waters" target="bay of islands" id="0">
+      <data key="d0">are part of</data>
+    </edge>
+    <edge source="bay of islands" target="st lucia island" id="0">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="bay of islands" target="st lucia island" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="bay of islands" target="st lucia island" id="2">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="bay of islands" target="waters" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="st lucia island" target="saint lucia" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="huts" target="in the field" id="0">
+      <data key="d0">exist</data>
+    </edge>
+    <edge source="people" target="water" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="people" target="boat" id="0">
+      <data key="d0">are on</data>
+    </edge>
+    <edge source="people" target="boat" id="1">
+      <data key="d0">are on</data>
+    </edge>
+    <edge source="water" target="down" id="0">
+      <data key="d0">is flowing</data>
+    </edge>
+    <edge source="water" target="green algae" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="water" target="island" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="tents" target="field" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="tents" target="field" id="1">
+      <data key="d0">located in</data>
+    </edge>
+    <edge source="tents" target="top of a lake" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="tents" target="top of a lake" id="1">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="windmill" target="a field" id="0">
+      <data key="d0">be located in</data>
+    </edge>
+    <edge source="a field" target="mountains in the background" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="group of tents" target="middle of a field" id="0">
+      <data key="d0">located in</data>
+    </edge>
+    <edge source="group of tents" target="middle of nowhere" id="0">
+      <data key="d0">located in</data>
+    </edge>
+    <edge source="group of tents" target="water" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="group of tents" target="top of a lake" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="group of tents" target="top of a lake" id="1">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="street" target="flooded" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="street" target="flooded" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="street" target="flooded" id="2">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="street" target="amazon rainforest" id="0">
+      <data key="d0">located</data>
+    </edge>
+    <edge source="street" target="building" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="street" target="graffiti" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="street" target="graffiti" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="street" target="graffiti" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="street" target="trees" id="0">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="amazon rainforest" target="flooded street" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="amazon rainforest" target="flooded street" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="river" target="people" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="river" target="trees" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="river" target="mountain" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="river" target="view" id="0">
+      <data key="d0">is visible in</data>
+    </edge>
+    <edge source="river" target="water" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="river" target="water" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="river" target="rocks" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="river" target="flooded" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="river" target="flooded" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="river" target="rural area" id="0">
+      <data key="d0">located</data>
+    </edge>
+    <edge source="trees" target="street" id="0">
+      <data key="d0">are near</data>
+    </edge>
+    <edge source="trees" target="street" id="1">
+      <data key="d0">are near</data>
+    </edge>
+    <edge source="the ruins of Machal" target="Machal" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins of Machal" target="Machal" id="1">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins of Machal" target="Peru" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins of Machal" target="Peru" id="1">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="Machal" target="the window of a stone tower" id="0">
+      <data key="d0">from</data>
+    </edge>
+    <edge source="Machal" target="Peru" id="0">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="Machal" target="Peru" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="Machal" target="the ruins" id="0">
+      <data key="d0">is a location of</data>
+    </edge>
+    <edge source="Machalpa" target="ruins" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="Machalpa" target="ruins" id="1">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="Machalpa" target="ruins" id="2">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="Machalpa" target="Peru" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="Machalpa" target="Peru" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="Machalpa" target="tourist attractions" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="The ruins of Machalpa" target="in Peru" id="0">
+      <data key="d0">exist</data>
+    </edge>
+    <edge source="The ruins of Machalpa" target="in Peru" id="1">
+      <data key="d0">exist</data>
+    </edge>
+    <edge source="The ruins of Machalpa" target="Machalpa" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="view" target="Machal" id="0">
+      <data key="d0">of</data>
+    </edge>
+    <edge source="view" target="village" id="0">
+      <data key="d0">showing</data>
+    </edge>
+    <edge source="view" target="the city" id="0">
+      <data key="d0">shows</data>
+    </edge>
+    <edge source="Ruins of Machal" target="Machal" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a mountain" target="a river" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a mountain" target="trees" id="0">
+      <data key="d0">is next to</data>
+    </edge>
+    <edge source="a mountain" target="trees" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a mountain" target="a cloudy sky above it" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a mountain" target="the mountains" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a mountain" target="a cloud" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a mountain" target="a cloud" id="1">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="a mountain" target="a very steep face" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a mountain" target="clouds" id="0">
+      <data key="d0">is surrounded by</data>
+    </edge>
+    <edge source="boat" target="water" id="0">
+      <data key="d0">traveling</data>
+    </edge>
+    <edge source="boat" target="water" id="1">
+      <data key="d0">traveling</data>
+    </edge>
+    <edge source="boat" target="water" id="2">
+      <data key="d0">traveling</data>
+    </edge>
+    <edge source="boat" target="water" id="3">
+      <data key="d0">is sailing</data>
+    </edge>
+    <edge source="boat" target="water" id="4">
+      <data key="d0">is traveling through</data>
+    </edge>
+    <edge source="boat" target="water" id="5">
+      <data key="d0">is floating</data>
+    </edge>
+    <edge source="boat" target="water" id="6">
+      <data key="d0">is floating</data>
+    </edge>
+    <edge source="boat" target="water" id="7">
+      <data key="d0">is floating</data>
+    </edge>
+    <edge source="boat" target="water" id="8">
+      <data key="d0">is floating</data>
+    </edge>
+    <edge source="boat" target="amazon" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="boat" target="trees" id="0">
+      <data key="d0">located near</data>
+    </edge>
+    <edge source="boat" target="mangrove forest" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="boat" target="sky" id="0">
+      <data key="d0">is sailing</data>
+    </edge>
+    <edge source="boat" target="house" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="boat" target="middle" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="boat" target="island" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="boat" target="hut" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="monkey" target="jungle" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="monkey" target="jungle" id="1">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="monkey" target="jungle" id="2">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="monkey" target="jungle" id="3">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="monkey" target="jungle" id="4">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="monkey" target="jungle" id="5">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="monkey" target="jungle" id="6">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="monkey" target="jungle" id="7">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="monkey" target="jungle" id="8">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="monkey" target="leaves" id="0">
+      <data key="d0">eating</data>
+    </edge>
+    <edge source="monkey" target="tree branch" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="monkey" target="tree branch" id="1">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="monkey" target="tree branch" id="2">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="monkey" target="tree branch" id="3">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="monkey" target="tree branch" id="4">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="monkey" target="tree branch" id="5">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="monkey" target="tree" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a small cat" target="open" id="0">
+      <data key="d0">has its mouth</data>
+    </edge>
+    <edge source="a small cat" target="the camera" id="0">
+      <data key="d0">is looking up at</data>
+    </edge>
+    <edge source="butterfly" target="over" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="butterfly" target="over" id="1">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="butterfly" target="flower" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="butterfly" target="flower" id="1">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="a butterfly" target="over some flowers" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="a butterfly" target="over some flowers" id="1">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="sloty" target="tree branch" id="0">
+      <data key="d0">hanging from</data>
+    </edge>
+    <edge source="sloty" target="tree branch" id="1">
+      <data key="d0">located on</data>
+    </edge>
+    <edge source="a small bird" target="top of a tree branch" id="0">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a small bird" target="top of a tree branch" id="1">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="a small bird" target="top of a tree branch" id="2">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a small bird" target="top of a tree branch" id="3">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a small bird" target="top of a tree branch" id="4">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="a small animal" target="a tree branch" id="0">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a small animal" target="a tree branch" id="1">
+      <data key="d0">on top of</data>
+    </edge>
+    <edge source="three monkeys" target="a tree branch" id="0">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="three monkeys" target="a tree branch" id="1">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="three baby monkeys" target="on a branch" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="three baby monkeys" target="in the jungle" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="leopard" target="camera" id="0">
+      <data key="d0">looking at</data>
+    </edge>
+    <edge source="leopard" target="camera" id="1">
+      <data key="d0">looking at</data>
+    </edge>
+    <edge source="leopard" target="grass" id="0">
+      <data key="d0">is sitting</data>
+    </edge>
+    <edge source="a tapper" target="on a bird" id="0">
+      <data key="d0">eating</data>
+    </edge>
+    <edge source="a tapper" target="in the jungle" id="0">
+      <data key="d0">eating</data>
+    </edge>
+    <edge source="a tapper" target="a bird" id="0">
+      <data key="d0">feeding on</data>
+    </edge>
+    <edge source="a tapper" target="the jungle" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a baby rhino" target="grass" id="0">
+      <data key="d0">is eating</data>
+    </edge>
+    <edge source="a baby rhino" target="in the woods" id="0">
+      <data key="d0">is eating</data>
+    </edge>
+    <edge source="a baby rhino" target="in the grass" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="lion" target="grass" id="0">
+      <data key="d0">eating</data>
+    </edge>
+    <edge source="lion" target="grass" id="1">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="the baby rhino" target="in the grass" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="lake" target="trees" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="lake" target="clouds" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="lake" target="clouds" id="1">
+      <data key="d0">is under</data>
+    </edge>
+    <edge source="lake" target="trees and clouds" id="0">
+      <data key="d0">surrounded by</data>
+    </edge>
+    <edge source="lake" target="green algae" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="lake" target="green algae" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="lake" target="cloudy sky" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="lake" target="boats" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="lake" target="houses" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="sky" target="view" id="0">
+      <data key="d0">is visible in</data>
+    </edge>
+    <edge source="sky" target="blue" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="sky" target="blue" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="sky" target="stars" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="sky" target="stars" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="sky" target="clouds" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="sky" target="darkness" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="the terraces" target="white and brown colored rocks" id="0">
+      <data key="d0">are covered with</data>
+    </edge>
+    <edge source="the terraces" target="brown colored rocks" id="0">
+      <data key="d0">are covered with</data>
+    </edge>
+    <edge source="the terraces" target="the mountains" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the terraces" target="mud" id="0">
+      <data key="d0">are covered with</data>
+    </edge>
+    <edge source="the terraces" target="mud" id="1">
+      <data key="d0">are covered with</data>
+    </edge>
+    <edge source="the mountains" target="a small town" id="0">
+      <data key="d0">contain</data>
+    </edge>
+    <edge source="canyon" target="middle" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="canyon" target="path" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="terrace" target="Incao River" id="0">
+      <data key="d0">located on</data>
+    </edge>
+    <edge source="the terraces of the terraces" target="mud" id="0">
+      <data key="d0">are covered with</data>
+    </edge>
+    <edge source="the terraces of the terraces" target="mud" id="1">
+      <data key="d0">are covered with</data>
+    </edge>
+    <edge source="the terraces of the terraces" target="mud" id="2">
+      <data key="d0">are covered with</data>
+    </edge>
+    <edge source="a mosaic tile" target="a mountain" id="0">
+      <data key="d0">is in the shape of</data>
+    </edge>
+    <edge source="a mosaic tile" target="a circle" id="0">
+      <data key="d0">is in the shape of</data>
+    </edge>
+    <edge source="a mosaic tile" target="a circle" id="1">
+      <data key="d0">is in the shape of</data>
+    </edge>
+    <edge source="a mosaic tile" target="in this image" id="0">
+      <data key="d0">is shown</data>
+    </edge>
+    <edge source="a mosaic tile" target="this aerial image" id="0">
+      <data key="d0">is shown in</data>
+    </edge>
+    <edge source="a large piece of glass" target="this aerial image" id="0">
+      <data key="d0">is seen in</data>
+    </edge>
+    <edge source="rubble" target="city" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="city" target="window" id="0">
+      <data key="d0">is viewed from</data>
+    </edge>
+    <edge source="city" target="window" id="1">
+      <data key="d0">is viewed from</data>
+    </edge>
+    <edge source="city" target="rooftop" id="0">
+      <data key="d0">is viewed from</data>
+    </edge>
+    <edge source="city" target="night" id="0">
+      <data key="d0">viewed</data>
+    </edge>
+    <edge source="city" target="night" id="1">
+      <data key="d0">viewed</data>
+    </edge>
+    <edge source="city" target="Cuaca" id="0">
+      <data key="d0">viewed from</data>
+    </edge>
+    <edge source="city" target="Cuaca" id="1">
+      <data key="d0">viewed from</data>
+    </edge>
+    <edge source="city" target="Cuaca" id="2">
+      <data key="d0">viewed from</data>
+    </edge>
+    <edge source="city" target="Cuaca" id="3">
+      <data key="d0">viewed from</data>
+    </edge>
+    <edge source="city" target="Cuaca" id="4">
+      <data key="d0">viewed from</data>
+    </edge>
+    <edge source="city" target="Cuaca" id="5">
+      <data key="d0">viewed from</data>
+    </edge>
+    <edge source="city" target="Culá, Colombia" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="city" target="mountains" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="city" target="mountains" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="city" target="mountains" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="city" target="Cuz, Colombia" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="city" target="Cuz, Colombia" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="city" target="Cuz, Colombia" id="2">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="pile" target="rubble" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="a horse" target="in a green field" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a horse" target="with mountains" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a horse" target="a green field" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a horse" target="mountains" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="a horse" target="in a field" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a horse" target="in the background" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a horse" target="in a field of grass" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a horse" target="in a field of grass" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="island" target="river" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="island" target="boat" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="island" target="in" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="island" target="middle" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="island" target="background" id="0">
+      <data key="d0">is located</data>
+    </edge>
+    <edge source="area" target="river" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a tree" target="a flooded field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="village" target="water" id="0">
+      <data key="d0">located</data>
+    </edge>
+    <edge source="village" target="water" id="1">
+      <data key="d0">located</data>
+    </edge>
+    <edge source="a little boy" target="on the ground" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="a little boy" target="a lake" id="0">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="a little boy" target="in the water" id="0">
+      <data key="d0">is running</data>
+    </edge>
+    <edge source="two children" target="on a bench" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="two children" target="a body of water" id="0">
+      <data key="d0">near</data>
+    </edge>
+    <edge source="two children" target="it" id="0">
+      <data key="d0">near</data>
+    </edge>
+    <edge source="two children" target="on a hill" id="0">
+      <data key="d0">stand</data>
+    </edge>
+    <edge source="two children" target="on a hill" id="1">
+      <data key="d0">stand</data>
+    </edge>
+    <edge source="two children" target="colorful dresses" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="two children" target="colorful dresses" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="a bench" target="a body of water" id="0">
+      <data key="d0">near</data>
+    </edge>
+    <edge source="man" target="child" id="0">
+      <data key="d0">are playing with</data>
+    </edge>
+    <edge source="man" target="water" id="0">
+      <data key="d0">are playing in</data>
+    </edge>
+    <edge source="man" target="bike" id="0">
+      <data key="d0">riding</data>
+    </edge>
+    <edge source="man" target="bike" id="1">
+      <data key="d0">riding</data>
+    </edge>
+    <edge source="man" target="bike" id="2">
+      <data key="d0">riding</data>
+    </edge>
+    <edge source="man" target="bridge" id="0">
+      <data key="d0">down</data>
+    </edge>
+    <edge source="man" target="street" id="0">
+      <data key="d0">down</data>
+    </edge>
+    <edge source="man" target="river" id="0">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="man" target="musical instrument" id="0">
+      <data key="d0">playing</data>
+    </edge>
+    <edge source="man" target="market" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="market" id="1">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="guitar" id="0">
+      <data key="d0">playing</data>
+    </edge>
+    <edge source="man" target="red hat" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="red hat" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="red hat" id="2">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="red shirt" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="hut" id="0">
+      <data key="d0">is standing in front of</data>
+    </edge>
+    <edge source="man" target="hat" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="scarf" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="red scarf" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="red scarf" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="in front of gate" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="in front of gate" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="hill" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="hill" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="hill" id="2">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="hill" id="3">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="hill" id="4">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="hill" id="5">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="hill" id="6">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="hill" id="7">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="hill" id="8">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="hill" id="9">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="hill" id="10">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="hill" id="11">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="hill" id="12">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="hill" id="13">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="hill" id="14">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="hill" id="15">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="hill" id="16">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="words" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="man" target="words" id="1">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="man" target="words" id="2">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="man" target="top of hill" id="0">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="top of hill" id="1">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="words 'jacob schwartz'" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="man" target="top" id="0">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="man" target="achze" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="man" target="mountain" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="mountain" id="1">
+      <data key="d0">standing_on</data>
+    </edge>
+    <edge source="child" target="water" id="0">
+      <data key="d0">are playing in</data>
+    </edge>
+    <edge source="child" target="top" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="child" target="mountain" id="0">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="the little boy" target="in the water" id="0">
+      <data key="d0">is running</data>
+    </edge>
+    <edge source="house" target="hill" id="0">
+      <data key="d0">located on</data>
+    </edge>
+    <edge source="hut" target="lake" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="hut" target="lake" id="1">
+      <data key="d0">is situated on</data>
+    </edge>
+    <edge source="hut" target="thatched roof" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="hut" target="thatched door" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="hut" target="fence" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="bike" target="street" id="0">
+      <data key="d0">down</data>
+    </edge>
+    <edge source="person" target="bike" id="0">
+      <data key="d0">riding</data>
+    </edge>
+    <edge source="person" target="bike" id="1">
+      <data key="d0">riding</data>
+    </edge>
+    <edge source="person" target="bridge" id="0">
+      <data key="d0">down</data>
+    </edge>
+    <edge source="person" target="street" id="0">
+      <data key="d0">down</data>
+    </edge>
+    <edge source="person" target="street" id="1">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="person" target="street" id="2">
+      <data key="d0">down</data>
+    </edge>
+    <edge source="person" target="silhouette" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="person" target="red cloth" id="0">
+      <data key="d0">is weavng</data>
+    </edge>
+    <edge source="person" target="wooden pole" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="person" target="piece of fabric" id="0">
+      <data key="d0">is weaving</data>
+    </edge>
+    <edge source="person" target="fabric" id="0">
+      <data key="d0">is weaving</data>
+    </edge>
+    <edge source="person" target="fabric" id="1">
+      <data key="d0">is working on</data>
+    </edge>
+    <edge source="person" target="mountain" id="0">
+      <data key="d0">standing_on</data>
+    </edge>
+    <edge source="person" target="hill" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="car" target="street" id="0">
+      <data key="d0">driving</data>
+    </edge>
+    <edge source="car" target="building" id="0">
+      <data key="d0">is parked in front of</data>
+    </edge>
+    <edge source="car" target="building" id="1">
+      <data key="d0">in front of</data>
+    </edge>
+    <edge source="car" target="building" id="2">
+      <data key="d0">is parked in front of</data>
+    </edge>
+    <edge source="car" target="blue" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="car" target="parked" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="building" target="windows" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="building" target="doors" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="building" target="car" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="building" target="car" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="building" target="car" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="building" target="palm trees" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="building" target="palm trees" id="1">
+      <data key="d0">is located in front of</data>
+    </edge>
+    <edge source="building" target="color" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="building" target="color" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="building" target="mural" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="red building" target="street" id="0">
+      <data key="d0">is located on</data>
+    </edge>
+    <edge source="red building" target="white car" id="0">
+      <data key="d0">is next to</data>
+    </edge>
+    <edge source="palm trees" target="building" id="0">
+      <data key="d0">are near</data>
+    </edge>
+    <edge source="palm trees" target="building" id="1">
+      <data key="d0">are near</data>
+    </edge>
+    <edge source="walls" target="graffiti" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="walls" target="graffiti" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="group of people" target="starry sky" id="0">
+      <data key="d0">are silhouetted against</data>
+    </edge>
+    <edge source="night sky" target="stars" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="night sky" target="palm trees" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="2">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="3">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="4">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="5">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="6">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="7">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="8">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="9">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="10">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="11">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="12">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="13">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machalpa" target="machalpa" id="14">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machal valley" target="machal valley" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machal valley" target="machal valley" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machal valley" target="machal valley" id="2">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machal valley" target="machal valley" id="3">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="machal valley" target="machal valley" id="4">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="a castle" target="a green field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a castle" target="a green field" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="castle" target="green field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="castle" target="middle" id="0">
+      <data key="d0">is situated in</data>
+    </edge>
+    <edge source="donkey" target="dirt road" id="0">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="donkey" target="stone wall" id="0">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="two donkeys" target="down a path" id="0">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="two donkeys" target="in the mountains" id="0">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="donkeys" target="down a path" id="0">
+      <data key="d0">are walking</data>
+    </edge>
+    <edge source="donkeys" target="in the mountains" id="0">
+      <data key="d0">are walking</data>
+    </edge>
+    <edge source="two horses" target="down a road" id="0">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="two horses" target="a stone wall" id="0">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="Ruins" target="Machal" id="0">
+      <data key="d0">are found at</data>
+    </edge>
+    <edge source="the ruins" target="Machal, Peru" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="Machal, Peru" id="1">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="Machal, Peru" id="2">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="Machal, Peru" id="3">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="Machal, Peru" id="4">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="Machal, Peru" id="5">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="Machal, Peru" id="6">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="Machal, Peru" id="7">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="mexico" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="mexico" id="1">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="Chichen Itza, Mexico" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="an ancient city" id="0">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="the ruins" target="an ancient city" id="1">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="the ruins" target="an ancient city" id="2">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="the ruins" target="an ancient city" id="3">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="the ruins" target="an ancient city" id="4">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="the ruins" target="an ancient city" id="5">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="the ruins" target="peru" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="Macha, Peru" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="Macha, Peru" id="1">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="the ancient city of poa" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="Peru" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="the region of Poa" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins" target="the province" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="a stone structure" target="the mountains" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a stone structure" target="the middle of a mountain" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="Machalapa" target="Peru" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="Machalapa" target="tourist attractions" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the maya maya" target="mexico" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the maya maya" target="mexico" id="1">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the Mayan ruins" target="Chichen Itza, Mexico" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="the ruins of machal" target="mexico" id="0">
+      <data key="d0">are located in</data>
+    </edge>
+    <edge source="machal" target="ruins" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="llama" target="llama" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="2">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="3">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="4">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="5">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="6">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="7">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="8">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="9">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="10">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="11">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="12">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="13">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="14">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="15">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="16">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="17">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="18">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llama" id="19">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="llamas" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="llama" target="in the scene" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="in the scene" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="in the scene" id="2">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="in the scene" id="3">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="in the scene" id="4">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="in the scene" id="5">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="in the scene" id="6">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="in the scene" id="7">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="in the scene" id="8">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="in the scene" id="9">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="present" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="present" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="present" id="2">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="present" id="3">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="present" id="4">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="present" id="5">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="present" id="6">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="present" id="7">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="llama" target="present" id="8">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="stone building" target="green moss" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="stone building" target="door" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="stone building" target="window" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="green moss" target="stone building" id="0">
+      <data key="d0">grows on</data>
+    </edge>
+    <edge source="a stone building" target="a door" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a stone building" target="windows" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="road" target="stone wall" id="0">
+      <data key="d0">is located behind</data>
+    </edge>
+    <edge source="road" target="stone wall" id="1">
+      <data key="d0">is located behind</data>
+    </edge>
+    <edge source="road" target="stone wall" id="2">
+      <data key="d0">is located behind</data>
+    </edge>
+    <edge source="road" target="stone wall" id="3">
+      <data key="d0">is located behind</data>
+    </edge>
+    <edge source="road" target="dirt" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="road" target="body of water" id="0">
+      <data key="d0">is next to</data>
+    </edge>
+    <edge source="road" target="water" id="0">
+      <data key="d0">is next to</data>
+    </edge>
+    <edge source="wall" target="road" id="0">
+      <data key="d0">encloses</data>
+    </edge>
+    <edge source="wall" target="road" id="1">
+      <data key="d0">encloses</data>
+    </edge>
+    <edge source="wall" target="road" id="2">
+      <data key="d0">encloses</data>
+    </edge>
+    <edge source="wall" target="sky" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="woman" target="red jacket" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="red jacket" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="hat" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="hat" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="hat" id="2">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="llama" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="woman" target="red hat" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="red hat" id="1">
+      <data key="d0">is wearing</data>
+    </edge>
+    <edge source="woman" target="red hat" id="2">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="red hat" id="3">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="red hat" id="4">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="colorful dress" id="0">
+      <data key="d0">is wearing</data>
+    </edge>
+    <edge source="woman" target="colorful dress" id="1">
+      <data key="d0">is wearing</data>
+    </edge>
+    <edge source="woman" target="piece of wood" id="0">
+      <data key="d0">is working on</data>
+    </edge>
+    <edge source="woman" target="red dress" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="red dress" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="red dress" id="2">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="red dress" id="3">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="red dress" id="4">
+      <data key="d0">is wearing</data>
+    </edge>
+    <edge source="woman" target="dress" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="woman" target="dress" id="1">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="dress" id="2">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="dress" id="3">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="dress" id="4">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="dress" id="5">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="woman" target="stick" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="woman" target="stick" id="1">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="woman" target="knitting" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="woman" target="top" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="woman" target="mountain" id="0">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="woman" target="mountain" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="woman" target="mountain" id="2">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="woman" target="mountain" id="3">
+      <data key="d0">is standing on</data>
+    </edge>
+    <edge source="woman" target="mountain" id="4">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a young girl" target="a llama" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="a young girl" target="a lamb" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="a young girl" target="her arms" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a young girl" target="a lldo" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="a llama" target="a young girl" id="0">
+      <data key="d0">being held by</data>
+    </edge>
+    <edge source="a narrow path" target="a rocky area" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="path" target="canyon" id="0">
+      <data key="d0">be in</data>
+    </edge>
+    <edge source="path" target="rocks" id="0">
+      <data key="d0">be through</data>
+    </edge>
+    <edge source="path" target="house" id="0">
+      <data key="d0">leading to</data>
+    </edge>
+    <edge source="forest" target="rock formation" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a small stream" target="a rocky area" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="the incas" target="in peru" id="0">
+      <data key="d0">had ruins</data>
+    </edge>
+    <edge source="a large stone structure" target="a sky background" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the giant stone" target="the middle of the island" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="the giant stone wall" target="the Inca" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="the giant stone wall" target="the Inca" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="the giant stone wall" target="the Inca" id="2">
+      <data key="d0">is in the middle of</data>
+    </edge>
+    <edge source="stone" target="wall" id="0">
+      <data key="d0">make up</data>
+    </edge>
+    <edge source="guitar" target="market" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="red cloth" target="person" id="0">
+      <data key="d0">is being woven by</data>
+    </edge>
+    <edge source="wooden pole" target="red cloth" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a man" target="a red hat" id="0">
+      <data key="d0">is wearing</data>
+    </edge>
+    <edge source="a man" target="a red hat" id="1">
+      <data key="d0">is wearing</data>
+    </edge>
+    <edge source="a man" target="on top of a hill" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a man" target="with the words 'ach kart'" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="table" target="baskets" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="table" target="baskets" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="table" target="baskets" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="table" target="baskets on it" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="table" target="fruit" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="table" target="baskets filled with fruit" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="entrance" target="cathedral" id="0">
+      <data key="d0">to</data>
+    </edge>
+    <edge source="entrance" target="barcelona" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="entrance" target="spain" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="cathedral" target="barcelona" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="cathedral" target="spain" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="cathedral" target="mexico" id="0">
+      <data key="d0">be located in</data>
+    </edge>
+    <edge source="cathedral" target="mexico" id="1">
+      <data key="d0">be located in</data>
+    </edge>
+    <edge source="cathedral" target="san francisco" id="0">
+      <data key="d0">be located in</data>
+    </edge>
+    <edge source="cathedral" target="san francisco" id="1">
+      <data key="d0">be located in</data>
+    </edge>
+    <edge source="facade" target="cathedral" id="0">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="facade" target="cathedral" id="1">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="Cuaca" target="Colombia" id="0">
+      <data key="d0">located in</data>
+    </edge>
+    <edge source="Cuaca" target="Colombia" id="1">
+      <data key="d0">located in</data>
+    </edge>
+    <edge source="Cuaca" target="Colombia" id="2">
+      <data key="d0">located in</data>
+    </edge>
+    <edge source="Cuaca" target="Colombia" id="3">
+      <data key="d0">located in</data>
+    </edge>
+    <edge source="Cuaca" target="Colombia" id="4">
+      <data key="d0">located in</data>
+    </edge>
+    <edge source="Cuaca" target="Colombia" id="5">
+      <data key="d0">located in</data>
+    </edge>
+    <edge source="the city" target="Cuaca, Colombia" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="the city" target="Cuz, Colombia" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="the city" target="Cuz, Colombia" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="the city" target="night" id="0">
+      <data key="d0">is at</data>
+    </edge>
+    <edge source="the city" target="night" id="1">
+      <data key="d0">is at</data>
+    </edge>
+    <edge source="green algae" target="lake" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a hut" target="a thatched roof" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a hut" target="a wooden door" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="fence" target="wood" id="0">
+      <data key="d0">is made of</data>
+    </edge>
+    <edge source="fence" target="trees" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="boats" target="water" id="0">
+      <data key="d0">float</data>
+    </edge>
+    <edge source="stone arch" target="middle of a path" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="stone arch" target="middle of a path" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="stone arch" target="mountain" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="stone arch" target="mountain" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="stone arch" target="middle of mountain" id="0">
+      <data key="d0">is situated in</data>
+    </edge>
+    <edge source="stone arch" target="middle of mountain" id="1">
+      <data key="d0">is situated in</data>
+    </edge>
+    <edge source="stone arch" target="words" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="stone arch" target="a c c b k e" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="a stone arch" target="the middle of a hill" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a stone arch" target="a hill" id="0">
+      <data key="d0">is situated on</data>
+    </edge>
+    <edge source="two" target="llama" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="two" target="llama" id="1">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="two" target="llama" id="2">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="two" target="llama" id="3">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="two" target="llama" id="4">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="two" target="llama" id="5">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="two" target="llama" id="6">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="two" target="llama" id="7">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="two" target="llama" id="8">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="two" target="llama" id="9">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="two" target="llama" id="10">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="two" target="llama" id="11">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="two" target="llama" id="12">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="two" target="on a hill" id="0">
+      <data key="d0">stand</data>
+    </edge>
+    <edge source="two" target="colorful dresses" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="a view" target="the mountains" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a view" target="the mountains" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a view" target="the mountains" id="2">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a view" target="the mountains" id="3">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a view" target="the small town" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a view" target="the small town" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a village" target="the mountains" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="blue sky" target="background" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the" target="stone wall of Machal" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the ruins of Machalpa" target="in Peru" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="Machal Valley" target="Peru" id="0">
+      <data key="d0">located in</data>
+    </edge>
+    <edge source="Machal Valley" target="travel video" id="0">
+      <data key="d0">featured in</data>
+    </edge>
+    <edge source="the top of a mountain" target="trees" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the top of a mountain" target="clouds" id="0">
+      <data key="d0">is surrounded by</data>
+    </edge>
+    <edge source="children" target="on a hill" id="0">
+      <data key="d0">stand</data>
+    </edge>
+    <edge source="children" target="on a hill" id="1">
+      <data key="d0">stand</data>
+    </edge>
+    <edge source="children" target="colorful dresses" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="children" target="colorful dresses" id="1">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="two girls" target="on a hill" id="0">
+      <data key="d0">stand</data>
+    </edge>
+    <edge source="two girls" target="colorful dresses" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="girls" target="on a hill" id="0">
+      <data key="d0">stand</data>
+    </edge>
+    <edge source="girls" target="colorful dresses" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="two women" target="top of a mountain" id="0">
+      <data key="d0">standing on</data>
+    </edge>
+    <edge source="two women" target="top of a mountain" id="1">
+      <data key="d0">located at</data>
+    </edge>
+    <edge source="two women" target="colorful dresses" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="words" target="a kal schwartz" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="words" target="on" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="words" target="jacob" id="0">
+      <data key="d0">contain</data>
+    </edge>
+    <edge source="words" target="kate" id="0">
+      <data key="d0">contain</data>
+    </edge>
+    <edge source="words" target="" id="0">
+      <data key="d0">ach</data>
+    </edge>
+    <edge source="words" target="" id="1">
+      <data key="d0">ach</data>
+    </edge>
+    <edge source="gate" target="words" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="gate" target="words" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="gate" target="words" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="gate" target="kal schwartz" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="gate" target="C O K E" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="gate" target="Jacob" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="gate" target="Kate Schwartz" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="gate" target="man" id="0">
+      <data key="d0">in front of</data>
+    </edge>
+    <edge source="jacob" target="hill" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="jacob" target="church" id="0">
+      <data key="d0">appears in</data>
+    </edge>
+    <edge source="kate" target="hill" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="kate" target="church" id="0">
+      <data key="d0">appears in</data>
+    </edge>
+    <edge source="Jacob" target="church" id="0">
+      <data key="d0">standing in front of</data>
+    </edge>
+    <edge source="Kate" target="Jacob" id="0">
+      <data key="d0">standing next to</data>
+    </edge>
+  </graph>
+</graphml>

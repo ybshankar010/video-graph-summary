@@ -1,0 +1,3656 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="background" />
+    <node id="black color" />
+    <node id="white and red flower" />
+    <node id="the logo" />
+    <node id="the new movie" />
+    <node id="big buck bunny" />
+    <node id="movie" />
+    <node id="logo" />
+    <node id="a blue logo" />
+    <node id="a large green tree" />
+    <node id="the middle of a field" />
+    <node id="forest" />
+    <node id="trees" />
+    <node id="sky" />
+    <node id="pink" />
+    <node id="mountains" />
+    <node id="a painting" />
+    <node id="a field" />
+    <node id="grass" />
+    <node id="a green field with trees" />
+    <node id="field" />
+    <node id="a small stream" />
+    <node id="a grassy field" />
+    <node id="a lush green field" />
+    <node id="bird" />
+    <node id="tree branch" />
+    <node id="branch" />
+    <node id="the angry bird" />
+    <node id="on a branch" />
+    <node id="tree" />
+    <node id="grassy field" />
+    <node id="middle" />
+    <node id="a small tree" />
+    <node id="a grassy area" />
+    <node id="rocks" />
+    <node id="a forest" />
+    <node id="a small cave" />
+    <node id="the middle of a forest" />
+    <node id="a small black bear" />
+    <node id="a green tunnel" />
+    <node id="a green grass tunnel" />
+    <node id="a black bear" />
+    <node id="the middle of a green forest" />
+    <node id="a bear" />
+    <node id="a green forest" />
+    <node id="a green bush" />
+    <node id="gorilla" />
+    <node id="green forest" />
+    <node id="a small animal" />
+    <node id="man" />
+    <node id="large green plant" />
+    <node id="a rabbit" />
+    <node id="in the grass" />
+    <node id="ratty" />
+    <node id="ratty's ratty" />
+    <node id="scene" />
+    <node id="animated" />
+    <node id="jungle" />
+    <node id="animated movie" />
+    <node id="a scene" />
+    <node id="secret" />
+    <node id="of" />
+    <node id="the forest" />
+    <node id="lost" />
+    <node id="cartoon character" />
+    <node id="in a grassy field" />
+    <node id="blue" />
+    <node id="clouds" />
+    <node id="white" />
+    <node id="cat" />
+    <node id="panda bear" />
+    <node id="a panda bear" />
+    <node id="a tree branch" />
+    <node id="in the middle of a forest" />
+    <node id="a white rabbit" />
+    <node id="the white rabbit" />
+    <node id="a white cat" />
+    <node id="in the middle of a field" />
+    <node id="the cat" />
+    <node id="a field of flowers" />
+    <node id="in a field of flowers" />
+    <node id="flowers" />
+    <node id="a pig" />
+    <node id="in a field with flowers" />
+    <node id="a field with flowers" />
+    <node id="a cat" />
+    <node id="on a tree branch" />
+    <node id="in a field" />
+    <node id="two dogs" />
+    <node id="in the grass with flowers" />
+    <node id="a butterfly" />
+    <node id="the grass" />
+    <node id="dog" />
+    <node id="butterfly" />
+    <node id="a butterfly on its head" />
+    <node id="with a pink butterfly" />
+    <node id="a pink butterfly" />
+    <node id="with a white rabbit" />
+    <node id="a pink flower" />
+    <node id="a red flower" />
+    <node id="a red ball" />
+    <node id="a tree" />
+    <node id="a red apple" />
+    <node id="with trees" />
+    <node id="with flowers" />
+    <node id="a field with trees and flowers" />
+    <node id="a carrot" />
+    <node id="a white bear" />
+    <node id="a field with trees" />
+    <node id="green" />
+    <node id="apples" />
+    <node id="with a carrot" />
+    <node id="a purple butterfly" />
+    <node id="a butterfly flying above it" />
+    <node id="a purple hat" />
+    <node id="a butterfly flying around" />
+    <node id="above a butterfly" />
+    <node id="above a rabbit" />
+    <node id="a butterfly flying overhead" />
+    <node id="a sheep" />
+    <node id="near a tree" />
+    <node id="in a field with trees" />
+    <node id="the secret" />
+    <node id="the Chipettes" />
+    <node id="the movie" />
+    <node id="the middle of the movie" />
+    <node id="a large rock" />
+    <node id="giant rock" />
+    <node id="rock" />
+    <node id="middle of field" />
+    <node id="a small squirrel" />
+    <node id="a squirrel" />
+    <node id="next to a rock" />
+    <node id="a rock" />
+    <node id="kangaroo" />
+    <node id="squirrel" />
+    <node id="the secret island" />
+    <node id="the secret of the secret island" />
+    <node id="of the secret" />
+    <node id="a dog" />
+    <node id="the woods" />
+    <node id="in the woods" />
+    <node id="a bird" />
+    <node id="on a tree" />
+    <node id="a small bird" />
+    <node id="a small white dog" />
+    <node id="a small white bird" />
+    <node id="top of a lush green field" />
+    <node id="next to a tree" />
+    <node id="the fox" />
+    <node id="the game" />
+    <node id="the wolf" />
+    <node id="the animals" />
+    <node id="the animated animated movie" />
+    <node id="to theaters" />
+    <node id="the animated movie" />
+    <node id="in" />
+    <node id="are" />
+    <node id="with a sky background" />
+    <node id="in the sky background" />
+    <node id="the gruff" />
+    <node id="in the field with a sky background" />
+    <node id="the field with a sky background" />
+    <node id="coming" />
+    <node id="in the new disney movie" />
+    <node id="squirrel island" />
+    <node id="the Nintendo game" />
+    <node id="through a field" />
+    <node id="donkey" />
+    <node id="with grass" />
+    <node id="with a ball" />
+    <node id="a ball" />
+    <node id="a small rabbit" />
+    <node id="behind a rabbit" />
+    <node id="a sky" />
+    <node id="above a field" />
+    <node id="with a flower" />
+    <node id="a flower" />
+    <node id="the new trailer" />
+    <node id="the littlestuf" />
+    <node id="new animal simulator" />
+    <node id="" />
+    <node id="animal simulator" />
+    <node id="new" />
+    <node id="the Chipettes movie" />
+    <node id="the gruff gruffs" />
+    <node id="mouse" />
+    <node id="cartoon squirrel" />
+    <node id="with apples" />
+    <node id="cartoon cat" />
+    <node id="hand" />
+    <node id="a field with a sky background" />
+    <node id="its mouth" />
+    <node id="bear" />
+    <node id="near it" />
+    <node id="group" />
+    <node id="animals" />
+    <node id="the lion" />
+    <node id="in the middle of the scene" />
+    <node id="the mouse" />
+    <node id="the middle of the scene" />
+    <node id="in a row" />
+    <node id="bigfoot" />
+    <node id="the hound" />
+    <node id="elephant" />
+    <node id="woods" />
+    <node id="fat" />
+    <node id="a big grey rabbit" />
+    <node id="polar bear" />
+    <node id="rocky area" />
+    <node id="a wooden stick" />
+    <node id="a rifle" />
+    <node id="a small white mouse" />
+    <node id="a small mouse" />
+    <node id="in the forest" />
+    <node id="green leaf" />
+    <node id="leaf" />
+    <node id="post" />
+    <node id="person" />
+    <node id="piece of wood" />
+    <node id="rope" />
+    <node id="a stick" />
+    <node id="with a tree" />
+    <node id="a small dinosaur" />
+    <node id="on the ground" />
+    <node id="snake" />
+    <node id="big white rabbit" />
+    <node id="a monkey" />
+    <node id="big eyes" />
+    <node id="a big nose" />
+    <node id="monkey" />
+    <node id="mouth open" />
+    <node id="eyes open" />
+    <node id="big nose" />
+    <node id="fox" />
+    <node id="a fox" />
+    <node id="the jungle" />
+    <node id="knife" />
+    <node id="a kangaroo" />
+    <node id="flower" />
+    <node id="red" />
+    <node id="deer" />
+    <node id="through a forest" />
+    <node id="animal" />
+    <node id="leaves" />
+    <node id="theaters" />
+    <node id="stick" />
+    <node id="bamboo stick" />
+    <node id="a secret" />
+    <node id="a bamboo stick" />
+    <node id="the bamboo stick" />
+    <node id="green leaves" />
+    <node id="in front of" />
+    <node id="blue sky" />
+    <node id="in sunlight" />
+    <node id="the upcoming pokemon movie" />
+    <node id="trailer" />
+    <node id="sonic" />
+    <node id="the chipettes" />
+    <node id="the secret squirrel" />
+    <node id="upcoming animated movie" />
+    <node id="the movie Chipettes" />
+    <node id="a swing" />
+    <node id="a rope" />
+    <node id="big ears" />
+    <node id="the secret of the secret" />
+    <node id="the secret of the secret of the secret" />
+    <node id="the secret of the secret of the secret of the secret" />
+    <node id="the secret of the secret of the secret of the secret of the secret" />
+    <node id="the secret of the secret of the secret of the secret of the secret of the secret" />
+    <node id="the rabbit" />
+    <node id="a fruit" />
+    <node id="through the air" />
+    <node id="road" />
+    <node id="bright blue sky" />
+    <node id="a mouse" />
+    <node id="the ground" />
+    <node id="ratman" />
+    <node id="the ratman's tale" />
+    <node id="the game of ratman" />
+    <node id="tree trunk" />
+    <node id="plants" />
+    <node id="log" />
+    <node id="cartoon bear" />
+    <node id="a large white bear" />
+    <node id="a small gray bear" />
+    <node id="a large bear" />
+    <node id="bushes" />
+    <node id="a white Pokemon" />
+    <node id="a scene from the animated animated film" />
+    <node id="the angry birds" />
+    <node id="the tree" />
+    <node id="ant" />
+    <node id="image" />
+    <node id="large ant" />
+    <node id="a branch" />
+    <node id="top of a tree branch" />
+    <node id="off a branch" />
+    <node id="its wings" />
+    <node id="cloud" />
+    <node id="in the middle of a tree" />
+    <node id="through the sky" />
+    <node id="the sky" />
+    <node id="air" />
+    <node id="fruit" />
+    <node id="oranges" />
+    <node id="branches" />
+    <node id="orange" />
+    <node id="a small orange fruit" />
+    <node id="an orange" />
+    <node id="an orange apple" />
+    <node id="a tall plant" />
+    <node id="the elder's forest" />
+    <node id="guild" />
+    <node id="world of war" />
+    <node id="its arms outstretched" />
+    <node id="a ham" />
+    <node id="arms" />
+    <node id="through the trees" />
+    <node id="open mouth" />
+    <node id="Madagascar" />
+    <node id="in the sky" />
+    <node id="above a tree" />
+    <node id="a bird flying in it" />
+    <node id="a bird flying above it" />
+    <node id="a pile of green leaves" />
+    <node id="tail" />
+    <node id="a green tree" />
+    <node id="books" />
+    <node id="a cartoon character" />
+    <node id="in the jungle" />
+    <node id="bunch" />
+    <node id="purple flower" />
+    <node id="flowers and trees" />
+    <node id="kite" />
+    <node id="a hole" />
+    <node id="paco" />
+    <node id="screen" />
+    <node id="blue color" />
+    <node id="words" />
+    <node id="peachn mean" />
+    <node id="music" />
+    <node id="sound design" />
+    <node id="jan morstern" />
+    <node id="red balloon" />
+    <node id="red nose" />
+    <node id="blue background" />
+    <node id="a fish" />
+    <node id="in the water" />
+    <node id="a red fox" />
+    <node id="red fox" />
+    <node id="the cran" />
+    <node id="movie poster" />
+    <node id="poster" />
+    <node id="movie's first installment" />
+    <node id="title" />
+    <node id="the movie's title" />
+    <node id="the little prince" />
+    <node id="the movie poster" />
+    <node id="mice" />
+    <node id="none" />
+    <node id="the green screen" />
+    <node id="green color" />
+    <node id="suit" />
+    <node id="the Matrix" />
+    <node id="a trilogy" />
+    <node id="green wall" />
+    <node id="green background" />
+    <node id="the cover of the album" />
+    <node id="the green room" />
+    <node id="the best of the best of the best" />
+    <node id="menu" />
+    <node id="tie" />
+    <node id="the title" />
+    <node id="for the movie" />
+    <node id="the dark knight" />
+    <node id="the last days" />
+    <node id="movie_special" />
+    <node id="blackboard" />
+    <node id="a screen" />
+    <node id="bunch of flowers" />
+    <node id="a black and white cat" />
+    <node id="a black screen" />
+    <node id="black surface" />
+    <node id="a table" />
+    <node id="concert" />
+    <node id="the cover" />
+    <node id="of the book" />
+    <node id="the book" />
+    <node id="of the year" />
+    <node id="the cover of the book" />
+    <node id="the book of the dead" />
+    <node id="the book of the year" />
+    <node id="film" />
+    <node id="first ever" />
+    <node id="different names" />
+    <node id="names" />
+    <node id="films" />
+    <node id="horse" />
+    <node id="the back cover of the book" />
+    <node id="the book of the book" />
+    <node id="the book of the book of the book" />
+    <node id="the book of the book of the book of the book" />
+    <node id="the book of the day" />
+    <node id="book of the book" />
+    <node id="the poster" />
+    <node id="the poster for the film" />
+    <node id="the film" />
+    <node id="shown in black and white" />
+    <node id="the title of the book" />
+    <node id="black" />
+    <node id="text" />
+    <node id="'black, black, black, black, black'" />
+    <node id="back to the future" />
+    <node id="digital blend" />
+    <node id="a white butterfly" />
+    <node id="the word 'sunflower'" />
+    <node id="Mario" />
+    <node id="sword" />
+    <node id="Luigi" />
+    <node id="next to Mario" />
+    <node id="player" />
+    <node id="mountain" />
+    <node id="player's hand" />
+    <node id="horizon" />
+    <node id="days" />
+    <node id="the art of the modern age" />
+    <node id="the art of the narrative" />
+    <node id="the album 'all of the collective'" />
+    <node id="the back cover of the album" />
+    <node id="the best of the best" />
+    <node id="black background" />
+    <node id="electrical equipment" />
+    <node id="black screen" />
+    <node id="different types of electrical equipment" />
+    <node id="the text on the screen" />
+    <node id="' the world 's greatest music'" />
+    <node id="white text" />
+    <node id="black and white" />
+    <node id="the screen" />
+    <node id="Windows XP server" />
+    <node id="big bunny" />
+    <node id="I'm" />
+    <node id="bunny" />
+    <node id="screenshote" />
+    <node id="official" />
+    <node id="video" />
+    <node id="big" />
+    <node id="it" />
+    <node id="a big bunny" />
+    <node id="big bunny fts" />
+    <node id="over a bird" />
+    <node id="cow" />
+    <node id="over" />
+    <node id="top of cloud" />
+    <node id="over man" />
+    <node id="is being flown over by" />
+    <node id="over woman" />
+    <node id="woman" />
+    <node id="dress" />
+    <node id="hill" />
+    <edge source="background" target="black color" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="background" target="black color" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="black color" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="background" target="black color" id="3">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="background" target="black color" id="4">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="background" target="white and red flower" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="background" target="white and red flower" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="background" target="blue color" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="background" target="blue" id="0">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="background" target="blue" id="1">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="background" target="none" id="0">
+      <data key="d0">green</data>
+    </edge>
+    <edge source="background" target="none" id="1">
+      <data key="d0">green</data>
+    </edge>
+    <edge source="background" target="background" id="0">
+      <data key="d0">green</data>
+    </edge>
+    <edge source="background" target="black" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="black" id="1">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="background" target="black" id="2">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="background" target="black" id="3">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="background" target="black" id="4">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="the logo" target="the new movie" id="0">
+      <data key="d0">is for</data>
+    </edge>
+    <edge source="the logo" target="the new movie" id="1">
+      <data key="d0">is for</data>
+    </edge>
+    <edge source="the logo" target="the new movie" id="2">
+      <data key="d0">is for</data>
+    </edge>
+    <edge source="big buck bunny" target="movie" id="0">
+      <data key="d0">is a</data>
+    </edge>
+    <edge source="big buck bunny" target="movie" id="1">
+      <data key="d0">is a</data>
+    </edge>
+    <edge source="big buck bunny" target="logo" id="0">
+      <data key="d0">is a</data>
+    </edge>
+    <edge source="movie" target="jungle" id="0">
+      <data key="d0">the</data>
+    </edge>
+    <edge source="movie" target="jungle" id="1">
+      <data key="d0">the</data>
+    </edge>
+    <edge source="movie" target="secret" id="0">
+      <data key="d0">the</data>
+    </edge>
+    <edge source="a blue logo" target="big buck bunny" id="0">
+      <data key="d0">has the words</data>
+    </edge>
+    <edge source="a large green tree" target="the middle of a field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="forest" target="trees" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="forest" target="trees" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="forest" target="trees" id="2">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="trees" id="3">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="trees" id="4">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="forest" target="trees" id="5">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="trees" id="6">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="trees" id="7">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="trees" id="8">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="mountains" id="0">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="forest" target="animal" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="animal" id="1">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="animal" id="2">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="animal" id="3">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="tree branch" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="tree trunk" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="forest" target="tree trunk" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="forest" target="plants" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="forest" target="plants" id="1">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="plants" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="forest" target="rocks" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="forest" target="rocks" id="1">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="rocks" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="forest" target="rocks" id="3">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="rock" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="log" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="bushes" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="bushes" id="1">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="bushes" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="forest" target="bird" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="tree" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="deer" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="grass" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="grass" id="1">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="grass" id="2">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="forest" target="grass" id="3">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="sky" target="pink" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="sky" target="blue" id="0">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="a painting" target="a field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a painting" target="a green field with trees" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a painting" target="a green field with trees" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a field" target="trees" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a field" target="trees" id="1">
+      <data key="d0">containing</data>
+    </edge>
+    <edge source="a field" target="trees" id="2">
+      <data key="d0">containing</data>
+    </edge>
+    <edge source="a field" target="trees" id="3">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="a field" target="trees" id="4">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="a field" target="grass" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a field" target="grass" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a field" target="grass" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a field" target="grass" id="3">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="a field" target="grass" id="4">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="a field" target="a carrot" id="0">
+      <data key="d0">containing</data>
+    </edge>
+    <edge source="a field" target="behind a rabbit" id="0">
+      <data key="d0">located</data>
+    </edge>
+    <edge source="a field" target="a flower" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a field" target="apples" id="0">
+      <data key="d0">having</data>
+    </edge>
+    <edge source="a field" target="apples" id="1">
+      <data key="d0">having</data>
+    </edge>
+    <edge source="a field" target="apples" id="2">
+      <data key="d0">having</data>
+    </edge>
+    <edge source="a field" target="apples" id="3">
+      <data key="d0">containing</data>
+    </edge>
+    <edge source="a field" target="apples" id="4">
+      <data key="d0">having</data>
+    </edge>
+    <edge source="grass" target="field" id="0">
+      <data key="d0">covers</data>
+    </edge>
+    <edge source="grass" target="tree" id="0">
+      <data key="d0">is next to</data>
+    </edge>
+    <edge source="grass" target="cat" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="grass" target="mouse" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="field" target="trees" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="trees" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="trees" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="trees" id="3">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="trees" id="4">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="trees" id="5">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="trees" id="6">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="trees" id="7">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="grass" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="grass" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="grass" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="grass" id="3">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="grass" id="4">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="green" id="0">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="field" target="flowers" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="rocks" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="field" target="background" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="a small stream" target="a grassy field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small stream" target="a grassy field" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small stream" target="a grassy field" id="2">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small stream" target="a lush green field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="bird" target="tree branch" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="bird" target="tree branch" id="1">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="bird" target="tree branch" id="2">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="bird" target="tree branch" id="3">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="bird" target="tree branch" id="4">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="bird" target="tree branch" id="5">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="bird" target="tree branch" id="6">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="bird" target="tree branch" id="7">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="bird" target="branch" id="0">
+      <data key="d0">is perched on</data>
+    </edge>
+    <edge source="bird" target="branch" id="1">
+      <data key="d0">is perched on</data>
+    </edge>
+    <edge source="bird" target="sky" id="0">
+      <data key="d0">is perched on</data>
+    </edge>
+    <edge source="bird" target="sky" id="1">
+      <data key="d0">is perched on</data>
+    </edge>
+    <edge source="bird" target="sky" id="2">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="bird" target="sky" id="3">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="bird" target="sky" id="4">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="bird" target="sky" id="5">
+      <data key="d0">through</data>
+    </edge>
+    <edge source="bird" target="sky" id="6">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="bird" target="post" id="0">
+      <data key="d0">sitting</data>
+    </edge>
+    <edge source="bird" target="through the trees" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="bird" target="air" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="bird" target="air" id="1">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="bird" target="tree" id="0">
+      <data key="d0">over</data>
+    </edge>
+    <edge source="bird" target="above a tree" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="bird" target="kite" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="bird" target="cow" id="0">
+      <data key="d0">over</data>
+    </edge>
+    <edge source="bird" target="bird" id="0">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="bird" target="over" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="bird" target="over" id="1">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="bird" target="over" id="2">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="bird" target="top of cloud" id="0">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="bird" target="over man" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="bird" target="man" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="bird" target="over woman" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="the angry bird" target="on a branch" id="0">
+      <data key="d0">is sitting</data>
+    </edge>
+    <edge source="tree" target="bird" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="bird" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="bird" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="grassy field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="tree" target="grassy field" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="tree" target="middle" id="0">
+      <data key="d0">is situated in</data>
+    </edge>
+    <edge source="tree" target="middle" id="1">
+      <data key="d0">is situated in</data>
+    </edge>
+    <edge source="tree" target="forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="tree" target="forest" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="tree" target="forest" id="2">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="tree" target="forest" id="3">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="tree" target="forest" id="4">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="tree" target="apples" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="apples" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="leaves" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="leaves" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="green leaves" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="tree" target="green leaves" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="tree" target="in front of" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="tree" target="in sunlight" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="tree" target="fruit" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="fruit" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="sky" id="0">
+      <data key="d0">is located in front of</data>
+    </edge>
+    <edge source="tree" target="oranges" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="orange" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="books" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="flowers" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="flowers" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="purple flower" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="purple flower" id="1">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="tree" target="purple flower" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="purple flower" id="3">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="tree" target="purple flower" id="4">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="tree" target="purple flower" id="5">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="tree" target="field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="tree" target="field" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small tree" target="a grassy area" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small tree" target="a grassy area" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small tree" target="a grassy area" id="2">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small tree" target="rocks" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="a small tree" target="grass" id="0">
+      <data key="d0">is surrounded by</data>
+    </edge>
+    <edge source="a small tree" target="a forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small tree" target="a small cave" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="a small tree" target="the middle of a forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="rocks" target="green forest" id="0">
+      <data key="d0">are present in</data>
+    </edge>
+    <edge source="a small cave" target="the middle of a forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small black bear" target="a green tunnel" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a small black bear" target="a green grass tunnel" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a black bear" target="the middle of a green forest" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a black bear" target="the middle of a green forest" id="1">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a black bear" target="the middle of a green forest" id="2">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a black bear" target="the middle of a green forest" id="3">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a black bear" target="a green forest" id="0">
+      <data key="d0">is seen in</data>
+    </edge>
+    <edge source="a black bear" target="a green bush" id="0">
+      <data key="d0">is seen in</data>
+    </edge>
+    <edge source="a bear" target="the middle of a green forest" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a bear" target="a tree" id="0">
+      <data key="d0">is standing next to</data>
+    </edge>
+    <edge source="a bear" target="a tree" id="1">
+      <data key="d0">standing next to</data>
+    </edge>
+    <edge source="a bear" target="a field" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="gorilla" target="green forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="gorilla" target="rocks" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="gorilla" target="tree" id="0">
+      <data key="d0">standing next to</data>
+    </edge>
+    <edge source="a small animal" target="a green forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small animal" target="in the grass" id="0">
+      <data key="d0">is sitting</data>
+    </edge>
+    <edge source="a small animal" target="in the grass" id="1">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="a small animal" target="the grass" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a small animal" target="the grass" id="1">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a small animal" target="a grassy field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small animal" target="a grassy field" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small animal" target="a grassy field" id="2">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small animal" target="in a field" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a small animal" target="a tree" id="0">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="a small animal" target="through a forest" id="0">
+      <data key="d0">is walking</data>
+    </edge>
+    <edge source="a small animal" target="the middle of a forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small animal" target="a forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="man" target="green forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="man" target="large green plant" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="man" target="tree" id="0">
+      <data key="d0">is reaching</data>
+    </edge>
+    <edge source="man" target="tree" id="1">
+      <data key="d0">climbing</data>
+    </edge>
+    <edge source="man" target="tree" id="2">
+      <data key="d0">is climbing</data>
+    </edge>
+    <edge source="man" target="bird" id="0">
+      <data key="d0">is reaching</data>
+    </edge>
+    <edge source="man" target="bird" id="1">
+      <data key="d0">is under</data>
+    </edge>
+    <edge source="man" target="fat" id="0">
+      <data key="d0">looking</data>
+    </edge>
+    <edge source="man" target="fat" id="1">
+      <data key="d0">looking</data>
+    </edge>
+    <edge source="man" target="forest" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="forest" id="1">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="forest" id="2">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="man" target="knife" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="man" target="jungle" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="jungle" id="1">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="man" target="rope" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="man" target="field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="man" target="field" id="1">
+      <data key="d0">is_in</data>
+    </edge>
+    <edge source="man" target="stick" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="man" target="stick" id="1">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="man" target="bamboo stick" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="man" target="suit" id="0">
+      <data key="d0">wear</data>
+    </edge>
+    <edge source="man" target="suit" id="1">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="green wall" id="0">
+      <data key="d0">is standing in front of</data>
+    </edge>
+    <edge source="man" target="green background" id="0">
+      <data key="d0">is standing on</data>
+    </edge>
+    <edge source="man" target="in front of" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="screen" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="man" target="tie" id="0">
+      <data key="d0">wearing</data>
+    </edge>
+    <edge source="man" target="is being flown over by" id="0">
+      <data key="d0">in a suit</data>
+    </edge>
+    <edge source="man" target="hill" id="0">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="a rabbit" target="the middle of a green forest" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a rabbit" target="in the middle of a forest" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the middle of a forest" id="1">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field of flowers" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field of flowers" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field of flowers" id="2">
+      <data key="d0">stands</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="2">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="3">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="4">
+      <data key="d0">located</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="5">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="6">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="7">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="8">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="9">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="10">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="11">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="12">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="13">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="14">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="15">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="16">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="17">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="18">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="19">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in a field" id="20">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="above a butterfly" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="with trees" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="with trees" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the grass" id="0">
+      <data key="d0">are standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the grass" id="1">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the grass" id="2">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="a rabbit" target="in the grass" id="3">
+      <data key="d0">is sitting</data>
+    </edge>
+    <edge source="a rabbit" target="in the grass" id="4">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the grass" id="5">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the grass" id="6">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the grass" id="7">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the grass" id="8">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the grass" id="9">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the grass" id="10">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the grass" id="11">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="the grass" id="0">
+      <data key="d0">are standing</data>
+    </edge>
+    <edge source="a rabbit" target="the grass" id="1">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="a tree" id="0">
+      <data key="d0">is standing in front of</data>
+    </edge>
+    <edge source="a rabbit" target="a tree" id="1">
+      <data key="d0">standing next to</data>
+    </edge>
+    <edge source="a rabbit" target="a tree" id="2">
+      <data key="d0">standing in front of</data>
+    </edge>
+    <edge source="a rabbit" target="a tree" id="3">
+      <data key="d0">standing in front of</data>
+    </edge>
+    <edge source="a rabbit" target="a tree" id="4">
+      <data key="d0">is standing in front of</data>
+    </edge>
+    <edge source="a rabbit" target="a tree" id="5">
+      <data key="d0">standing in front of</data>
+    </edge>
+    <edge source="a rabbit" target="a tree" id="6">
+      <data key="d0">standing in front of</data>
+    </edge>
+    <edge source="a rabbit" target="a tree" id="7">
+      <data key="d0">is climbing</data>
+    </edge>
+    <edge source="a rabbit" target="a tree" id="8">
+      <data key="d0">is climbing</data>
+    </edge>
+    <edge source="a rabbit" target="a tree" id="9">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="a rabbit" target="the woods" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a rabbit" target="the woods" id="1">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a rabbit" target="the woods" id="2">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a rabbit" target="the woods" id="3">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a rabbit" target="the woods" id="4">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a rabbit" target="the woods" id="5">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a rabbit" target="in the woods" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="a rabbit" target="in the woods" id="1">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="a rabbit" target="in the woods" id="2">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the woods" id="3">
+      <data key="d0">is tied up</data>
+    </edge>
+    <edge source="a rabbit" target="in the woods" id="4">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the woods" id="5">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the woods" id="6">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the woods" id="7">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the woods" id="8">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="a rabbit" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="a rabbit" target="with a sky background" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="with a sky background" id="1">
+      <data key="d0">located</data>
+    </edge>
+    <edge source="a rabbit" target="with a sky background" id="2">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="with a sky background" id="3">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="with a sky background" id="4">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="with a sky background" id="5">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="with a sky background" id="6">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the sky background" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the field with a sky background" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="a field" id="0">
+      <data key="d0">stands in</data>
+    </edge>
+    <edge source="a rabbit" target="a field" id="1">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a rabbit" target="a field" id="2">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a rabbit" target="a field" id="3">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a rabbit" target="a field" id="4">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a rabbit" target="a field" id="5">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a rabbit" target="a field" id="6">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a rabbit" target="a field" id="7">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a rabbit" target="a field" id="8">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a rabbit" target="a field" id="9">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a rabbit" target="a field" id="10">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a rabbit" target="a field" id="11">
+      <data key="d0">is located near</data>
+    </edge>
+    <edge source="a rabbit" target="the field with a sky background" id="0">
+      <data key="d0">stands in</data>
+    </edge>
+    <edge source="a rabbit" target="through a field" id="0">
+      <data key="d0">is running</data>
+    </edge>
+    <edge source="a rabbit" target="through a field" id="1">
+      <data key="d0">is running</data>
+    </edge>
+    <edge source="a rabbit" target="with grass" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="with grass" id="1">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="with a ball" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="with a flower" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="with apples" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="with apples" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="with apples" id="2">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="with apples" id="3">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="with apples" id="4">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="apples" id="0">
+      <data key="d0">standing near</data>
+    </edge>
+    <edge source="a rabbit" target="next to a tree" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="next to a tree" id="1">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="next to a tree" id="2">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="the forest" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a rabbit" target="a wooden stick" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="a rabbit" target="a wooden stick" id="1">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="a rabbit" target="a wooden stick" id="2">
+      <data key="d0">holds</data>
+    </edge>
+    <edge source="a rabbit" target="a wooden stick" id="3">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a rabbit" target="a wooden stick" id="4">
+      <data key="d0">is grasping</data>
+    </edge>
+    <edge source="a rabbit" target="a rifle" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="a rabbit" target="a forest" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a rabbit" target="a stick" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="a rabbit" target="a stick" id="1">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="a rabbit" target="a stick" id="2">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="a rabbit" target="with a tree" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a rabbit" target="a tree branch" id="0">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="a rabbit" target="a tree branch" id="1">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a rabbit" target="the jungle" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a rabbit" target="in the middle of a tree" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the middle of a tree" id="1">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="in the middle of a tree" id="2">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a rabbit" target="trees" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="a rabbit" target="trees" id="1">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="a rabbit" target="trees" id="2">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="a rabbit" target="trees" id="3">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="a rabbit" target="trees" id="4">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="a rabbit" target="trees" id="5">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="a rabbit" target="grass" id="0">
+      <data key="d0">is on</data>
+    </edge>
+    <edge source="a rabbit" target="grass" id="1">
+      <data key="d0">is on</data>
+    </edge>
+    <edge source="a rabbit" target="grass" id="2">
+      <data key="d0">is on</data>
+    </edge>
+    <edge source="a rabbit" target="grass" id="3">
+      <data key="d0">is on</data>
+    </edge>
+    <edge source="a rabbit" target="grass" id="4">
+      <data key="d0">is on</data>
+    </edge>
+    <edge source="a rabbit" target="grass" id="5">
+      <data key="d0">is on</data>
+    </edge>
+    <edge source="a rabbit" target="flowers and trees" id="0">
+      <data key="d0">is surrounded by</data>
+    </edge>
+    <edge source="ratty" target="ratty's ratty" id="0">
+      <data key="d0">are with</data>
+    </edge>
+    <edge source="ratty" target="ratty's ratty" id="1">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="scene" target="animated" id="0">
+      <data key="d0">from</data>
+    </edge>
+    <edge source="scene" target="animated" id="1">
+      <data key="d0">from</data>
+    </edge>
+    <edge source="scene" target="animated" id="2">
+      <data key="d0">from</data>
+    </edge>
+    <edge source="scene" target="animated movie" id="0">
+      <data key="d0">from</data>
+    </edge>
+    <edge source="jungle" target="a scene" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="of" target="forest" id="0">
+      <data key="d0">the</data>
+    </edge>
+    <edge source="the forest" target="lost" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the forest" target="coming" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the forest" target="coming" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the forest" target="in the new disney movie" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the forest" target="in the new disney movie" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the forest" target="the Nintendo game" id="0">
+      <data key="d0">is coming to</data>
+    </edge>
+    <edge source="the forest" target="a secret" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the forest" target="a secret" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cartoon character" target="in a grassy field" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="cartoon character" target="grass" id="0">
+      <data key="d0">is standing in</data>
+    </edge>
+    <edge source="cartoon character" target="grass" id="1">
+      <data key="d0">is standing in</data>
+    </edge>
+    <edge source="cartoon character" target="grass" id="2">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="cartoon character" target="tree" id="0">
+      <data key="d0">is standing in front of</data>
+    </edge>
+    <edge source="cartoon character" target="tree" id="1">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="cartoon character" target="tree" id="2">
+      <data key="d0">is standing in front of</data>
+    </edge>
+    <edge source="cartoon character" target="butterfly" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="cartoon character" target="woods" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="cartoon character" target="forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="cartoon character" target="forest" id="1">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="cartoon character" target="forest" id="2">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="cartoon character" target="forest" id="3">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="cartoon character" target="forest" id="4">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="cartoon character" target="forest" id="5">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="cartoon character" target="forest" id="6">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="cartoon character" target="forest" id="7">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="cartoon character" target="forest" id="8">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="cartoon character" target="forest" id="9">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="cartoon character" target="forest" id="10">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="cartoon character" target="forest" id="11">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="cartoon character" target="forest" id="12">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="cartoon character" target="green leaf" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="cartoon character" target="leaf" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="cartoon character" target="hand" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="cartoon character" target="rope" id="0">
+      <data key="d0">holds</data>
+    </edge>
+    <edge source="cartoon character" target="rope" id="1">
+      <data key="d0">holds</data>
+    </edge>
+    <edge source="cartoon character" target="snake" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cartoon character" target="big white rabbit" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cartoon character" target="in the woods" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="cartoon character" target="stick" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="cartoon character" target="jungle" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="cartoon character" target="jungle" id="1">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="cartoon character" target="big nose" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="cartoon character" target="big ears" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="cartoon character" target="bear" id="0">
+      <data key="d0">is with</data>
+    </edge>
+    <edge source="cartoon character" target="mouse" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cartoon character" target="mouse" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cartoon character" target="mouse" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cartoon character" target="mouse" id="3">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cartoon character" target="sky" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="cartoon character" target="sky" id="1">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="cartoon character" target="sky" id="2">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="cartoon character" target="sky" id="3">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="cartoon character" target="tree branch" id="0">
+      <data key="d0">is standing on</data>
+    </edge>
+    <edge source="cartoon character" target="monkey" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="cartoon character" target="red nose" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="cartoon character" target="blue background" id="0">
+      <data key="d0">be on</data>
+    </edge>
+    <edge source="clouds" target="white" id="0">
+      <data key="d0">have color</data>
+    </edge>
+    <edge source="cat" target="tree branch" id="0">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="cat" target="tree branch" id="1">
+      <data key="d0">is standing on</data>
+    </edge>
+    <edge source="cat" target="flowers" id="0">
+      <data key="d0">is standing in front of</data>
+    </edge>
+    <edge source="cat" target="in the middle of a field" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="cat" target="in the middle of a field" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="cat" target="grass" id="0">
+      <data key="d0">is sitting</data>
+    </edge>
+    <edge source="cat" target="grass" id="1">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="cat" target="grass" id="2">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="cat" target="grass" id="3">
+      <data key="d0">are playing in</data>
+    </edge>
+    <edge source="cat" target="grass" id="4">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="cat" target="grass" id="5">
+      <data key="d0">are playing with</data>
+    </edge>
+    <edge source="cat" target="grass" id="6">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="cat" target="next to a tree" id="0">
+      <data key="d0">is sitting</data>
+    </edge>
+    <edge source="cat" target="field" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="cat" target="in" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="cat" target="in" id="1">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="cat" target="dog" id="0">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="cat" target="are" id="0">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="cat" target="mouse" id="0">
+      <data key="d0">are playing with</data>
+    </edge>
+    <edge source="cat" target="mouse" id="1">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="cat" target="mouse" id="2">
+      <data key="d0">are with</data>
+    </edge>
+    <edge source="cat" target="mouse" id="3">
+      <data key="d0">are playing with</data>
+    </edge>
+    <edge source="cat" target="mouse" id="4">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="cat" target="butterfly" id="0">
+      <data key="d0">are standing next to</data>
+    </edge>
+    <edge source="cat" target="butterfly" id="1">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="cat" target="butterfly" id="2">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="cat" target="butterfly" id="3">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="cat" target="butterfly" id="4">
+      <data key="d0">are playing with</data>
+    </edge>
+    <edge source="cat" target="hand" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="cat" target="hand" id="1">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="cat" target="big eyes" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cat" target="big eyes" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="cat" target="big eyes" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cat" target="big eyes" id="3">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="cat" target="big nose" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cat" target="big nose" id="1">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="cat" target="big nose" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cat" target="big ears" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="cat" target="black surface" id="0">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="panda bear" target="tree branch" id="0">
+      <data key="d0">is standing on</data>
+    </edge>
+    <edge source="panda bear" target="in the grass" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a panda bear" target="a tree branch" id="0">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="a panda bear" target="a tree branch" id="1">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="a white rabbit" target="in the middle of a forest" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="a field of flowers" id="0">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="in the grass" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a white rabbit" target="in the grass" id="1">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="0">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="1">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="2">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="3">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="4">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="5">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="6">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="7">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="8">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="9">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="10">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="11">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="12">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="13">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="14">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="15">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="16">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="17">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="18">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="19">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white rabbit" target="a field" id="20">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a white rabbit" target="a butterfly on its head" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a white rabbit" target="in a field" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="in a field" id="1">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="in a field" id="2">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="in a field" id="3">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="in a field" id="4">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="in a field" id="5">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="in a field" id="6">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="in a field" id="7">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="in a field" id="8">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="with a pink butterfly" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="a pink flower" id="0">
+      <data key="d0">standing near</data>
+    </edge>
+    <edge source="a white rabbit" target="a pink flower" id="1">
+      <data key="d0">standing near</data>
+    </edge>
+    <edge source="a white rabbit" target="a red flower" id="0">
+      <data key="d0">standing near</data>
+    </edge>
+    <edge source="a white rabbit" target="trees" id="0">
+      <data key="d0">in front of</data>
+    </edge>
+    <edge source="a white rabbit" target="trees" id="1">
+      <data key="d0">in front of</data>
+    </edge>
+    <edge source="a white rabbit" target="flowers" id="0">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="a white rabbit" target="flowers" id="1">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="a white rabbit" target="a red ball" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="a white rabbit" target="a red ball" id="1">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="a white rabbit" target="a red ball" id="2">
+      <data key="d0">standing near</data>
+    </edge>
+    <edge source="a white rabbit" target="a red ball" id="3">
+      <data key="d0">standing near</data>
+    </edge>
+    <edge source="a white rabbit" target="a red ball" id="4">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="a white rabbit" target="a tree" id="0">
+      <data key="d0">standing next to</data>
+    </edge>
+    <edge source="a white rabbit" target="a tree" id="1">
+      <data key="d0">standing next to</data>
+    </edge>
+    <edge source="a white rabbit" target="a red apple" id="0">
+      <data key="d0">standing near</data>
+    </edge>
+    <edge source="a white rabbit" target="with trees" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="with flowers" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="a field with trees and flowers" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a white rabbit" target="a carrot" id="0">
+      <data key="d0">standing near</data>
+    </edge>
+    <edge source="a white rabbit" target="with a carrot" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="a purple butterfly" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="a white rabbit" target="a butterfly flying above it" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="a white rabbit" target="a purple hat" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a white rabbit" target="a butterfly" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="a white rabbit" target="a butterfly flying around" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="a white rabbit" target="a butterfly flying overhead" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="a white rabbit" target="a field with a sky background" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a white rabbit" target="with a sky background" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="near it" id="0">
+      <data key="d0">has a sky background</data>
+    </edge>
+    <edge source="a white rabbit" target="through a field" id="0">
+      <data key="d0">is running</data>
+    </edge>
+    <edge source="a white rabbit" target="in the woods" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white rabbit" target="a hole" id="0">
+      <data key="d0">is looking out from</data>
+    </edge>
+    <edge source="the white rabbit" target="in the middle of a forest" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white cat" target="in the middle of a field" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a white cat" target="in the middle of a field" id="1">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a white cat" target="a field of flowers" id="0">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white cat" target="in a field" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="the cat" target="in the middle of a field" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="the cat" target="the mouse" id="0">
+      <data key="d0">are with</data>
+    </edge>
+    <edge source="the cat" target="the forest" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the cat" target="the bamboo stick" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="the cat" target="in the middle of a forest" id="0">
+      <data key="d0">is sitting</data>
+    </edge>
+    <edge source="a pig" target="in a field with flowers" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a pig" target="a field with flowers" id="0">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a cat" target="on a tree branch" id="0">
+      <data key="d0">is climbing</data>
+    </edge>
+    <edge source="a cat" target="on a tree branch" id="1">
+      <data key="d0">is climbing</data>
+    </edge>
+    <edge source="a cat" target="a butterfly" id="0">
+      <data key="d0">is playing with</data>
+    </edge>
+    <edge source="a cat" target="the grass" id="0">
+      <data key="d0">is playing with</data>
+    </edge>
+    <edge source="a cat" target="big eyes" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a cat" target="big eyes" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a cat" target="a big nose" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a cat" target="a bamboo stick" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="a cat" target="a bamboo stick" id="1">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="a cat" target="a rope" id="0">
+      <data key="d0">is hanging from</data>
+    </edge>
+    <edge source="a cat" target="the jungle" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a cat" target="in the middle of a forest" id="0">
+      <data key="d0">is sitting</data>
+    </edge>
+    <edge source="a cat" target="the woods" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a cat" target="the woods" id="1">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a cat" target="a cat" id="0">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="a cat" target="big ears" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="two dogs" target="in the grass with flowers" id="0">
+      <data key="d0">playing</data>
+    </edge>
+    <edge source="a butterfly" target="a white rabbit" id="0">
+      <data key="d0">flying around</data>
+    </edge>
+    <edge source="a butterfly" target="above a rabbit" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="the grass" target="a rock" id="0">
+      <data key="d0">is next to</data>
+    </edge>
+    <edge source="the grass" target="a tree" id="0">
+      <data key="d0">is next to</data>
+    </edge>
+    <edge source="the grass" target="a tree" id="1">
+      <data key="d0">is next to</data>
+    </edge>
+    <edge source="the grass" target="a tree" id="2">
+      <data key="d0">is next to</data>
+    </edge>
+    <edge source="dog" target="butterfly" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="dog" target="butterfly" id="1">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="dog" target="butterfly" id="2">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="dog" target="grass" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="dog" target="grass" id="1">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="dog" target="grass" id="2">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="dog" target="cat" id="0">
+      <data key="d0">is next to</data>
+    </edge>
+    <edge source="dog" target="field" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="dog" target="field" id="1">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="dog" target="in" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="dog" target="are" id="0">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="dog" target="tree" id="0">
+      <data key="d0">is standing next to</data>
+    </edge>
+    <edge source="dog" target="air" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="dog" target="mouth open" id="0">
+      <data key="d0">having</data>
+    </edge>
+    <edge source="butterfly" target="field" id="0">
+      <data key="d0">is flying over</data>
+    </edge>
+    <edge source="butterfly" target="pink" id="0">
+      <data key="d0">has color</data>
+    </edge>
+    <edge source="butterfly" target="cat" id="0">
+      <data key="d0">are standing next to</data>
+    </edge>
+    <edge source="butterfly" target="screen" id="0">
+      <data key="d0">on</data>
+    </edge>
+    <edge source="a pink butterfly" target="with a white rabbit" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a tree" target="in a field" id="0">
+      <data key="d0">is located</data>
+    </edge>
+    <edge source="a tree" target="a field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a tree" target="grass" id="0">
+      <data key="d0">is surrounded by</data>
+    </edge>
+    <edge source="a tree" target="trees" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="a tree" target="a rabbit" id="0">
+      <data key="d0">located near</data>
+    </edge>
+    <edge source="a tree" target="a bird flying above it" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a white bear" target="a field with trees" id="0">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a white bear" target="in a field with trees" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="a white bear" target="a lush green field" id="0">
+      <data key="d0">standing in</data>
+    </edge>
+    <edge source="a sheep" target="in a field" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a sheep" target="near a tree" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="the secret" target="the secret" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the secret" target="the secret" id="1">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the secret" target="the secret" id="2">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the secret" target="the secret" id="3">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the secret" target="the secret" id="4">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the secret" target="the secret" id="5">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the secret" target="the secret" id="6">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the secret" target="the secret" id="7">
+      <data key="d0">of</data>
+    </edge>
+    <edge source="the secret" target="the secret" id="8">
+      <data key="d0">of</data>
+    </edge>
+    <edge source="the secret" target="of the secret" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the secret" target="the forest" id="0">
+      <data key="d0">of</data>
+    </edge>
+    <edge source="the secret" target="the Nintendo game" id="0">
+      <data key="d0">is coming to</data>
+    </edge>
+    <edge source="the secret" target="the secret island" id="0">
+      <data key="d0">is located on</data>
+    </edge>
+    <edge source="the secret" target="the jungle" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="the secret" target="the secret of the secret" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the secret" target="the secret of the secret of the secret" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the secret" target="the secret of the secret of the secret of the secret" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the secret" target="the secret of the secret of the secret of the secret of the secret" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the secret" target="the secret of the secret of the secret of the secret of the secret of the secret" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the Chipettes" target="the movie" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the Chipettes" target="the middle of the movie" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the Chipettes" target="the Chipettes movie" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the Chipettes" target="the Chipettes movie" id="1">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the Chipettes" target="the middle of the scene" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the Chipettes" target="the forest" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the Chipettes" target="the movie Chipettes" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a large rock" target="a grassy field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="giant rock" target="field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="rock" target="middle of field" id="0">
+      <data key="d0">stands in</data>
+    </edge>
+    <edge source="rock" target="forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a small squirrel" target="in the grass" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a squirrel" target="in the grass" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a squirrel" target="next to a rock" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a squirrel" target="the woods" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a squirrel" target="the woods" id="1">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a squirrel" target="the woods" id="2">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a squirrel" target="the woods" id="3">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a squirrel" target="on a tree" id="0">
+      <data key="d0">is climbing</data>
+    </edge>
+    <edge source="a squirrel" target="in the woods" id="0">
+      <data key="d0">is located</data>
+    </edge>
+    <edge source="a squirrel" target="a tree" id="0">
+      <data key="d0">is climbing on</data>
+    </edge>
+    <edge source="a squirrel" target="a ball" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="a squirrel" target="its mouth" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="a squirrel" target="a branch" id="0">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="a squirrel" target="a branch" id="1">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="a squirrel" target="in the forest" id="0">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="a squirrel" target="in the forest" id="1">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="a squirrel" target="a rock" id="0">
+      <data key="d0">is standing on</data>
+    </edge>
+    <edge source="a squirrel" target="a rock" id="1">
+      <data key="d0">is standing on</data>
+    </edge>
+    <edge source="a squirrel" target="top of a tree branch" id="0">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a squirrel" target="top of a tree branch" id="1">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a squirrel" target="top of a tree branch" id="2">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a squirrel" target="through the air" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="a squirrel" target="through the air" id="1">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="a squirrel" target="its wings" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="a squirrel" target="through the sky" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="a squirrel" target="a tree branch" id="0">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="a squirrel" target="a tree branch" id="1">
+      <data key="d0">is hanging from</data>
+    </edge>
+    <edge source="a squirrel" target="a tree branch" id="2">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="a squirrel" target="a forest" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a squirrel" target="the jungle" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a squirrel" target="the jungle" id="1">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a squirrel" target="the jungle" id="2">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a squirrel" target="the jungle" id="3">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a squirrel" target="the jungle" id="4">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="a squirrel" target="the jungle" id="5">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="kangaroo" target="grass" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="kangaroo" target="tree" id="0">
+      <data key="d0">next to</data>
+    </edge>
+    <edge source="kangaroo" target="squirrel" id="0">
+      <data key="d0">are in the same scene as</data>
+    </edge>
+    <edge source="kangaroo" target="kangaroo" id="0">
+      <data key="d0">is with</data>
+    </edge>
+    <edge source="kangaroo" target="jungle" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="squirrel" target="butterfly" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="squirrel" target="sky" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="squirrel" target="arms" id="0">
+      <data key="d0">having</data>
+    </edge>
+    <edge source="squirrel" target="air" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="squirrel" target="air" id="1">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="squirrel" target="air" id="2">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="squirrel" target="air" id="3">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="squirrel" target="air" id="4">
+      <data key="d0">through</data>
+    </edge>
+    <edge source="squirrel" target="open mouth" id="0">
+      <data key="d0">having</data>
+    </edge>
+    <edge source="squirrel" target="Madagascar" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="squirrel" target="tail" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="the secret island" target="the secret of the secret island" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="a dog" target="in the grass" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="the woods" target="a rabbit" id="0">
+      <data key="d0">containing</data>
+    </edge>
+    <edge source="a bird" target="in the woods" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="a bird" target="in the sky" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="a bird" target="in the sky" id="1">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="a bird" target="in the sky" id="2">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="a bird" target="in the sky" id="3">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="a bird" target="above a tree" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="a bird" target="over a bird" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="a bird" target="over a bird" id="1">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="a bird" target="over a bird" id="2">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="a bird" target="over a bird" id="3">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="a bird" target="over a bird" id="4">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="a bird" target="the sky" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a bird" target="the sky" id="1">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a small bird" target="in the grass" id="0">
+      <data key="d0">is sitting</data>
+    </edge>
+    <edge source="a small bird" target="in the grass" id="1">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a small bird" target="on the ground" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a small bird" target="top of a tree branch" id="0">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a small bird" target="top of a tree branch" id="1">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a small white dog" target="in the grass" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a small white bird" target="top of a lush green field" id="0">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="the fox" target="the game" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the fox" target="the wolf" id="0">
+      <data key="d0">is with</data>
+    </edge>
+    <edge source="the fox" target="the wolf" id="1">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="the fox" target="the animated movie" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the fox" target="the animated movie" id="1">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the fox" target="a field" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the fox" target="a field" id="1">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the fox" target="the hound" id="0">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="the fox" target="the hound" id="1">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="the fox" target="the rabbit" id="0">
+      <data key="d0">is with</data>
+    </edge>
+    <edge source="the wolf" target="the game" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="the wolf" target="the fox" id="0">
+      <data key="d0">is with</data>
+    </edge>
+    <edge source="the wolf" target="a field" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the wolf" target="a field" id="1">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the animals" target="in the grass" id="0">
+      <data key="d0">are playing</data>
+    </edge>
+    <edge source="the animated animated movie" target="to theaters" id="0">
+      <data key="d0">is coming</data>
+    </edge>
+    <edge source="the animated movie" target="theaters" id="0">
+      <data key="d0">is coming to</data>
+    </edge>
+    <edge source="the animated movie" target="a scene from the animated animated film" id="0">
+      <data key="d0">is shown in</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="2">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="3">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="4">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="5">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="6">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="7">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="8">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="9">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="10">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="11">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="12">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="the gruff" id="13">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the gruff" target="a scene from the animated animated film" id="0">
+      <data key="d0">is shown in</data>
+    </edge>
+    <edge source="squirrel island" target="secret" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="donkey" target="field" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="donkey" target="sky" id="0">
+      <data key="d0">with</data>
+    </edge>
+    <edge source="a ball" target="a field" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a small rabbit" target="in the grass" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="a sky" target="above a field" id="0">
+      <data key="d0">visible</data>
+    </edge>
+    <edge source="a flower" target="the word 'sunflower'" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the new trailer" target="the littlestuf" id="0">
+      <data key="d0">is for</data>
+    </edge>
+    <edge source="the new trailer" target="the upcoming pokemon movie" id="0">
+      <data key="d0">is for</data>
+    </edge>
+    <edge source="the new trailer" target="the chipettes" id="0">
+      <data key="d0">is for</data>
+    </edge>
+    <edge source="the new trailer" target="the secret squirrel" id="0">
+      <data key="d0">is for</data>
+    </edge>
+    <edge source="the littlestuf" target="animated movie" id="0">
+      <data key="d0">is an</data>
+    </edge>
+    <edge source="new animal simulator" target="" id="0">
+      <data key="d0">is coming</data>
+    </edge>
+    <edge source="animal simulator" target="new" id="0">
+      <data key="d0">is coming</data>
+    </edge>
+    <edge source="the gruff gruffs" target="in the grass" id="0">
+      <data key="d0">are playing</data>
+    </edge>
+    <edge source="the gruff gruffs" target="in the grass" id="1">
+      <data key="d0">are playing</data>
+    </edge>
+    <edge source="the gruff gruffs" target="the forest" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the gruff gruffs" target="the forest" id="1">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the gruff gruffs" target="in a row" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="mouse" target="cat" id="0">
+      <data key="d0">are playing with</data>
+    </edge>
+    <edge source="mouse" target="cat" id="1">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="mouse" target="cat" id="2">
+      <data key="d0">are playing with</data>
+    </edge>
+    <edge source="mouse" target="grass" id="0">
+      <data key="d0">are playing in</data>
+    </edge>
+    <edge source="mouse" target="grass" id="1">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="mouse" target="grass" id="2">
+      <data key="d0">are playing with</data>
+    </edge>
+    <edge source="mouse" target="grass" id="3">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="mouse" target="butterfly" id="0">
+      <data key="d0">are playing with</data>
+    </edge>
+    <edge source="mouse" target="in" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="mouse" target="forest" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="mouse" target="jungle" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="mouse" target="air" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="mouse" target="air" id="1">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="cartoon squirrel" target="butterfly" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="cartoon cat" target="butterfly" id="0">
+      <data key="d0">is holding</data>
+    </edge>
+    <edge source="bear" target="dog" id="0">
+      <data key="d0">are with</data>
+    </edge>
+    <edge source="bear" target="field" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="bear" target="middle" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="bear" target="forest" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="bear" target="woods" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="group" target="field" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="animals" target="field" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="the lion" target="in the middle of the scene" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="the lion" target="the mouse" id="0">
+      <data key="d0">and</data>
+    </edge>
+    <edge source="the mouse" target="in the middle of the scene" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="the mouse" target="the forest" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the mouse" target="in the middle of a forest" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="bigfoot" target="tree" id="0">
+      <data key="d0">standing next to</data>
+    </edge>
+    <edge source="bigfoot" target="jungle" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="bigfoot" target="jungle" id="1">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="bigfoot" target="jungle" id="2">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="bigfoot" target="jungle" id="3">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="bigfoot" target="jungle" id="4">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="bigfoot" target="jungle" id="5">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="bigfoot" target="mouse" id="0">
+      <data key="d0">is with</data>
+    </edge>
+    <edge source="elephant" target="woods" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a big grey rabbit" target="in the woods" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="polar bear" target="rocky area" id="0">
+      <data key="d0">walking</data>
+    </edge>
+    <edge source="polar bear" target="woods" id="0">
+      <data key="d0">is walking</data>
+    </edge>
+    <edge source="a small white mouse" target="in the woods" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a small mouse" target="in the middle of a forest" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a small mouse" target="in the forest" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a small mouse" target="the jungle" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a small mouse" target="the ground" id="0">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a small mouse" target="the ground" id="1">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a small mouse" target="a forest" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a small mouse" target="a forest" id="1">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a small mouse" target="a forest" id="2">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="person" target="piece of wood" id="0">
+      <data key="d0">is cutting</data>
+    </edge>
+    <edge source="person" target="air" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="person" target="kite" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="person" target="black" id="0">
+      <data key="d0">appear</data>
+    </edge>
+    <edge source="a small dinosaur" target="in the grass" id="0">
+      <data key="d0">is standing</data>
+    </edge>
+    <edge source="a monkey" target="big eyes" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a monkey" target="a big nose" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a monkey" target="top of a tree branch" id="0">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a monkey" target="off a branch" id="0">
+      <data key="d0">is jumping</data>
+    </edge>
+    <edge source="a monkey" target="through the sky" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="a monkey" target="its arms outstretched" id="0">
+      <data key="d0">having</data>
+    </edge>
+    <edge source="a monkey" target="a tree branch" id="0">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="a monkey" target="a branch" id="0">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="a monkey" target="in the jungle" id="0">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="monkey" target="mouth open" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="monkey" target="eyes open" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="monkey" target="sky" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="fox" target="tree" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="fox" target="blue background" id="0">
+      <data key="d0">is on</data>
+    </edge>
+    <edge source="a fox" target="a field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a fox" target="trees" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="a fox" target="grass" id="0">
+      <data key="d0">is on</data>
+    </edge>
+    <edge source="a fox" target="a swing" id="0">
+      <data key="d0">is swinging on</data>
+    </edge>
+    <edge source="a fox" target="the forest" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a kangaroo" target="a tree" id="0">
+      <data key="d0">is climbing</data>
+    </edge>
+    <edge source="a kangaroo" target="the jungle" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="flower" target="white" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="flower" target="white" id="1">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="flower" target="red" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="flower" target="red" id="1">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="deer" target="field" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="deer" target="forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="animal" target="forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="blue sky" target="background" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="trailer" target="new" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="trailer" target="new" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="sonic" target="new" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="sonic" target="new" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the chipettes" target="the new trailer" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="the secret squirrel" target="upcoming animated movie" id="0">
+      <data key="d0">is an</data>
+    </edge>
+    <edge source="the rabbit" target="the animated movie" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a fruit" target="through the air" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="a fruit" target="a forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="road" target="trees" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="road" target="trees" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="road" target="bright blue sky" id="0">
+      <data key="d0">is under</data>
+    </edge>
+    <edge source="road" target="bright blue sky" id="1">
+      <data key="d0">is under</data>
+    </edge>
+    <edge source="a mouse" target="the jungle" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a mouse" target="the jungle" id="1">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a mouse" target="the jungle" id="2">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a mouse" target="a table" id="0">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="ratman" target="the ratman's tale" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="ratman" target="the ratman's tale" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="ratman" target="the game of ratman" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="cartoon bear" target="mouse" id="0">
+      <data key="d0">is with</data>
+    </edge>
+    <edge source="cartoon bear" target="forest" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="cartoon bear" target="woods" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="a large white bear" target="a small gray bear" id="0">
+      <data key="d0">is near</data>
+    </edge>
+    <edge source="a large white bear" target="a small gray bear" id="1">
+      <data key="d0">is with</data>
+    </edge>
+    <edge source="a large white bear" target="a forest" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a small gray bear" target="a forest" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a large bear" target="a small mouse" id="0">
+      <data key="d0">is with</data>
+    </edge>
+    <edge source="a large bear" target="a forest" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a white Pokemon" target="a forest" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="the angry birds" target="a tree branch" id="0">
+      <data key="d0">are perched on</data>
+    </edge>
+    <edge source="the angry birds" target="a tree branch" id="1">
+      <data key="d0">are perched on</data>
+    </edge>
+    <edge source="the angry birds" target="the tree" id="0">
+      <data key="d0">are in</data>
+    </edge>
+    <edge source="ant" target="image" id="0">
+      <data key="d0">is present in</data>
+    </edge>
+    <edge source="large ant" target="image" id="0">
+      <data key="d0">is present in</data>
+    </edge>
+    <edge source="cloud" target="sky" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="the sky" target="blue" id="0">
+      <data key="d0">being</data>
+    </edge>
+    <edge source="the sky" target="a bird flying in it" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="branches" target="oranges" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="a small orange fruit" target="through the air" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="an orange" target="the middle of a forest" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="an orange apple" target="a tall plant" id="0">
+      <data key="d0">is sitting on</data>
+    </edge>
+    <edge source="the elder's forest" target="guild" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="the elder's forest" target="world of war" id="0">
+      <data key="d0">is in</data>
+    </edge>
+    <edge source="a ham" target="through the sky" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="a pile of green leaves" target="the ground" id="0">
+      <data key="d0">is located on</data>
+    </edge>
+    <edge source="a green tree" target="leaves" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a green tree" target="the sky" id="0">
+      <data key="d0">is located in</data>
+    </edge>
+    <edge source="a cartoon character" target="through a forest" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="bunch" target="flowers" id="0">
+      <data key="d0">of</data>
+    </edge>
+    <edge source="paco" target="screen" id="0">
+      <data key="d0">appear on</data>
+    </edge>
+    <edge source="paco" target="screen" id="1">
+      <data key="d0">appear on</data>
+    </edge>
+    <edge source="screen" target="butterfly" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="screen" target="black background" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="screen" target="background" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="screen" target="text" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="words" target="peachn mean" id="0">
+      <data key="d0">are</data>
+    </edge>
+    <edge source="words" target="peachn mean" id="1">
+      <data key="d0">are written</data>
+    </edge>
+    <edge source="words" target="background" id="0">
+      <data key="d0">are on</data>
+    </edge>
+    <edge source="music" target="sound design" id="0">
+      <data key="d0">is related to</data>
+    </edge>
+    <edge source="jan morstern" target="music" id="0">
+      <data key="d0">created</data>
+    </edge>
+    <edge source="red balloon" target="sky" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="a fish" target="in the water" id="0">
+      <data key="d0">is swimming</data>
+    </edge>
+    <edge source="a red fox" target="through the air" id="0">
+      <data key="d0">is flying</data>
+    </edge>
+    <edge source="red fox" target="blue background" id="0">
+      <data key="d0">is located on</data>
+    </edge>
+    <edge source="red fox" target="air" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="the cran" target="movie poster" id="0">
+      <data key="d0">is a</data>
+    </edge>
+    <edge source="movie poster" target="the movie's title" id="0">
+      <data key="d0">belongs to</data>
+    </edge>
+    <edge source="movie poster" target="the little prince" id="0">
+      <data key="d0">is for</data>
+    </edge>
+    <edge source="movie poster" target="words" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="movie poster" target="mouse" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="movie poster" target="mouse" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="movie poster" target="film" id="0">
+      <data key="d0">belongs to</data>
+    </edge>
+    <edge source="poster" target="movie's first installment" id="0">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="poster" target="movie's first installment" id="1">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="poster" target="movie's first installment" id="2">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="poster" target="movie's first installment" id="3">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="poster" target="movie's first installment" id="4">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="poster" target="title" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="poster" target="title" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="poster" target="title" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="poster" target="title" id="3">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="poster" target="title" id="4">
+      <data key="d0">is of</data>
+    </edge>
+    <edge source="poster" target="mice" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="poster" target="man" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="poster" target="movie" id="0">
+      <data key="d0">is_for</data>
+    </edge>
+    <edge source="poster" target="movie" id="1">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="poster" target="elephant" id="0">
+      <data key="d0">features</data>
+    </edge>
+    <edge source="poster" target="movie_special" id="0">
+      <data key="d0">is_for</data>
+    </edge>
+    <edge source="poster" target="concert" id="0">
+      <data key="d0">is_for</data>
+    </edge>
+    <edge source="poster" target="concert" id="1">
+      <data key="d0">for</data>
+    </edge>
+    <edge source="poster" target="concert" id="2">
+      <data key="d0">for</data>
+    </edge>
+    <edge source="poster" target="film" id="0">
+      <data key="d0">belong to</data>
+    </edge>
+    <edge source="poster" target="names" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="poster" target="horse" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the movie poster" target="the littlestuf" id="0">
+      <data key="d0">shows</data>
+    </edge>
+    <edge source="the movie poster" target="the littlestuf" id="1">
+      <data key="d0">is for</data>
+    </edge>
+    <edge source="mice" target="air" id="0">
+      <data key="d0">are flying</data>
+    </edge>
+    <edge source="the green screen" target="green color" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the green screen" target="words" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="the Matrix" target="a trilogy" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the album" target="the green room" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the album" target="the best of the best of the best" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="menu" target="butterfly" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="menu" target="screen" id="0">
+      <data key="d0">is shown on</data>
+    </edge>
+    <edge source="the title" target="for the movie" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the title" target="the movie" id="0">
+      <data key="d0">is for</data>
+    </edge>
+    <edge source="the title" target="the dark knight" id="0">
+      <data key="d0">is for</data>
+    </edge>
+    <edge source="the dark knight" target="the title" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the last days" target="the movie" id="0">
+      <data key="d0">are of</data>
+    </edge>
+    <edge source="blackboard" target="flowers" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a screen" target="bunch of flowers" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="a screen" target="flowers" id="0">
+      <data key="d0">contains</data>
+    </edge>
+    <edge source="a black and white cat" target="a black screen" id="0">
+      <data key="d0">sitting on</data>
+    </edge>
+    <edge source="a black screen" target="different names" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the cover" target="of the book" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover" target="of the book" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover" target="of the book" id="2">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover" target="the album 'all of the collective'" id="0">
+      <data key="d0">is of</data>
+    </edge>
+    <edge source="the book" target="of the year" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the book" target="of the book" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the book" target="of the book" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the book" target="book of the book" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the cover of the book" target="the book of the dead" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the book of the dead" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the book of the dead" id="2">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the book of the dead" id="3">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the book of the dead" id="4">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the book of the dead" id="5">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the book of the dead" id="6">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the book of the year" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the book of the year" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the book of the year" id="2">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the book of the year" id="3">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the book of the year" id="4">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the book of the day" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the title of the book" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the cover of the book" target="the art of the modern age" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the cover of the book" target="the art of the narrative" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="film" target="first ever" id="0">
+      <data key="d0">have</data>
+    </edge>
+    <edge source="names" target="films" id="0">
+      <data key="d0">of</data>
+    </edge>
+    <edge source="the back cover of the book" target="the book of the dead" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the back cover of the book" target="the book of the dead" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the back cover of the book" target="the book of the dead" id="2">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the back cover of the book" target="the book of the dead" id="3">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the back cover of the book" target="the book of the dead" id="4">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the book of the book" target="of the book" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the book of the book of the book" target="of the book" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the book of the book of the book of the book" target="of the book" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the poster" target="the dark knight" id="0">
+      <data key="d0">is for</data>
+    </edge>
+    <edge source="the poster" target="the last days" id="0">
+      <data key="d0">shows</data>
+    </edge>
+    <edge source="the poster for the film" target="the film" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the film" target="shown in black and white" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="the title of the book" target="the title of the book" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="text" target="'black, black, black, black, black'" id="0">
+      <data key="d0">reads</data>
+    </edge>
+    <edge source="text" target="back to the future" id="0">
+      <data key="d0">reads</data>
+    </edge>
+    <edge source="text" target="digital blend" id="0">
+      <data key="d0">reads</data>
+    </edge>
+    <edge source="text" target="white" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="text" target="white" id="1">
+      <data key="d0">appear</data>
+    </edge>
+    <edge source="text" target="screen" id="0">
+      <data key="d0">reads</data>
+    </edge>
+    <edge source="text" target="screen" id="1">
+      <data key="d0">reads</data>
+    </edge>
+    <edge source="text" target="black and white" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="text" target="black and white" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="text" target="" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="text" target="big bunny" id="0">
+      <data key="d0">reads</data>
+    </edge>
+    <edge source="a white butterfly" target="through the air" id="0">
+      <data key="d0">flying</data>
+    </edge>
+    <edge source="Mario" target="sword" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="sword" target="player's hand" id="0">
+      <data key="d0">attached</data>
+    </edge>
+    <edge source="Luigi" target="next to Mario" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="player" target="sword" id="0">
+      <data key="d0">holding</data>
+    </edge>
+    <edge source="player" target="mountain" id="0">
+      <data key="d0">standing</data>
+    </edge>
+    <edge source="player" target="horizon" id="0">
+      <data key="d0">looking</data>
+    </edge>
+    <edge source="mountain" target="background" id="0">
+      <data key="d0">in</data>
+    </edge>
+    <edge source="days" target="" id="0">
+      <data key="d0">be the last</data>
+    </edge>
+    <edge source="the back cover of the album" target="the best of the best" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the back cover of the album" target="the best of the best" id="1">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="the back cover of the album" target="the best of the best" id="2">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="electrical equipment" target="black screen" id="0">
+      <data key="d0">are present on</data>
+    </edge>
+    <edge source="black screen" target="white text" id="0">
+      <data key="d0">has</data>
+    </edge>
+    <edge source="different types of electrical equipment" target="black screen" id="0">
+      <data key="d0">are visible on</data>
+    </edge>
+    <edge source="the text on the screen" target="' the world 's greatest music'" id="0">
+      <data key="d0">reads</data>
+    </edge>
+    <edge source="the text on the screen" target="' the world 's greatest music'" id="1">
+      <data key="d0">reads</data>
+    </edge>
+    <edge source="the screen" target="Windows XP server" id="0">
+      <data key="d0">is of</data>
+    </edge>
+    <edge source="big bunny" target="I'm" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="big bunny" target="big bunny fts" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="big bunny" target="big bunny fts" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="big bunny" target="big bunny fts" id="2">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="big bunny" target="big bunny" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="big bunny" target="big bunny" id="1">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="bunny" target="screenshote" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="bunny" target="official" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="bunny" target="big" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="video" target="official" id="0">
+      <data key="d0">be</data>
+    </edge>
+    <edge source="it" target="a big bunny" id="0">
+      <data key="d0">is</data>
+    </edge>
+    <edge source="woman" target="dress" id="0">
+      <data key="d0">in</data>
+    </edge>
+  </graph>
+</graphml>
